@@ -1,7 +1,29 @@
+require 'rubygems'
+require 'mongo'
+
 source 'http://rubygems.org'
 source 'http://gemcutter.org'
 
 gem 'rails', '3.0.9'
+gem 'bson_ext'
+gem 'mongo_mapper'
+
+group :development do
+  gem "nifty-generators"
+  gem 'annotate', '2.4.0'
+end
+
+group :test, :spec, :cucumber do
+  gem "mocha"
+  gem "rspec"
+  gem "rspec-rails", ">= 2.0.0.beta"
+  gem "capybara"
+  gem "cucumber"
+  gem "database_cleaner"
+  gem "cucumber-rails"
+  gem "spork", "0.9.0.rc8"
+  gem "launchy"
+end
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -29,3 +51,4 @@ gem 'rails', '3.0.9'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
