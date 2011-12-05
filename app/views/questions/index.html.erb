@@ -1,18 +1,10 @@
 <% title "Questions" %>
 
-<table>
-  <tr>
-    <th>Name</th>
-  </tr>
-  <% for question in @questions %>
-    <tr>
-      <td><%= question.question %></td>
-      <td><%= question.answer %></td>
-      <td><%= link_to "Show", question %></td>
-      <td><%= link_to "Edit", edit_question_path(question) %></td>
-      <td><%= link_to "Destroy", question, :confirm => 'Are you sure?', :method => :delete %></td>
-    </tr>
-  <% end %>
-</table>
+<div><%= @question.question %></div>
+<%= form_for @user_answer do |f| %>
+  <div><%= f.label :answer %></div>
+  <div><%= f.text_field :answer %></div>
+  <div id="sign_up_button"><%= f.submit "Submit answer" %></div>
+<% end %>
 
 <p><%= link_to "New Question", new_question_path %></p>

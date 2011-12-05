@@ -1,4 +1,6 @@
 Quizler::Application.routes.draw do
+  resources :user_answers
+
   resources :questions
 
   resources :users

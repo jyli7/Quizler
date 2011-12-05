@@ -1,0 +1,12 @@
+<% title "User Answer" %>
+
+<p>
+  <strong>Answer:</strong>
+  <%= @user_answer.answer %>
+</p>
+
+<p>
+  <%= link_to "Edit", edit_user_answer_path(@user_answer) %> |
+  <%= link_to "Destroy", @user_answer, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", user_answers_path %>
+</p>

@@ -46,6 +46,9 @@ def form_qa_array!(dir)
 end
 
 def add_questions_to_database!
+  Question.all.each do |q|
+    q.destroy
+  end
   @qa_array.each do |qa_pair|
     begin
       Question.create!({:question => "#{qa_pair[0]}", :answer => "#{qa_pair[1]}", :num => "#{@question_count}"})
@@ -56,7 +59,7 @@ def add_questions_to_database!
   end
 end
 
-task :get_all_questions => :environment do
+task :store_questions => :environment do
   @question_count = 0
   form_qa_array!("public/data")
   add_questions_to_database!

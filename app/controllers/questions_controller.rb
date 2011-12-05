@@ -1,6 +1,7 @@
 class QuestionsController < ApplicationController
   def index
-    @questions = Question.all
+    @question = Question.gimme_rand_question
+    @user_answer = UserAnswer.new
   end
 
   def show

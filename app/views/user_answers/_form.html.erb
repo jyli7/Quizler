@@ -1,0 +1,8 @@
+<%= form_for @user_answer do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :answer %><br />
+    <%= f.text_field :answer %>
+  </p>
+  <p><%= f.submit %></p>
+<% end %>

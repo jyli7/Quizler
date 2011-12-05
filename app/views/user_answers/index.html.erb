@@ -1,0 +1,17 @@
+<% title "User Answers" %>
+
+<table>
+  <tr>
+    <th>Answer</th>
+  </tr>
+  <% for user_answer in @user_answers %>
+    <tr>
+      <td><%= user_answer.answer %></td>
+      <td><%= link_to "Show", user_answer %></td>
+      <td><%= link_to "Edit", edit_user_answer_path(user_answer) %></td>
+      <td><%= link_to "Destroy", user_answer, :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New User Answer", new_user_answer_path %></p>
