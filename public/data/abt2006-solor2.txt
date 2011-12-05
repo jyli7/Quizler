@@ -1,0 +1,62 @@
+2006 UIUC ABT High School Solo Round 2
+Questions by Donald Taylor, Sudheer Potru, and Mike Sorice
+
+1.  Enceladus has the highest measured one, about 0.8.  Earth's is about 0.39, fresh snow's is 0.6, and the moon's is 0.12.  Calculated through Kirchoff's Law, it is seen when we are warmer while wearing dark clothing outside when the sun is out.  By definition, it is ratio of total scattered power to the incident power.  For ten points, name this measure of reflectivity of a surface.
+ANSWER: simple albedo
+
+2.  The members of this family include Amaranta, who dies a virgin and is jealous of Rebeca, whom she believes stole Pietro from her.  Arcadio is the schoolmaster of Macondo, Colonel Aureliano is the rebel commander of the Liberal Army, and Aureliano II, who has the tail of a pig.  For ten points, name the family that is the focus of the Gabriel Garcia Marquez novel One Hundred Years of Solitude.
+ANSWER:  Buendia(s) family
+
+3.  Calculation:  20 seconds.  A bag contains 4 white counters, 6 black counters, and 2 green counters.  What is the probability of randomly drawing a counter that is not green?
+ANSWER:  5/6
+
+4.  He fought in various guerrilla groups, eventually joining the Northeast Anti-Japanese United Army, a group led by the Communist Party of China.  After being driven out of China, he joined the Soviet Red Army and became a Captain in 1941.  He was installed as the head of the Provisional People's Committee in 1945, and became the head of the Korean Workers' party in 1949.  For ten points, name this former Prime Minister of North Korea and father of Kim Jong Il.
+ANSWER:  Kim Il Sung
+
+5.  A head of one of them is found on many shields such as the aegis [EE-jis] and that of Agamemnon.  Covered with impenetrable scales, they had hands of brass, sharp fangs, and beards.  They are the daughters of Phorcys [FOR-sis] and Keto, and it is argued as to whether only one or all three of them had living snakes for hair.  For ten points, give the name for the trio of Stheno, Euryale [YOO-ree-uh-lee], and Medusa, three ugly women whose stares would turn mortals into stone.
+ANSWER:  Gorgons
+
+6.  He is the only main character who meets with Malcolm after the title character assumes the throne.  The new ruler, referred to not as a king but a tyrant, has this man's wife and son killed, and is the only person who can kill the title character due to the nature of his birth.  For ten points, name this character that is "not of woman born" and ends up killing MacBeth at the end of the play.
+ANSWER:  MacDuff
+
+7.  The Goldmann-Hodgkin-Katz voltage equation for membrane potential reduces to it in the case of one ion.  At standard state and with the use of a base-10 logarithm, the constant term in it comes out to about 0.0592, and it can be derived from the equation linking the free energy change of a reaction to its reaction quotient.  Most often used in concentration cells with nonstandard cell potentials, for 10 points, name this equation of electrochemistry.
+ANSWER: Nernst equation
+
+8.  Calculation:  20 seconds.  Leaving in terms of ¹, find the volume of the solid formed by rotating the region bounded by the x-axis, x=1, x=4, and the curve y=Ãx around the x axis.
+ANSWER:  15¹/2
+
+9.  It derives its name from a chapel in the church in which  Fillipo Neri used to deliver his sermons on Biblical history.  Some composed by Haydn include The Creation and The Seasons, and Mendelssohn composed one entitled Elijah.  However, the composer most famous for them created such examples as Athalia and Solomon.  For ten points, identify the style of choral music whose most famous example is The Messiah by Handel.
+ANSWER:  oratorio
+
+10.  The first one occurred in 1419 when a group of radical Hussites killed seven members of the city council.  The second and more famous one occurred at a castle where two Imperial governors were tried and found guilty, after which the namesake action occurred and the two governors landed in a pile of manure.  For ten points, give the name for this action which involved throwing people in a certain city out of a window.
+ANSWER:  Defenestration of Prague (prompt on Defenestration)
+
+11.  The main character in this novel longs to join the Brotherhood, a group of rebels that want to overthrow the government.  At the end of the novel, the main character ends up at the Chestnut Tree drinking gin.  O'Brien lures the main character into a well-laid trap, where he is sent to the Ministry of Love for rehab.  For ten points, name this novel in which "it was a bright cold day in April and the clocks were striking 13" written by George Orwell.
+ANSWER:  1984
+
+12.  Complex glycosylation [glI-cos-lay-shun] of molecules occurs within it by means of sugar transferases that face its lumen, and it actually breaks up and disappears at the onset of mitosis.  Generally divided into cis, medial, and trans faces, the last of which releases clathrin-coated vesicles, it consists of a stack of five to eight flattened cisternae [sis-turn-ay].  For 10 points, name this organelle which processes proteins made in the endoplasmic reticulum, and which is named for its Italian discoverer.
+ANSWER: Golgi apparatus
+
+13.  In creating the original design for it, Frank Eliscu used Ed Smith in order to make a clay model, and the model was approved by a group from Notre Dame.  It is 14" long, 13 1/2" high and weighs 25 pounds.  Named for a college coach whose career lasted from 1892 to 1927, its first winner was University of Chicago standout Jay Berwanger.  For ten points, name this trophy awarded to college football's most outstanding player.
+ANSWER:  Heisman Trophy
+
+14.  Calculation:  20 seconds.  Leaving no fractions in your answer, simplify (sec x -1)/(1-cos x).
+ANSWER:  sec x (read "secant x")
+
+15.  It has an area of 2400 square miles and is bordered on the north by the Tallahatchie River and on the south by its namesake river.  Its name comes from the Choctaw for "furrowed land; fallowed land", but most know it as not a real land at all.  For ten points, identify the county of which William Faulkner is the sole owner and proprietor in many of his novels.
+ANSWER:  Yoknapatawpha County [yawk-nuh-puh-TAW-fuh]
+
+16.  The three central figures are all in aprons, long dresses, and hats.  Near the upper right hand corner there appears to be a man on a horse monitoring the titular figures.  There are two extremely tall stacks in the rear in the upper left corner as well as a row of houses in the back on the right.  Since the three women are shown doing menial labor, the artist is conveying the message that any labor is beautiful.  For ten points, name this work by Jean-Francois Millet.
+ANSWER:  The Gleaners
+
+17.  The tensor field equation underpins the second version of this theory, which is concerned with the transformation of gravitational fields. The momentum-energy 4-vector is invariant in the first version, which includes such effects as time dilation and Lorentz-Fitzgerald contraction.  For ten points, identify this fundamental theory of physics posited by Einstein and according to which the values of various observables depend of the frame of reference of the observer.
+ANSWER: relativity (accept special or general relativity)
+
+18.  Calculation:  20 seconds.  How many donuts would Homer Simpson be ordering if he ordered a gross baker's dozens of donuts?
+ANSWER:  1872
+
+19.  Blacks called it the "Great Betrayal", since Republican promises to assure civil rights were abandoned.  Under it, Republicans promised to appoint Democrats to patronage positions in the South and appoint a Democrat to the president's cabinet in exchange for allowing the Republican candidate to gain all 20 disputed electoral votes to win the election.  For ten points, name the agreement that gave Rutherford Hayes the Presidential election and effectively ended Reconstruction.
+ANSWER:  Compromise of 1877
+
+20.  It contains 22 islands, the largest being Olkhon, and is fed by 300 rivers.  It contains about 20% of the fresh water on earth, and is the home of over 1500 species of animals including a namesake seal.  The Mongols call it the Sacred Sea, and its volume is equal to that of all five great lakes.  For ten points, name this "Blue Eye of Siberia" and deepest lake in the world.
+ANSWER:  Lake Baikal

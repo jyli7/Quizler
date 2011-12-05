@@ -1,0 +1,64 @@
+2006 UIUC ABT High School Solo Round 3
+Questions By:  Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  Calculation:  20 seconds.  In simplest form, complete two iterations of Newton's method for the function y=x1/3 where x1=0.1.
+ANSWER:  0.4 [accept 2/5]
+
+2.  During its brief flourishing, it had some notable adherents, including Rouault [roo-OL], Dufy [doo-fey], and Braque.  The term used to describe this movement was coined by Louis Vauxcelles [vo-SELL] at the Salon d'Automne in 1905 where several paintings in this style were shown around a sculpture by Donatello.  Coming from the French for "wild beast", for ten points, name the early 20th century art movement that was led by Henri Matisse.
+ANSWER:  Fauvism
+
+3.  He won the Pulitzer Prize for Gandhi's Truth: On the Origin of Militant Nonviolence, and also wrote a summary of his studies of Native Americans entitled Childhood and Society.   However, this Freudian ego-psychologist is most famous for coining the epigenetic principle.  For ten points, identify the man who developed eight stages of personality development including infancy, early age, and play age.
+ANSWER:  Erik Erikson
+
+4.  Coming from a German word for a Swiss person, the term itself was first use to describe the conspirators in the Amboise [am-bwäz] plot.  They were violently opposed to the Catholic Church, which led to a policy of dragonnade under Louis XIV before the Edict of Fontainebleau, which revoked their rights.  For ten points, identify this group given their rights in 1598 under the Edict of Nantes.
+ANSWER:  Huguenots
+
+5.  The Greek word inscribed on it, Kallisti, has become a symbol for a modern pseudo-religion.  A judge chosen by Zeus awarded this object to Aphrodite, and for doing so, she awarded him the hand of "the face that launched a thousand ships".  For ten points, name this fruit thrown by Eris that was used to judge "the fairest one".
+ANSWER:  Apple of Discord (accept golden apple)
+
+6.  Some of his lesser-known works include Jupiter and Ganymede and Our Conquering Swords.  Many scholars detect his influence in such famous Shakespeare plays as Titus Andronicus and Henry IV.  He wrote poetry, penning Hero and Leander, but his life was cut short by a stabbing in a bar.  For ten points, what dramatist is most famous for The Jew of Malta, Tamburlaine the Great, and A Tragical History of Dr. Faustus?
+ANSWER:  Christopher Marlowe
+
+7.  In the cgs system of units, this quantity appears as a constant of proportionality in the equation for the Lorentz force. The inverse of its square is equal to the product of the permittivity and permeability of a medium, while the index of refraction is the ratio of the value of this property in a material medium to that in a vacuum. For ten points, identify the fundamental physical property symbolized c and numerically equally to about 3*108 m/s ["three times ten to the eight meters per second"].
+ANSWER: the speed of light (prompt on "c")
+
+8.  Due to a transposition of names, Eugene von Guerard's painting of this mountain is technically misnamed, since the titular location is technically Mt. Townsend.  Standing at a height of over 7300 feet, its summit can be reached by going through Charlotte Pass or Thredbo.  For ten points, name this mountain, the tallest in Australia and named for a Polish national hero.
+ANSWER:  Mt. Kosciusko [KAW-zee-oos-ko] 
+
+9.  Calculation:  20 seconds.  What is the value of 164 [sixteen raised to the 4th power]?
+ANSWER:  65536
+
+10.  It began with a roast of Alexander Wollcott, a New York Times drama critic.  Including at various times playwright Noel Coward and Tallulah Bankhead, Edna Ferber once called them "The Poison Group".  Originally made up of a group of Vanity Fair writers, its name comes from the hotel at which they all met.  For ten points, name this circle of writers that included George Kaufman and Dorothy Parker.
+ANSWER:  Algonquin Round Table
+
+11.  Calculation:  20 seconds.  Find the determinant of the 3-by-3 matrix with top row, going left to right, 1,2,3, middle row 5,2,1, bottom row 0,4,1.
+ANSWER:  48
+
+12.  His disregard for the social decorum of the time is shown in when he arrives late for the wedding, and then disregards the notion of "birthright" in how he treats his new wife.  He treats her new wife quite poorly by starving her and not allowing her to leave.  He is doing this in order to accomplish the title action.  For ten points, name this husband of Katherine in The Taming of the Shrew.
+ANSWER:  Petruchio
+
+13.  He first joined his country's army through being a fast typist, and in 1933 he was Chief of the Armed Forces.  During his second presidency, he drafted a constitution which was later approved, and during his third presidency, corruption and rumored Havana Mafia ties marred him, and he was overthrown by the Partido Socialisto Popular.  For ten points, name this Cuban leader and predecessor to Fidel Castro.
+ANSWER:  Fulgencio Batista y Zalvidar
+
+14.  Willie Stargell said of him, "trying to hit him was like trying to drink coffee with a fork".  He was the first pitcher to average more than nine strikeouts and less than seven hits per nine innings over his entire career, doing so from 1955 to 1966, when arthritis ended his career.  He threw a no-hitter every year from 1962 to 1965, including a perfect game against the Cubs on September 9, 1965.  For ten points, identify this Hall-of-Fame left-handed hurler for the Los Angeles Dodgers.
+ANSWER:  Sandy Koufax (accept Sanford Braun)
+
+15.  The early work of this scientist includes an analysis of gypsum and a refutation of the theory that water changes into "earth" if it is distilled repeatedly.  He enunciated the law of conservation of mass, which is often named for him, and he collaborated with Claude Berthollet to publish Method of Chemical Nomenclature.  He is more famous for the text Elementary Treatise on Chemistry and the groundbreaking On Combustion in General.  For 10 points, name this Frenchman who debunked the phlogiston theory and his coining of the term "oxygen" to explain respiration and combustion.  
+ANSWER: Antoine-Laurent Lavoisier
+
+16.  Calculation:  20 seconds.  In a pentagon, three of the interior angles measure 130, 150, and 170 degrees each.  What is the sum of the measures of the two remaining angles?
+ANSWER:  90
+
+17.  The title of this work comes from a treatise that the titular character receives from a sign-bearer after failing to enter the Magic Theater.  After stabbing the woman who shows him a life of pleasure, Mozart appears and gives him advice on how to live his life.  For ten points, name this Herman Hesse novel about Harry Haller  whose title includes a name for an animal of the lupus species.
+ANSWER:  Steppenwolf
+
+18.  Its chief opponent was Benjamin Bristow, and its downfall led to the recovery of $3 million and the indictment of the President's secretary.  Centered in Chicago, St. Louis, and Milwaukee, some believed it would have become a way to fund the Republican Party through fraud.  For ten points, identify this scandal taking place under Grant and involving an alcohol tax that previously caused a rebellion.
+ANSWER:  Whiskey Ring
+
+19.  At the beginning of this opera, the titular character is a smuggler posing as a cigarette factory worker.  She starts out wooing a lieutenant, but ends up setting her sights on  a toreador.  Micaela, the lieutenant's first love, follows him around and tries to convince the lieutenant that the titular character is unfaithful and that his mother is dying.  After learning of this, Don Jose finds the titular character and stabs her in the heart with a dagger.  For ten points, this is the plot of what opera by Georges Bizet?
+ANSWER:  Carmen
+
+20.  The carboxylic acid formed from this vitamin is conjugated to glucuronide and secreted into bile, and its esters can be stored in Ito cells or more generalized hepatocytes.  Sperm production requires an adequate amount of this vitamin, and deficiency in it can lead to decreased thyroid hormone synthesis.  Its aldehyde is a key component of rhodopsin, and beta-carotene is one of its provitamins.  For 10 points, give the one-letter designation of retinol, whose deficiency can also lead to night blindness.
+ANSWER:	Vitamin A [accept retinol on early buzz]
+
+

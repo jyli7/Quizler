@@ -1,0 +1,275 @@
+Penn Bowl XVII: The Friends and Enemies of Modern Music
+Tossups for Finals Packet 1 (Matt Weiner, Billy Beyer)
+
+1. Switching between the two types of it occurs in expanded porphyrin analogues and molecules with an odd number of twisted carbon bonds possess the type of this property named for Mobius. It is characterized by negative values in the NICS method, and in NMR, de-shielding in molecules with this property is known as its namesake ring current. Furan and naphthalene are examples of electron-delocalized compounds with this property, which is generally seen in compounds that are planar, cyclic, and conjugated. For 10 points, name this property also found in compounds that have 4n + 2 pi electrons and obey Huckel's rule.
+ANSWER: aromatic [or aromaticity]
+
+2. One character in this play methodically tears apart a newspaper, and that man and his partner ultimately reveal that "the organization" and "Monty" will be seeing the protagonist. A female character attempts to seduce that protagonist with sandwiches, and is then seen engaging in foreplay with him after the lights come back on. One character is revealed as a defrocked priest, while another has a job as a "deck chair attendant." Lulu, Goldberg and McCann show up at Meg's boarding house and wreak havoc in this play. For 10 points, name this work in which Stanley Webber receives the title celebration, by Harold Pinter. 
+ANSWER: The Birthday Party
+
+3. One of this type of work by this composer was orchestrated by Anton Seidl, and included the original movement "The Shepherd Boy," replacing "The Sound of Bells" from the earlier work on which that new composition was based. That one also contains the "March of the Dwarfs." Another one of this group of works is labeled "in olden style" and is dedicated to the "father of Danish literature." Another one of them includes the movement "Ase's Death" and "Anitra's Dance," and concludes with "In the Hall of the Mountain King." For 10 points, the Lyric, the Holberg, and the Peer Gynt are among what genre of work by what composer? 
+ANSWER: suites by Edward Grieg [accept obvious equivalents]
+
+4. For a few days, this man was known as Salah Eddine Ammed, during a fake conversion to Islam which enabled him to scam two million dollars out of the Libyan government. This man appointed the first female prime minister in his region, Elisabeth Domitien, before Operation Barracuda ended his reign. He spent two hundred million dollars to re-enact the coronation of Napoleon and later responded harshly to a protest over school uniforms, killing one hundred students. For 10 points, name this man who overthrew David Dacko, proclaimed the Central African Empire, and was allegedly a cannibal. 
+ANSWER: Jean-Bedel Bokassa I
+
+5. One of their songs recalls "when you had that accident in your car" and says "to lose your arm would surely upset your brain." Another of their songs mentions "weapons to solve all their questions" and announces that we are "the sorcerer's orphans," while another concludes that "it's just an illusion caused by the world spinning round" and notes that "everyone you know someday will die." A song on their album Transmissions from the Satellite Heart describes people who use magazines, tangerines, and vaseline in odd ways. For 10 points, name this band behind "She Don't Use Jelly" and the album Yoshimi Battles the Pink Robots, as well as the song "Do You Realize?" 
+ANSWER: The Flaming Lips
+
+6. Its namesake arithmetic is restricted in Cyclone, which allows only the fat type. Its namesake type of swizzling is performed when it is brought into the main memory from external storage. In Fortran-90, it can be used to encapsulate the lower and upper bounds of array dimensions and the XOR operation can be performed on it during a memory shortage when using linked lists. The smart type is used for exception safety and garbage collection but the dangling type can leads to unpredictable behavior such as segmentation faults. For 10 points, name this data type that must be de-referenced in order to give the location of something stored.
+ANSWER: pointers (prompt on reference)
+
+
+7. During the Acacian Schism, emperor Anastasius I accussed Pope Symmachus of subscribing to this religion. Its founder wrote the Kephalaia, which identified that man with the "Paraclete" from the Book of John. That son of Patek was visited by an angel called "The Twin" before being martyred in the Passion of the Illuminator. According to this doctrine, those who eat meat, have sex, or own property are doomed to continue the entwining of spirit and matter. It inspired such Christian heresies as the Paulicians and Bogomils. For 10 points, name this eponymous religion which grew out of third-century Iran. 
+ANSWER: Manichaeism [accept any word forms that involve Mani]
+
+8. This state contains the "limestone coast," and its other regions include the Barossa Valley. Kangaroo Island lies off its coast, while its inland areas include the Flinders Ranges. The cities of Woomera, Barossa Valley, and Streaky Bay are found here, as are Port Lincoln and the western town of Nullarbor. Its capital is in the foothills of the Mount Lofty Ranges and is found near where the Torrens River meets the Gulf St. Vincent. This state has eastern borders with three other states, New South Wales, Queensland, and Victoria. For 10 points, name this Australian state, whose capital and largest city is Adelaide. 
+ANSWER: South Australia
+
+9. She calls herself a disciple of educational philosopher Paula Freire, and wrote about Freire's theories in Teaching to Transgress. This author denounced Asian-born feminists who claimed the need to "interpret" black feminism for whites in her "Third World Diva Girls," and she said that attributing black identity to experience as opposed to abstract thought was a form of racism in her essay "Postmodern Blackness." She criticizes the exclusion of women by the Black Power movement in a book titled for a Sojourner Truth speech, Ain't I A Woman. For 10 points, name this cultural critic, the author of Yearning. 
+ANSWER: Bell Hooks [or Gloria Watkins]
+
+10. One of this director's films includes such characters as Hombré and Erzieher and follows a rebellion of little people, called Even Dwarves Started Small. He made a documentary about religious practice in Russia, Bells from the Deep, and he studies an amateur ski jumper who works as a carpenter in The Great Ecstasy of Woodcarver Steiner. A conquistador seeking El Dorado is the title character of his movie subtitled "The Wrath of God." A young kidnapping victim from Nuremberg reintegrates into society, and a man builds an opera house in the jungle, in two of his major films. For 10 points, name this director of The Enigma of Kaspar Hauser, Aguirre, and Fitzcarraldo. 
+ANSWER: Werner Herzog
+
+11. Modified by the Sin3 complex, they have chaperones such as NAP-I and CAF-I while a variant of one of these named CENP-A generates new binding sites. Discovered by Kossel, these conserved proteins are replaced by protamines during spermatogenesis. Composed of a high proportion of positively charged amino acids, they have an N-terminal extension called a "tail" that can be acetylated. The linker type is not included in the octamer that consists of the core ones: H2A, H2B, H3, and H4. For 10 points, name these proteins that pack DNA in chromatin.
+ANSWER: histones
+
+12. In Nyamwezi mythology, the demon Katavi haunts these places, while the Arabic Ghaddar might eat your genitalia in one of these. You might also encounter the Plains Indian figure Cannibal Grandmother here. The Incan Coniraya made one in anger, and after overthrowing Yam, Baal ordered death to stay exclusively in these places. Anzu hid here after stealing the Tablets of Destiny, and the whole universe became one after Shiva killed Kama. In Egyptian myth, Pachet, Ha, Ash, and especially Seth were patrons of this place. For 10 points, name this biome that is unsurprisingly popular in Middle Eastern mythology. 
+ANSWER: deserts
+
+13. One leader in this conflict became was a woman who always dressed in black and became known as "The Passionflower," who described her sloganeering campaigns in the autobiography They Shall Not Pass. Disunity on one side of this clash was exemplified by the recalcitrant POUM movement, and some of its largest battles were at Teruel and Jarama. Starting as a political dispute between the Popular Front and the Falangists, this war was the source of the phrase "fifth column" and included the American Abraham Lincoln Brigades. For 10 points, name this conflict of the 1930s which brought Francisco Franco to power. 
+ANSWER: Spanish Civil War
+
+
+14. Vsevolod Kochetov's novel The Ershov Brothers follows a cast of people involved in producing this substance, and Ilya Ehrenburg's Out of Chaos describes an attempt to start making it. A Bulgakov story about a girl with diphtheria is titled after this kind of "throat." A memoir partially titled after this substance condemns the "white ants" of unrestrained words and contains the poem "Icarus" and the chronicle of a ride in a fighter plane, "Epilogue F104." For 10 points, name this substance paired by Yukio Mishima with "sun," also the last name of Joseph Addison's collaborator on The Spectator. 
+ANSWER: steel
+
+15. The group in this story sings "Cadet Roussel" after boarding a train at Westland Row. The main character meets a confused Frenchman who only showed his "shining white teeth" upon being introduced, and later takes a trip to Kingstown to board a yacht. The Cambridge classmate Routh and the American Farley join the French teammates Ségouin and Rivière in this story, which ends with Jimmy losing a pile of money playing cards. This story first appeared between "Eveline" and "Two Gallants." For 10 points, name this tale from Dubliners depicting a party following a road rally. 
+ANSWER: "After the Race"
+
+16. This body passed a bill which prohibited secondary boycotts and required union officers to swear off Communism; despite the President's veto, that bill, the Taft-Hartley Act, went through. One of its final actions was to ratify the War Claims Act, and some of the major bills passed by this body were the Marshall Plan and a package of aid for Turkey and Greece. The first Republican-controlled legislature since 1933, its failure to comply with more of the President's initiative led to its nickname. For 10 points, name this body which served from 1947 to 1949 and was assailed by Harry Truman for its inactivity. 
+ANSWER: the Do Nothing Congress [or 80th U.S. Congress]
+
+17. A flying man in red plucks a white-loinclothed figure out of a capsizing boat in one of this man's works. A pattern of blue diamonds adorns the white wrap around the red dress of a woman at the lower right of one of his paintings. That woman is being served fruit and handing some to a white-clad child. Two trees and a small brook separate the foreground from the priest walking in the middle, while the title action of that painting is going on way in the back, as a circle dances around an elevated idol. For 10 points, name this painter of St. Mark Freeing the Slave and The Adoration of the Golden Calf, who executed for the San Giorgio Maggiore of Venice his Last Supper. 
+ANSWER: Tintoretto [or Jacopo Robusti]
+
+18. Tom Regan wrote that this man was the "prophet" of his social circle, while William Shaw wrote a study of his views on right and wrong. He used the "open-question argument," which determined whether a definition was preserved by reversing the order of terms, to debunk what he called the "naturalistic fallacy," or the belief that non-intuitional sources can determine what is good. This longtime editor of the journal Mind wrote A Defence of Common Sense to debunk skepticism, a topic also addressed in his "The Refutation of Idealism." For 10 points, name this Bloomsbury Group author of Principia Ethica. 
+ANSWER: George Edward Moore
+
+19. This man's legal reforms included starting the Court of Miscellaneous Claims and assigning provincial lawsuits to the Records Office. He escaped from the Oki Islands to take advantage of the suicide of an opponent who spent his days watching dog fights, but he ultimately broke with his supporters by naming Morinaga as regent, leading to Kogon pressing a rival claim to the throne. He had earlier ended the insei system following the end of Hojo rule, but his partner in the Kemmu Restoration, Ashikaka Takauji, founded a new shogunate. For 10 points, name this emperor from 1318 to 1339. 
+ANSWER: Go-Daigo Tenno [or Takaharu]
+
+20. It is used to find the values of a quantity that is raised to the fourth power in the Tully-Fisher relation. The inverse of this effect was first observed using a magnetic nonlinear transmission line by Seddon and Bearpark. Time dilation was confirmed by Ives and Stilwell by measuring a type of this effect, aspects of which have been proven by Russell and Buys-Ballot. It is applied to gamma rays around the resonance peak to measure the Mossbauer effect, which was shown to verify the transverse type. Used by Hubble to suggest the universe is expanding, an example of it is redshift in distant galaxies. For 10 points, name this change in wavelength or frequency as a result of motion.
+ANSWER: Doppler effect/shift 
+
+Sudden-death tiebreakers
+
+21. It begins by praising the creative capacity of violence, then moves on to a study of spontaneity. It says that the formation of a new middle class can threaten the unity of new countries in the section "The Pitfalls of National Consciousness," and its last full-length chapter is a list of case histories about individuals driven insane by the Algerian war. Originally titled from the first line of the Internationale, it was written while its author was dying of leukemia. Its author was the former head of psychiatry at Blida-Joinville Hospital in Algeria, who also wrote Black Skin, White Masks. For 10 points, identify this anti-colonialist major work of Franz Fanon. 
+ANSWER: The Wretched of the Earth [or Les Damnes de la terre; or The Damned]
+
+22. In one of his novels, a historian watches his cousin join a fascist gang, while his sister becomes a communist. In another novel, a cow's head is left on the doorstep of a school as a warning to an Italian-born slave, who is educating the king about science. He also described a lawyer whose brother and wife disappear at the same time. He inserts himself as the brother of Shekure in another novel. For 10 points, name this author of The House of Silence, The Black Book, The White Castle, and My Name is Red, a Turkish author who was once brought to court for discussing the Armenian genocide. 
+ANSWER: Orhan Pamuk
+
+23. He worked with Gamaliel Bailey to produce the Cincinnati Philanthropist, and he later joined with Thomas Earle and Thomas Morris in his national campaigns. This former member of the Alabama legislature led a faction of the American Anti-Slavery Society more moderate than William Lloyd Garrison's group, and this author of The American Churches, the Bulwarks of American Slavery helped swing New York away from Henry Clay in 1844. For 10 points, name this 1840 and 1844 Presidential candidate, the leader of the Liberty Party. 
+ANSWER: James Gillespie Birney
+
+24. Tangier's disease leads to irregular export of this molecule from macrophages due to defective ABCA1 protein transporters. Over expression of Rab9 can lead to restoration of its transport in NPC1-deficient cells and the StAR protein controls its transfer within the mitochondria. Mevalonate and squalene are precursors to this molecule that is prevalent in mammalian plasma membranes. Levels of it can be reduced with HMG-CoA reductase inhibitors, which are commonly called statins, an example of which is the drug Lipitor. For 10 points, name this steroid that attaches to lipoproteins such as HDL and LDL.
+ANSWER: cholesterol [if someone gives you the IUPAC name punch them in the face]
+
+
+Penn Bowl XVII: The Friends and Enemies of Modern Music
+Bonuses for Finals Packet 1 (Matt Weiner, Billy Beyer)
+
+1. Name these people who failed to hold it down in Poland between the World Wars, for 10 points each. 
+[10] He ruled from 1918 to 1922 as the head of the military and seized power again in 1926, operating through such proxies as Józef Beck and trying to appease Hitler until his 1935 death. 
+ANSWER: Józef Klemens Pilsudski 
+[10] This leader of the Ozoon Party held offices such as "first citizen after the president" and "marshall of Poland" and was the de facto military dictator from Pilsudski's death until the outbreak of war. 
+ANSWER: Edward Rydz-?mig?y [also given as Edward ?mig?y-Rydz for god knows what reason] 
+[10] This composer of Manru served several months as prime minister in 1919, but had no political base and became disillusioned enough to leave Poland for good and return to music after losing office. 
+ANSWER: Igancy Jan Paderewski
+
+2. CMB radiation is a remnant of this event, whose name was coined by Fred Hoyle. For 10 points each:
+[10] Name this alternative to the steady-state theory, a model regarding the formation and present expansion of the universe that is supported by most scientists. 
+ANSWER: Big Bang Theory [FUNN fact: also the title of Seth Teitler's favorite TV show]
+[10] Radiation left over from the Big Bang is best described by this law. For large values of wavelength, its exponential can be expanded to give the Rayleigh-Jeans formula.
+ANSWER: Planck('s) law [accept Planck('s) law of radiation; or Planck('s) radiation law, etc.]
+[10] The measurements collected by this satellite fit Planck's law for a blackbody at 2.7 Kelvin. Launched in 1989, it includes 3 main instruments: DMR, FIRAS, and DIRBE, which searches for CMB radiation.
+ANSWER: Cosmic Background Explorer satellite [accept COBE satellite; or Explorer 66]
+
+3. It was one of four pieces written for the coronation of George II, but unlike the others, this one has been used at every British coronation since. For 10 points each: 
+[10] Name this song which incorporates text from First Kings 1, about the namesake figure coronating King Solomon. 
+ANSWER: "Zadok the Priest" 
+[10] This composer of "Zadok the Priest" also wrote some Water Music and Royal Fireworks Music. 
+ANSWER: George Frideric Handel 
+[10] The arias "Tu Sei Il cor" and "Se Pieta" are found in this Handel opera about a Roman leader's imperial adventure.  
+ANSWER: Giulio Cesare in Egitto [or Julius Caesar in Egypt]
+
+4. Betty Flanders must enter the title domicile after World War I in order to organize the estate of her son, a casualty of the conflict. For 10 points each: 
+[10] Name this novel, in which the citizens of Scarborough spend most of their time gossiping about Captain Barfoot's relationship with Betty. 
+ANSWER: Jacob's Room 
+[10] Jacob's Room was written by this author of Between the Acts, To the Lighthouse, and Mrs. Dalloway. 
+ANSWER: Virginia Woolf 
+[10] In this Virginia Woolf novel, Susan, Neville, and Percival are among the symbolic group of friends who periodically hang out and try to integrate their masculine and feminine selves. 
+ANSWER: The Waves
+
+
+5. Its neutrality was to be ensured by assigning the swing vote to David Davis, whose political loyalties were unknown, but Davis was elected to the Senate before he could join this body. For 10 points each: 
+[10] Name this group set up by Congress to resolve the disputed election of 1876, whose party-line Republican voting patterns led to its choice being dubbed "Rutherfraud B. Hayes." 
+ANSWER: the Electoral Commission 
+[10] One of the Republican members of the Commission was this guy, who was later "woned in the fase" by Charles Guiteau after defeating Winfield Scott Hancock in a less disputed race. 
+ANSWER: James A. Garfield 
+[10] Davis's spot on the commission was taken by this Grant nominee and author of the majority decision in the Civil Rights Cases, who was in the midst of twenty undistinguished years on the Supreme court. 
+ANSWER: Joseph Philo Bradley
+
+6. His blessing over Slane allowed that well to become the source of healing baths. For 10 points each: 
+[10] Name this grandfather of Lugh and god of healing, who killed his son Miach in a dispute over how to treat the dismembered Nuada. 
+ANSWER: Dian Cecht 
+[10] Dian Cecht favored making a hand for Nuada out of this material, leading to Nuada's epithet. The showoff Miach wanted to give Nuada his real hand back. 
+ANSWER: silver 
+[10] Nuada had lost his hand in the first Battle of Mag Tuireadh, fighting to establish the supremacy of this group of gods over the Fomorians in Ireland. 
+ANSWER: Dananns [or Tuatha Dé Danann]
+
+7. That Ferdinand Tönnies sure was a prolific guy. For 10 points each: 
+[10] This major work of Tönnies came out in 1887 and contrasted the traditional social structure governed by natural will with modern institutions ruled by rational will. 
+ANSWER: Gemeinschaft und Gesellschaft [or Community and Society] 
+[10] Tönnies wrote a study titled for the "life and teachings" of this other German philosopher, who wrote stuff like The German Ideology, Capital, and The Communist Manifesto with Friedrich Engels. 
+ANSWER: Karl Marx 
+[10] Tönnies approved the use of censorship against those who disagreed with the title concept of this 1922 work, which argued for the moral basis of that concept and said it came in solid, liquid, and gaseous forms. 
+ANSWER: Critique of Public Opinion [or Kritik der öffentlichen Meinung]
+
+8. Name these Chinese novels, for 10 points each. 
+[10] Ximen Qing hangs out with a succession of concubines and prostitutes in this bawdy Ming period novel by the "Scoffing Gentleman of Lanling." 
+ANSWER: The Golden Lotus [or The Plum in a Golden Vase, or pretty much anything with the world gold in it, or Jin ping mei] 
+[10] This Fu Shen novel from the turn of the nineteenth century discusses the author's marriage to his cousin Chen Yun and the weird relationship between Chen Yun and the concubine Han-yuan. 
+ANSWER: Six Records of a Floating Life [accept ?????-????] 
+[10] Xuanzang and Monkey head on over to India to pick up some scriptures in the titular movement of this novel. 
+ANSWER: Journey to the West [or Hsi yu chi]
+
+
+9. Name these Sega Dreamcast games, for 10 points each. 
+[10] The first 3-D cel-shaded game, it allowed you to control a roller-blader looking to spray graffiti all over "Tokyoto" ahead of three opposing gangs. 
+ANSWER: Jet Grind Radio [or Jet Set Radio] 
+[10] This puzzle game requires you to manipulate the path of a line of mice so that they enter the titular conveyance before the giant cat eats them. 
+ANSWER: Chu Chu Rocket 
+[10] Moonstones of six different colors are used as power sources by such figures as the Army of Valua, Lord Galcian, and Theodora in this RPG about the blue pirate leader Vyse. 
+ANSWER: Skies of Arcadia
+
+10. Desmond Morton and Joseph Ball are sometimes accused of being the forgers of this document. For 10 points each: 
+[10] Name this 1924 fraud, purporting to be instructions from the Third International to British Communists which ordered support for the Labour Party in the upcoming election. 
+ANSWER: Zinoviev Letter 
+[10] The Zinoviev Letter was one factor in the fall of this man's government to Stanley Baldwin's Conservatives. 
+ANSWER: James Ramsay MacDonald 
+[10] While Labour lost enough seats to swing control of the government, the biggest loser in 1924 was the Liberal Party, led by this man who had been PM at the start of World War I. 
+ANSWER: Herbert Henry Asquith
+
+11. Dick Lehmer improved this man's test for Mersenne primes. For 10 points each: 
+[10] Name this French mathematician, the namesake of a sequence that begins 2, 1, 3, 4, 7, 11, 18, 29.
+ANSWER: Édouard Lucas
+[10] The Italian author of 1202's Liber Abaci is the namesake of this sequence that is similar to the Lucas sequence and begins 1, 1, 2, 3, 5, 8, 13, 21.
+ANSWER: Fibonacci numbers/sequence/etc.
+[10] In 1970, this Russian mathematician used a relation derived from the Fibonacci sequence to answer Hilbert's tenth problem by showing there is not an algorithm for generally solving Diophantine equations.
+ANSWER: Yuri Matiyasevich
+
+12. Kannada, Kurukh, and Telegu are some languages in this family. For 10 points each: 
+[10] Name this family that includes most of the non-Indo-European tongues of India. 
+ANSWER: Dravidian 
+[10] The most widespread Dravidian language is this one, the partial namesake of the Indian state that includes Madras. 
+ANSWER: Tamil 
+[10] Another popular Dravidian language is this one, which has no personal endings in its verbs and is written in the "rod script" Koeluttu. It is the official language of the Kerala state. 
+ANSWER: Malayalam
+
+13. It is worn around a shirt called the sadre, and is received by seven-year-olds in India but ten-year-olds in Iran. For 10 points each: 
+[10] Name this cord worn around the waist by members of a certain religion. 
+ANSWER: kushti 
+[10] The kushti is a symbol of initiation in this religion, which thinks Ahura Mazda is swell and is often called dualistic. 
+ANSWER: Zoroastrianism 
+[10] The bestowing of kushti on children is a great time to drink some haoma in this Zoroastrian festival, which shares its name with the part of the Avesta that contains the Gathas and explains how rituals work. 
+ANSWER: Yasna
+
+
+
+14. Her husband threw some of his manuscripts into her coffin, but later had her body exhumed so he could publish the poems. For 10 points each: 
+[10] Name this wife of Dante Gabriel Rossetti and model for such Pre-Raphaelite paintings as Beata Beatrix. 
+ANSWER: Elizabeth Eleanor Siddal Rossetti 
+[10] Another painting which depicted Siddal was this John Everet Millais work, in which Siddal is shown as the drowned sister of Hamlet. 
+ANSWER: Ophelia 
+[10] Siddal's hair was used on Jesus in The Light of the World, a painting by this creator of The Triumph of the Innocents and Our English Coasts. 
+ANSWER: William Holman HuntI
+
+15. It arose from the left wing of the Issara movement, which fractured at the start of autonomy in 1949. For 10 points each: 
+[10] Name this Marxist group, connected intimately to the Patriotic Front in their home country and the Viet Minh in a neighboring state, which took over the Vientiane government in 1975. 
+ANSWER: the Pathet Lao 
+[10] This Pathet Lao leader renounced his royal bloodline as well as his half-brother, who was the the premier of the pre-Communist government. From 1975 to 1986, he was Laotian president. 
+ANSWER: Souphanouvong 
+[10] Laotian independence began at the 1954 accords signed in this city after the Battle of Dien Bien Phu. This city is also home to the World Trade Organization and various other international bodies. 
+ANSWER: Geneva
+
+16. The protagonist is the merchant Matire Pierre, who is actually King Louis XI in disguise. For 10 points each: 
+[10] Name this novel in which the Scottish title character accidentally gets himself in trouble with the French authorities by cutting down the body of a hanged man. 
+ANSWER: Quentin Durward 
+[10] Quentin Durward is by this author of Waverley, Rob Roy, and Ivanhoe. 
+ANSWER: Walter Scott 
+[10] George Orwell frequently alluded to Quentin Durward; a character carries it around in Down and Out and Paris and London, and insurance salesman George Bowling recalls reading it as a child in this book. 
+ANSWER: Coming Up for Air
+
+17. This city is the capital of the kraj of Západní, and was once known as Pressburg. For 10 points each: 
+[10] Name this city, just thirty-five miles from Vienna, which is the capital of Slovakia. 
+ANSWER: Bratislava [prompt on Pozsony] 
+[10] Bratislava is located at the place where this river, which forms the border between Slovakia and the Czech Republic, meets the Danube. 
+ANSWER: Morava 
+[10] This prehistoric fortress, found at the river confluence, was the site of such events as the 1836 proclomation of the Slovak nation and many shootings of people attempting to cross the border during Communist rule. 
+ANSWER: Devín Castle
+
+18. t was written by Isidore Ducasse, who used the pseudonym "Comte de Lautréamont." For 10 points each: 
+[10] Name this influential 1869 poetry collection about a bisexual rapist-sadist, which provided great inspiration to the Symbolists and Surrealists. 
+ANSWER: The Songs of Maldoror [or Les Chants de Maldoror; or The Lay of Maldoror] 
+[10] One big fan of the Songs of Maldoror was this "theater of cruelty" proponent who wrote Heavenly Backgammon and The Jet of Blood. 
+ANSWER: Antonin Artaud 
+[10] Ducasse identified this author of The Vision of Judgement, Childe Harold's Pilgrimmage, and Don Juan as a major inspiration for the work. 
+ANSWER: Lord Byron [or George Gordon]
+
+
+
+19. The Queen's Chapel at St. James's Palace, designed by him, is now part of England's National Maritime Museum. For 10 points each: 
+[10] Name this designer of the Banqueting House at Whitehall. 
+ANSWER: Inigo Jones 
+[10] This author of the poem "You Meaner Beauties of the Night" transported the ideas of Palladio to Jones through his The Elements of Architecture. 
+ANSWER: Henry Wotton  
+[10] Wotton also translated the works of this Roman architectural theorist, who laid down Classical principles of design in De architectura. 
+ANSWER: Marcus Vitruvius Pollio
+
+20. This law states potential drop is equal to current times resistance. For 10 points each:
+[10] Name this law that is usually formulated as V equals I times R.
+ANSWER: Ohm's law
+[10] In the point form of Ohm's law, the current density is equal to conductivity times this quantity. 
+According to the Kerr effect, induced birefringence is directly proportional to the square of it. 
+ANSWER: electric field
+[10] According to the quantum metrology triangle, Josephson voltage and SET current is linked via Ohm's law to this type of resistance discovered by von Klitzing and equal to more than 25,000 ohms.
+ANSWER: quantum Hall (electrical) resistance 
+
+Extra bonuses
+
+21. Most prevalent in temperate regions, this virus infects epidermal cells resulting in skin lesions, and establishes a lifelong latent infection in sensory ganglia. For 10 points each:
+[10] Name this virus that is named for the two diseases it causes: chickenpox and shingles.
+ANSWER: varicella-zoster virus [also accept VZV; or human herpes virus 3; or HHV3]
+[10] The varicella-zoster virus has this type of nucleocapsid symmetry, which is named for the regular solid with 20 faces, each of which is a regular triangle.
+ANSWER: icosahedral [accept icosahedron]
+[10] Burkitt's lymphoma is often associated with this other herpes virus that infects B cells.
+ANSWER: Epstein-Barr virus [accept EBV; or human herpes virus 4; or HHV4]
+
+22. The lawyer C, the maid B, and the elderly A are all revealed to be the same character at different ages. For 10 points each: 
+[10] Name this play, an admitted roman-a-clef about the author's homophobic mother. 
+ANSWER: Three Tall Women 
+[10] This big gay author of Three Tall Women might be better-known for Zoo Story and Who's Afraid of Virginia Woolf? 
+ANSWER: Edward Albee 
+[10] In this Albee play, the guests Harry and Edna leave Tobias's house as Agnes wonders if she is going insane. 
+ANSWER: A Delicate Balance
+
+23. It specified the seven electors of the Holy Roman Emperor and ended the legal loopholes which the Papacy had exploited to exercise power during interregna. For 10 points each: 
+[10] Name this 1356 promulgation, which also reduced the rights to protest against local princes and squashed the aspirations of the free cities. 
+ANSWER: Golden Bull of 1356 
+[10] The Golden Bull of 1356 was issued by this Bohemian-based Emperor, who won a power struggle with Louis IV and then began the process of ensuring the succession for his own son, Wenceslas. 
+ANSWER: Charles IV [or Charles of Luxembourg; prompt on Charles]  
+[10] TheGolden Bull gave an Imperial vote to this house in Saxony, disenfranchising the Lauenuburgs. This royal branch lends its name to a town where a dude nailed some theses to the Castle Church in 1517. 
+ANSWER: Wittenbergs

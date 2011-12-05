@@ -1,0 +1,62 @@
+2006 UIUC ABT High School Solo Championship Round 2
+Questions by Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  He did fieldwork with J.S. Henslow and Adam Sedgwick and was heavily influenced by Malthus' Essay on Population.  The author of The Descent of Man, his most important idea was also theorized by Alfred Russell Wallace.  Eventually, he was recommended to Captain FitzRoy, who was taking a two-year trip around coastal South America on the HMS Beagle.  For 10 points, name this scientist who studied tortoises and finches on that trip and wrote about them in 1859's On the Origin of Species, the coiner of the term "natural selection."
+ANSWER:	Charles Robert Darwin
+
+2.  His sisters were turned into alder trees whose tears became amber.  His friend Cycnus was turned into a swan.  His accident, according to myth, created the African desert and the dark skin of Ethiopians.  He bragged of his divine parentage, and to prove it he tried to do his father's job, and failed miserably.  For ten points, name this son of Helios who attempted to drive his chariot and got himself killed.
+ANSWER:  Phaeton
+
+3.  Calculation:  20 seconds.  Within one, round to the nearest whole number the number of inches in 74 centimeters.
+ANSWER:  29 (accept 28, 29, or 30)
+
+4.  Set in Italy, the titular character is the subject of a painting by D.G. Rosetti, The Death of Beatrice Professor Baglioni warns one of his students not to study under the titular doctor.  The warning is ignored, and Giovanni goes to study in Padua.  He falls in love with Beatrice, but accuses her of infecting him with her malady.  Baglioni attempts to give Beatrice an antidote, but it ends up killing her.  For ten points, in what Hawthorne short story can Beatrice kill other people simply by breathing on them?
+ANSWER:  Rappaccini's Daughter
+
+5.  He was three when he inherited the throne, and at seven his mother was poisoned by nobles.  He took over at 17 and chose his wife through a National Virgin competition.  He set up the Oprichniki [op-rich-nee-key] whose duty was to protect him.  His violent exploits are well-known, beginning with throwing animals from high places as a child to later beating his own son to death.  For ten points, what Russian monarch had a horrible-sounding nickname?
+ANSWER:  Ivan IV (accept Ivan the Terrible)
+
+6.  This function is only unique up to a scalar gage function, which is gradient-free; this is because only the gradient of this scalar field is unambiguously meaningful. Across a non-resistive element in an ac circuit, this quantity is related to the current by the reactance. The gradient of this is the electric field, and constants are commonly selected as gage functions for it, as they correspond to a choice of ground; at ground, this quantity is zero by definition. For ten points, name this electromagnetic function symbolized V.
+ANSWER: scalar potential difference or voltage
+
+7.  Calculation:  20 seconds.  Circles A and B are concentric.  The radius of A is 19, and the radius of circle B is 13.  What is the area inside A but outside B?
+ANSWER:  192 square units
+
+8.  His first voyage was marred by a storm, and but his second was successful, as a merchant he makes a decent profit which he leaves with a friendly widow.  On his third, Moorish pirates attack his ship and he is sent to the town of Sallee as a slave.  He escapes, goes to Brazil, and on another voyage ends up on an island off the coast of Trinidad.  For ten points, this are some of the voyages of what titular character based on the adventures of Alexander Selkirk?
+ANSWER:  Robinson Crusoe
+
+9.  He was arrested in December 1970 when he led workers in a clash against the government.  He was a primary target of General Jaruzelski and was interned in a country home while martial law was imposed.  He was attacked by the government press upon winning the Nobel Peace Prize in 1983 and was elected President in 1990.  For ten points, name this former electrician and Solidarity Leader.
+ANSWER:  Lech Walesa
+
+10.  He was one of the three originators of break-beat DJing along with Afrika Bambaataa and Kool Herc.  Born in the West Indies with the name Joseph Saddler, he created the techniques of cutting, back-spinning and punch-phrasing.  Cowboy, Scorpio, Melle Mel, Kid Creole, and Raheim constituted his "Furious Five".  For ten points, identify the hip-hop legend whose most famous single is The Message.
+ANSWER:  Grandmaster Flash (accept Joseph Saddler on early buzz)
+
+11.  The Northern section are home to High Force and High Cup Gill, while Pendle Hill can be found in the Southern part and its highest peak is Cross Fell at 2930 ft.  Their name comes from the Celtic word for hill, and it is transversed by many rivers, serving as a watershed.  For ten points, name this mountain chain in England that sounds like one found in Italy.
+ANSWER:  Pennine(s)
+
+12. Their associated "frontier" theory indicates nine possible combinations of them in chemical reactions, and they are useful in calculating bond order.  In their model, the bonding electrons have a much lower energy than the antibonding electrons, which exist in sigma-star and pi-star varieties.  Exemplified by HOMO and LUMO, for 10 points, name these objects derived from atomic orbitals and abbreviated MO.
+ANSWER:	molecular orbitals (prompt on "MO")
+
+13.  He studied in the San Carlos Academy and in the carving workshop of artist José Guadalupe Posada, whose influence was decisive.  He did several self-portraits, one dedicated to Irene Rich, another featuring him in all black, a pipe in his mouth, and a drink on the table.  In The Arsenal, his wife is shown distributing arms.  For ten points, name this Mexican muralist and husband of Frida Kahlo.
+
+14.  Calculation:  20 seconds.  Find any horizontal asymptotes for y = x/(x-3) [y equals x over the quantity x minus 3].
+ANSWER  y = 1
+
+15.  The daughter of a Venetian senator, she and her husband are secretly married before the play begins.  Roderigo complains that he wanted to marry her, and the titular character's ensign plans to break up the marriage.  Her handkerchief ends up in Cassio's room, further angering her husband, and at the end of the play she is murdered by her husband, who kills himself before he can be tried.  For ten points, name the wife of Othello.
+ANSWER:  Desdemona
+
+16.  Each of the 20 works in this collection starts with a slow intro followed by a fast, dance-like movement.  The differing tempos are due to the influence of the verbunko, a dance native to the titular location.  For ten points, name this collection of pieces for solo piano, known for their difficulty, composed by Franz Liszt [list].
+ANSWER:  Hungarian Rhapsodies
+
+17.  The first story is about a scoundrel who ends up becoming a saint, while the last story on the last day is about how Gualtieri [gwal-tee-err-ee] goes to the lengths of pretending to marry his daughter in order to test his wife, Griselda.  For ten points what work consists of ten stories told over ten days, written by Giovanni Boccaccio [bok-ach-ee-o]?
+ANSWER:  The Decameron
+
+18.  Solve for x:  2 log base 3 of x plus log base 3 of the quantity 2x minus 1 minus log base 3 of x equals  1 [2 log3x + log3(2x - 1) - log3x = 1].
+ANSWER:  x = 3/2 (accept 1.5)
+
+19.  A group of sailors posing under this name in South Carolina attempted to coerce money from people, so they began to police themselves and pretenders.  Originally called the Legal Nine, their actual leader was Ebenezer McIntosh.  Their first widely known act involved an effigy of Andrew Oliver, the Distributor of Stamps for Massachusetts.  The majority of them were printers and publishers, which is why they responded violently to the Stamp Act.  For ten points, name this pre-revolutionary group most commonly associated with Sam Adams.
+ANSWER:  Sons of Liberty
+
+20.  It is a depression in the atmosphere surrounded by high cirrus clouds, and it was first spotted by Voyager 2.  This anticyclone was first spotted in August of 1989, and in 1994 the Hubble Space Telescope found that the original had disappeared and that another one had appeared in the Northern Hemisphere.  Comparable to the hole in Earth's ozone layer, one was spotted on Jupiter in 2003 by the Cassini spacecraft.
+For ten points, name this feature of Neptune.
+ANSWER:  Great Dark Spot

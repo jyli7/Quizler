@@ -1,0 +1,246 @@
+VETO 2011
+Tossups by Washington (Nate Beutel, Carolyn Woods, Peter Senchyna, Andrew Hunter) and Rob Carson
+Hastily edited by Rob Carson
+
+1. Pierre Boulez's composition Pli selon pli, or Fold by Fold, takes its title from a poem by this author about a mist disappearing over the city of Bruges. One of this man's poems asserts that "Every thought sends forth" one of the title events, which occur in the manner this poet claims they do "even when cast in eternal circumstances from the depths of a shipwreck". This poet produced a translation of Poe's "The Raven" that was illustrated by Edouard Manet. Another of this man's poems opens with the line "These nymphs I would perpetuate" and was adapted into a symphonic poem by Claude Debussy.  For 10 points, identify this French Symbolist, who penned such poems as "A Throw of the Dice Will Never Abolish Chance" and "The Afternoon of a Faun".
+ANSWER: Stephane Mallarme [or Etienne Mallarme]
+
+2. One of its former dynasties featured such kings as Edward the Philosopher, John the Pious, and Alfonso the African. That dynasty took power from the Afonsine Dynasty, this country's branch of the House of Burgundy, after the 1383-1385 Crisis. Power in this country was usurped by the Hapsburgs when they seized the throne in 1580, but its independence was regained when John II led a rebellion in 1640. The dynasty he founded supplanted the House of Aviz and was named Braganza, and its later rulers named Pedro would hold power in Brazil. FTP, name this country, whose more famous Aviz leaders included King John I and Prince Henry the Navigator.
+ANSWER: Portugal [accept Portuguese Republic or Repœblica Portuguesa]
+
+3. A red biological stain that contains this element can stabilize lipopolysaccharides and inhibits calcium transport through plasma membranes. Trace amounts of it are added to titanium to make it more corrosion-resistant, and an iridium alloy of it is used in the tips of fountain pens. Like osmium and iridium, this element was also first extracted from the residue left behind after platinum ores dissolved in aqua regia. FTP, identify this rare transition metal in the platinum group whose name comes from the Latin name for Russia, and whose symbol is Ru.
+ANSWER: ruthenium [accept Ru before it is read]
+
+4. The first edition of this race was held in 1967 and was won by Australian Jack Brabham. The only man from the country where this event is held to win it did so in 1978, and the circuit where that event was held was named after him after he died in a crash in Belgium in 1982; his name is Gilles Villeneuve. In 2011, a lengthy rain delay interrupted this race, and the final lap featured Jensen Button passing Sebastian Vettel to win his first race of the season and the tenth of his career. For 10 points, name this Formula 1 race held on the Ile Notre Dame in Montreal.
+ANSWER: Canadian Grand Prix or Grand Prix du (of) Canada
+
+5. One of this composer's works opens with a "Preambule" taken from his incomplete Variations on a Theme of Schubert and ends with a movement called "March of the League of David Against the Philistines". That work by this composer consists of 21 pieces connected by an A-S-C-H motif. Another of his works was inspired by Jean Paul's novel Flegeljahre. This composer of Carnaval and Papillons depicted a cardinal's elevation in Cologne in the fourth movement of his third symphony. A year after he discovered Schubert's Symphony No. 9 in C, he married the pianist Clara Wieck. For 10 points, identify this German composer of the Spring and Rhenish symphonies.
+ANSWER: Robert Schumann
+
+6. In an 1832 short story by this author two wounded soldiers flee through a forest from a battle, the elder one eventually succumbing to his wounds by a boulder resembling a tombstone. In a later novel, Miles Coverdale seeks a better life at Blithedale Farm. In one of this author's more notable short stories, a man leaves his wife and encounters a stranger carrying a staff resembling a black snake, who then leads him to a forest clearing at midnight.  For 10 points, name this author of "Young Goodman Brown" and The Scarlet Letter.
+ANSWER: Nathaniel Hawthorne
+7. Phil Karlton once said there were only two hard things in his discipline: using these entities and coming up with names.  Despite the name, a translation lookaside buffer is one of these objects. Modern CPUs often have as many as three layers of these objects, and they can be divided into instruction and data types.  They can be write-through or write-back and require a replacement policy such as least recently used. A small, fast piece of memory used to exploit locality, its levels in CPUs are generally labeled L1, L2, and so on. For 10 points, name this device used in computers to store recently accessed data.
+ANSWER: caches [or caching]
+
+8. They were alleged to have been produced with a Woodstock typewriter, and were dated from January 5 to April 1, 1938, thus allegedly revealing an acquaintance with George Crosley that persisted beyond mid-1936. Their procurer was a hunt-and-peck typer, so it's likely that his wife Priscilla typed them up before he returned them.  Some showed pictures of fire extinguishers and life rafts, and in all they totaled 65 retyped pages, five rolls of 35mm film, and 4 handwritten copies of State Department cables. For 10 points, name these documents used by Richard Nixon in the case against Alger Hiss, briefly hidden by Whittaker Chambers in a namesake vegetable.
+ANSWER: the Pumpkin Papers [accept equivalents to "the documents that Alger Hiss stole" before Hiss's name]
+
+9. It can be stimulated extrinsically via the TNF mechanism, or via the Fas-FasL meditated model where the interaction between those two receptors results in the formation of DISC. It can begin intrinsically when the Bax protein increases permeability in the outer mitochondrial membrane, resulting in the release of cytochrome-c which then binds to caspases. At the end of this process, blebs form on the cell membrane. Brenner, Horvitz, and Sulston studied it in C. elegans, and the p53 tumor suppressor gene plays a key role in inducing this process in extensively damaged cells. Kerr, Wyllie, and Currie differentiated it from its analogue, necrosis. FTP, identify this process of programmed cell death.
+ANSWER: apoptosis (accept  "programmed cell death" early)
+
+10. Prior to a 2010 Supreme Court decision, organizations of the same type as this one did not exist, but now there are at least 100 others, which are notably distinct from there more limited predecessors. When asked what he would do with money obtained by this organization, its founder responded "Give it to me and let's find out." According to its creator, this organization would allow its supporters to "have a voice, in the form of my voice, shouted through a megaphone of cash." For 10 points, name this organization also known as "Americans For A Better Tomorrow, Tomorrow", which was approved by the FEC and created by a comedian who hosts a namesake "Report".
+ANSWER: Colbert Super PAC [accept Americans For A Better Tomorrow, Tomorrow until it's read]
+
+11. This stratovolcano has been dormant for nearly 2000 years and its west summit is 21 meters taller than the eastern one. Alternate names include Jin-Padishah and a word meaning "Mount of Happiness" in the Adyghe language, and its most common name is derived from that of a legendary mountain in Persian mythology whose name means "high watch." Its icecap connects to 22 glaciers which feed the Baksan, Malka, and Kuban Rivers, the last of which flows to the Sea of Azov. FTP, name this peak near the Russia-Jordan border in the western Caucasus that is the highest point in Europe.
+ANSWER: Mount Elbrus
+
+12. This nation's government recently distributed a photograph of its president and newly appointed governor Naem, which many claim was doctored to make them appear to be in the same room. Intense violence in its city of Homs has broken out in recent days, some of it between Sunnis and Alawites. The country's revolt began approximately four months ago, escalated in part by a national call for a Day of Dignity. For ten points, name this country currently controlled by president Bashar al-Assad.
+ANSWER: Syria
+
+13. In one scene of this novel, the female protagonist tasers her rapist and inks his stomach with the words "I AM A SADISTIC PIG AND RAPIST." Earlier, the male protagonist had enlisted her help in his investigation at the behest of an obsessive industrialist consumed by his daughter's supposed murder. For 10 points, name this novel by Swedish author Stieg Larsson that chronicles the efforts of Mikael Blomqvist and Lisbeth Salander to discover the fate of Harriet Vanger.
+ANSWER: The Girl with the Dragon Tattoo [or MŠn som hatar kvinnor; or Men Who Hate Women]
+
+14. Works by this artist include a pastel drawing of a red haired woman in a green dress riding a white horse, and a series of depictions of the black-hat- and red-scarf-clad Aristide Bruand. This painter's regular models include Yvette Guilbert, La Goulue, and Jane Avril. A balustrade cuts across the lower left corner of another of his paintings; that painting also prominently depicts a woman whose heavy white makeup glows an eerie green. For 10 points, name this postermaker and painter of At the Cirque Fernando and At the Moulin Rouge.
+ANSWER: Henri de Toulouse-Latrec
+
+15. "You did not come, and marching Time drew on, and wore me numb" opens his poem "A Broken Appointment" in which a man waits for a woman who does not love him, a recurring theme in this author's work. One of this author's poems describes an object formerly filled with "salamandrine fires" and "jewels in joy designed / to ravish the sensuous mind". That poem tells of how the "Spinner of the Years" created an iceberg as the "sinister mate" of that object, the Titanic. In a more notable poem by this man, a bird has "little cause for carolings Of such ecstatic sound" on a bleak winter's day, which the speaker observes while leaning "upon a coppice-gate". For 10 points, name this author of "The Convergence of the Twain" and "The Darkling Thrush" who embraced poetry after the poor reception received by his novel Jude the Obscure.
+ANSWER: Thomas Hardy
+
+16. Some stories of his creation say that he sprang from a living rock or tree, but a sculpture on Hadrian's Wall which also includes the earliest known representation of the twelve signs of the Zodiac shows him holding the Sword of Truth and Torch of Light while bursting from a Cosmic Egg. Created on December 25, this god fought against the first living creature, which a raven instructed him to follow after it escaped. His worshipers often convened underground or in dark rooms decorated like caves and he created the living world from the bodily fluids of a slain bull.  FTP, name this deity worshiped in Persia and later glorified in a mystery cult followed by many soldiers in the Roman Empire, Sol Invictus.
+ANSWER: Mithras (prompt on "Sol Invictus")
+
+17. The farthest headwater of this river is the North River in the Mesabi Iron Range near Hibbing, Minnesota, 1,900 milesfrom the mouth. Its various islands include the "Cemetery of the Gulf", Anticosti Island, and an archipelago that includes Wolfe, Carleton, and Wellesley Islands. The origin of this river is found between Kingston, Ontario and Cape Vincent, New York, and it flows mostly through Quebec before emptying into the Atlantic Ocean. This river is home to the Thousand Islands. For 10 points, name this river which flows east out of Lake Ontario and forms part of the Canada-USA border, as well as a namesake seaway.
+ANSWER: St. Lawrence River [or Fleuve Saint-Laurent]
+
+18. One of this man's writings was titled "A Sermon to Catechumens on the Creed". On the question of Jesus Christ, he argued against Pelagius' contention that Christ was merely an example to follow and that salvation can be achieved without any divine assistance. Scholars have discussed the Ciceronian influences present in the fourth book of his On Christian Doctrine, while another of his major works describes the conflict of the title structure "against the pagans", people dedicated to earthly pleasures who live in the City of Man. For 10 points, name this fourth and fifth Century theologian who created the idea of the "City of God" and who described his conversion to Christianity in his Confessions.
+ANSWER: Saint Augustine of Hippo
+
+19. One of these involving a happy or unhappy messenger extends another typically taken to involve cyanide.  Another, intended to question hidden variable theories, has since been implemented in practice.  One, generally called a certain type of "paradox", involves brothers moving at different speeds.  Including such things as Schrodinger's cat, the twin paradox, Laplace's demon, Maxwell's demon, and the Brownian Ratchet, for 10 points, name these imaginary hypothetical situations used to explain a physical concept or interpret a theory.
+ANSWER: thought experiments [or Gedankenexperiment]
+
+20. One character in this work doesn't have the naturally sunny disposition of his mother and doesn't want to try to find the house with the hidden panel. Another character in this work extols the virtues of the Coca-Cola stock-owning Edgar Atkins Teagarden. That character's wife puts money into a jukebox for their daughter June Star to dance to when the central family of this work stops at The Tower to eat Red Sammy's Famous Barbeque. Bailey and John Wesley are the first of its characters to be led into the woods, followed shortly by the mother, June Star, and the baby. Then, despite deriving no pleasure from it, The Misfit shoots the grandmother three times in the chest. For 10 points, name this Flannery O'Connor short story whose title describes the decadence of the times.
+ANSWER: "A Good Man is Hard to Find"
+
+21. Her official perfume names a piece saying that the titular object "forever you will be a shining star"; that perfume, "Black Star", is prominently used in music videos off the album "Goodbye Lullaby."  More prominent songs of hers have videos where she races herself in go-karts and vandalizes bathrooms, in a song where she calls herself a "motherfucking princess." Singer of "Things I'll Never Say" and "Nobody's Home" on albums like "Under My Skin" and "Let Go," for 10 points, name this Canadian singer of "My Happy Ending", "Sk8er Boi", and "Complicated."
+ANSWER:  Avril Lavigne
+
+22. The US government classified this group as a Foreign Terrorist Organization in 1997, and last March designated members Miguel de Garikoitz Aspiazu Rubina and Jose Ignacio Reta de Frutos as targets under Executive Order 13224. It was responsible for a 1987 supermarket bombing that killed 21, and for the murder of prime minister Carrero Blanco in 1973. FTP, name this Spanish separatist group seeking Basque independence.                      
+ANSWER:  Euskadi Ta Askatasuna [or Basque Fatherland and Liberty; or ETA]
+
+23. When this empire was founded, it was governed by 4 capital states, including Pasargatae. In 538 BC, this empire, led by its founder, Cyrus the Great, ended the Jewish exile when it captured Babylon and Cyrus allowed the Jews to return home. In 499 BC, the Ionian revolt sparked a chain of events that eventually led to this empire's attempt to subdue it. For 10 points, name this empire which originated in modern-day Iran and whose ruler Xerxes attempted to conquer Greece.
+ANSWER: Persian or Achaemenid Empire
+
+
+VETO 2011
+Bonuses by Washington (Nate Beutel, Carolyn Woods, Peter Senchyna, Andrew Hunter), Rob Carson, and Bernadette Spencer
+Hastily edited by Rob Carson
+
+1. Name these people influenced by Freud, for 10 points each.
+[10] This most-famous student of Freud disagreed with his theories of the unconscious. He instead proposed a collective unconscious made up of various archetypes, including the animus and anima.
+ANSWER: Carl Gustav Jung
+[10] This French psychoanalysist and author of Ecrits proposed that all children go through a "mirror stage" of development. He also founded the Ecole Freudienne in Paris.
+ANSWER: Jacques Marie Emile Lacan
+[10] This 20th Century British philosopher attempted to integrate psychoanalysis with ethics in works like Ethics and the Limits of Philosophy and Problems of the Self.
+ANSWER: Bernard Arthur Owen Williams
+
+2. Virtual reality is a favorite topic of many science fiction authors. For 10 points each, answer questions about a particular author's take on it:
+[10] First published with the title The World the Children Made, in this 1950 short story George and Lydia encounter rebellion from their children after the installation of their Happylife Home, culminating in their imprisonment in the nursery with a pride of simulated lions.  
+ANSWER: The Veldt
+[10] This author of The Veldt also wrote the short stories A Sound Of Thunder and There Will Come Soft Rains, in addition to such novels as Fahrenheit 451.
+ANSWER: Ray Bradbury
+[10] In Fahrenheit 451, this wife of Guy Montag spends most of her time watching TV on the three wall-size screens in the parlor, describing characters on TV as her friends.
+ANSWER: Mildred Montag
+
+3. Let's fight hard for every meter on all three downs! For 10 points each,
+[10] Name this sports organization which competes each year for the Grey Cup.
+ANSWER: CFL [or Canadian Football League]
+[10] The last two Grey Cups have been won by this team, originally the Baltimore Stallions.  Their head coach is Marc Trestman, and they came back from a 16 point deficit in the fourth quarter against the Saskatchewan Roughriders in the 2009 Grey Cup.
+ANSWER: Montreal Alouettes [or Montreal Alouettes]
+[10] This former Boston College star and Heisman Award winner, the most recent man to drop-kick an extra point in the NFL, was a CFL great both before and after playing in the NFL.  He won three Grey Cup MVPs before returning to play for the Bills, Chargers, and Patriots.
+ANSWER: Doug Flutie
+
+4. Identify the following about, oh, I don't know, ethers, for 10 points each:
+[10] One common method used to synthesize ethers is this reaction, in which an alkoxide ion is reacted with a primary alkyl halide via an SN2 reaction.
+ANSWER: Williamson ether synthesis
+[10] This cyclic ether, with a ring consisting of four carbons and one oxygen, is a commonly-used laboratory solvent, often used to store organolithium or Grignard reagents. It can also be polymerized by strong acids into PTMEG, a precursor to Spandex.
+ANSWER: tetrahydrofuran [or THF]
+[10] Ethers generally function as this type of base, generally defined as an electron-pair acceptor.
+ANSWER: Lewis bases
+
+5. You can't help avert the looming debt ceiling catastrophe in the United States, but you can name some of the "Gang of Six" Senators who are trying. For 10 points each:
+[10] This Oklahoma Republican left the group but later returned. In the Senate he is knows as "Dr. No" for his penchant for holding up bills he believes are unconstitutional.
+ANSWER: Tom Coburn
+[10] On the other side of the isle, this Democrat hails from Illinois. He is the Senate Majority Whip and known for being very liberal.
+ANSWER: Dick Durbin
+[10] Back over to the other side, name this Republican who represents Georgia. During his 4 terms in the U.S. House of Representatives, he chaired the House Intelligence Subcommittee on Terrorism and Homeland Security.
+ANSWER: Saxby Chambliss
+
+6. His debut novel Almost Transparent Blue won him the Akutagawa Prize, and four years later he released the similarly successful Coin Locker Babies. For 10 points each:
+[10] Identify this popular countercultural author of In the Miso Soup.
+ANSWER: Ryu Murakami [or Ryunosuke Murakami; accept names in either order]
+[10] Ryu Murakami's similarly-named, but unrelated and superior, contemporary Haruki Murakami wrote a lot of awesome novels. One such novel is this 1995 work about Toru Okada, who searches for his lost cat Noboru Wataya.
+ANSWER: The Wind-Up Bird Chronicle [or Nejimaki-dori Kuronikuru]
+[10] Both Murakamis often write about the disaffected youth of this island nation, also home to such authors as Kenzaburo Oe and Yasunari Kawabata.
+ANSWER: Japan [or Nihon-koku; or Nippon-koku]
+
+7. Identify the following about The Well-Tempered Clavier, for 10 points each:
+[10] The Well-Tempered Clavier is a two-volume collection of preludes and fugues in all the major and minor keys written by this Baroque composer, whose other works include the St. Matthew Passion and the Toccata and Fugue in D Minor.
+ANSWER: Johann Sebastian Bach
+[10] Both books of the Well-Tempered Clavier were recorded in full by this eccentric Canadian pianist and prominent Bach interpreter, who also produced a famous version of the Goldberg Variations.
+ANSWER: Glenn Herbert Gould
+[10] The Well-Tempered Clavier was also among the Bach works for which piano transcriptions were produced by this composer of the Fantasia Contrappuntistica, who also composed operas like Doktor Faust and a version of Turandot.
+ANSWER: Ferruccio Busoni [or Ferruccio Dante Michelangelo Benvenuto Busoni]
+
+8. Let's talk about statistical mechanics.  For 10 points each,
+[10] One father of statistical mechanics was this man, who names a distribution with Maxwell, and whose lattice methods are used in computational fluid dynamics.
+ANSWER: Ludwig Boltzmann
+[10] Boltzmann later killed himself (possibly due to his study of statistcaly mechanics); so did this notable statistical mechanic and student of Boltzmann. His namesake theorem concerns time derivatives of the expectation of quantum quantities and his paradox concerns a relativistic rotating disc.
+ANSWER: Paul Ehrenfest
+[10] This function in stat mech, denoted Z, is a function of the energy inherent in a system in each possible state.
+ANSWER: the partition function
+
+9. Name some American Civil War battles, for 10 points each:
+[10] This engagement was the first large one to take place on Union territory, and was the bloodiest single day of the war. Despite having superior numbers, Union general George McLellan did not press his advantage, allowing the Confederates under Robert E. Lee to emerge victorious.
+ANSWER: Battle of Antietam or Battle of Sharpsburg
+[10] Taking place immediately after Gettysburg, this battle lasted 40 days, and the Union victory, combined with their capture of nearby Port Hudson, gave them control of the Mississippi River.
+ANSWER: Battle of Vicksburg or Siege of Vicksburg
+[10] This battle, a victory for Joseph Hooker over the forces of Carter L. Stevenson, allowed Hooker to help route Braxton Bragg's forces at Missionary Ridge the next day.
+ANSWER: Battle of Lookout Mountain
+
+10. Answer some questions about doctrines of Buddhism. For 10 points each:
+[10] Budddhism rejects the doctrine of anatta, i.e. that beings have a soul that is distinct and separate from the rest of the universe. Instead, it emphasizes existence as a process of mutual cause-and-effect, knows as this.
+ANSWER: Prat?tyasamutp?da [or Dependent Arising or Dependent Origination]
+[10] Prat?tyasamutp?da is also the cause of this occurrence, where beings return to earth as a different being, either higher or lower on the ladder to Nirvana depending on their accumulated karma.
+ANSWER: reincarnation [or Punabbhava or Punarbhava or Sams?ra  or Rebirth or Transmigration]
+[10] If you build up a lot of bad karma, you might be sent to one of these realms, which essentially function as "Buddhist hell". There are 8 cold one and 8 hot ones, and the stay in each is very long. In Arbuda, the cold raises blisters on the bodies of the inhabitants, and the stay lasts as long as it takes to empty a barrel of sesame seeds, if you only removed one every 100 years.
+ANSWER: Naraka
+
+11. It was originally published alongside its author's story "Jackals and Arabs" in the Martin Buber-edited periodical Der Jude. For 10 points each:
+[10] Identify this story about an ape named Rotpeter, or "Red Peter", who describes his self-directed adoption of the behaviors and emotions of humanity.
+ANSWER: "A Report to an Academy" [or "Ein Bericht fuer eine Akademie"]
+[10] "A Report to an Academy" was penned by this Czech author, who described the travails of Josef K. in his novel The Trial and wrote of Gregor Samsa's transformation into an insect in "The Metamorphosis".
+ANSWER: Franz Kafka
+[10] This Kafka novel centers on the land surveyor K, who spends most of it futilely attempting to gain entrance to the title building and set up a meeting with Klamm.
+ANSWER: The Castle [or Das Schloss]
+
+12. If it ain't Baroque, don't fix it. Name some things about a particular style of art for 10 points each:
+[10] This 1625 sculpture features a woman in the process of transforming into a tree in order to evade the unwanted advances of the man who is pursuing her.
+ANSWER: Apollo and Daphne
+[10] This sculptor of Apollo and Daphne also produced The Rape of Proserpina and Ecstasy of St. Teresa.
+ANSWER: Gian Lorenzo Bernini
+Ecstasy of St. Teresa serves as the centerpiece for this chapel, which was commissioned by the eponymous  Cardinal after Pope Innocent X refused to work with Bernini.
+ANSWER: Cornaro Chapel
+
+13. They come in nuclear, trace, and McDonald varieties.  For 10 points each,
+[10] Name these functions that assign a length to vectors, satisfying positive homogeneity, separation, and the triangle inequality.
+ANSWER: norms
+[10] Distance "as the crow flies" is this norm, sometimes called the 2-norm; it is the square root of the sum of the squares of the components.
+ANSWER: Euclidean norm
+[10] Any one of these items defines a norm via application to two copies of a vector.  Hilbert spaces are complete spaces equipped with one of these.  The Cauchy-Schwartz inequality upper bounds the value of these by values of the corresponding norm.
+ANSWER: Inner product
+
+14. "None of Nature's landscapes are ugly so long as they are wild". Make John Muir proud and name the national park or reserve described, for ten points each
+[10] This park was the first protected area in Ecuador, and celebrated its fifty-second birthday this year; it claims to be the "best conserved archipelago in the world".
+ANSWER: Galapagos National Park
+[10] Located on Vancouver Island and composed of the Long Beach, Broken Group Islands, and West Coast Trail units, this National Park Reserve occupies the traditional territory of the Nuu-chah-nulth First Nations.
+ANSWER: Pacific Rim National Park Reserve
+[10] This Australian park in the Northern Territory contains savanna, sandstone plateau, coastland, and the high-producing Ranger uranium mine. Its approximately fifteen thousand sites of aboriginal rock paintings gained it a place on the UNESCO World Heritage List.
+ANSWER: Kakadu National Park
+
+15. Name some monarchs from the House of Hanover, for 10 points each:
+[10] This monarch reigned longer than any other in British history, and from 1876 served as Empress of India. She also created the Torchwood Institute on an episode of Doctor Who known as "Tooth and Claw."
+ANSWER: Queen Victoria
+[10] Nicknamed the "Sailor King", this final Hanoverian king of Englandhad no less than 10 illegitimate children with actress Dorothea Jordan, and he is perhaps best known for the abolition of slavery in the Empire and the Reform Act 1832.
+ANSWER: King William IV
+[10] This blind son of Ernest Augustus I was the final king of Hanover itself. He maintained a paramilitary unit called the Guelphic Legion in an ultimately futile effort to maintain his hold on the throne of Hanover.
+ANSWER: George V
+
+16. The Bronte sisters were a talented trio; name some things about their works for 10 points each:
+[10] Penned by Charlotte Bronte, this novel follows protagonist Lucy Snowe, as she falls in love with a schoolmaster  and subsequently becomes headmistress of her own school.
+ANSWER: Villette
+[10] This Anne Bronte novel sees the titular governess in the employ of the Bloomfield and Murray families, eventually deciding to open her own school after the death of her father.
+ANSWER: Agnes Grey
+[10] This Emily Bronte novel relates the intersection of the Earnshaw and Linton families and the tragedies that ensue.
+ANSWER: Wuthering Heights
+
+17. Name some these Greek figures who control your life. Their Roman names are also acceptable. For 10 points each:
+[10] This member of the Moirae (or Parcae) spins the thread of life on her spindle. She is the arbiter of who is born and when.
+ANSWER: Clotho or Nona
+[10] This other member of the Moirae chooses the mechanism of death. She is most famous as the one who cuts your thread when your time is up.
+ANSWER: Atropos or Aisa or Morta
+[10] When your time is up is determined by this final member of the Moirae. She's the one who measures the thread of life with her measuring rod.
+ANSWER: Lachesis or Decima
+
+18. Name some islands in the Mediterranean Sea, for 10 points each:
+[10] This island is separated from mainland France by the Ligurian Sea. Its highest peak is Monte Cinto, and it is the most mountainous in the entire sea.
+ANSWER: Corsica
+[10]  Travel from Corsica across the Strait of Bonifacio to the south,  and you will find this Italian Island. It is the second largest island in the Mediterranean, and its largest river is the Tirso, while its highest peak is Punta La Marmora. Its capital can be found at Cagliari.
+ANSWER: Sardinia
+[10] Just behind Sardinia on the largest islands of the Mediterranean list, this piece of rock prominently features the Troodos Mountains and the Kyrenia Mountains. It also incudes 2 plains known as Morphou and Mesaoria.
+ANSWER: Cyprus
+
+19. Lots of weird things can be found in Australia. For 10 points each, name some odd animals indigenous to the area:
+[10] One of only two mammal species that exhibits electrolocation, males of this species also sport spurs which contain venom produced in the crural glands.
+ANSWER: Platypus or Ornithorhynchus anatinus
+[10] The platypus belongs to this order of animals, which unlike other mammals lack a corpus callosum and are known for laying eggs and nursing their young.
+ANSWER: Monotremata or  Monotremes
+[10] Named after a mythical Greek monster who was the mother of Cerberus, the Chimera, and the Teumessian fox, this is the only other family of Monotremes.
+ANSWER: Echidna or Tachyglossidae
+
+20. Camelot is indeed a silly place. For ten points each, name these European castles:
+[10] This castle was built first with wood by William the Conqueror, then rebuilt with stone by Henry II, and is now the oldest occupied palace in Europe. The grounds contain the formidable Round Tower keep and St George's chapel.
+ANSWER: Windsor Castle
+[10] This World Heritage castle and monastery was built in thirteenth century Poland and became the seat of the Teutonic Order in 1309. It sits on a peninsula on the Nogat River, where it helped the Order maintain control over and Christianize the Prussians.
+ANSWER: Malbork or Marienburg Castle
+[10] This Scottish castle was built in the late fourteenth century for Robert Stewart, Duke of Albany. You may recognize its walls from the first scene of Monty Python and Holy Grail, and its courtyard from Lancelot's valiant wedding rescue attempt.
+ANSWER: Doune Castle
+
+21. LGBT rights have come a long way since the sixties, but in some areas there's still progress to be made. Name some advances and setbacks for 10 points each:
+[10] Following the lead of Massachusetts, Connecticut, and Iowa, this state recently passed a law legalizing same-sex marriage.
+ANSWER: New York
+[10] Over 13,000 troops have been discharged since the 1993 implementation of this policy, which is currently pending repeal.
+ANSWER: Don't Ask, Don't Tell
+[10] Introduced by Senator Feinstein and Representative Nadler on the same day in the House and Senate, this bill would repeal the 1996 Defense of Marriage Act.
+ANSWER: Respect for Marriage Act
+
+

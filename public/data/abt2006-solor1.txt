@@ -1,0 +1,64 @@
+2006 UIUC ABT High School Solo Round 1
+Questions by Donald Taylor, Sudheer Potru, and Mike Sorice
+
+1.  This condition can result in acute chest syndrome in adults and jaundice in teenagers, but there is no cure for it.  The drug hydroxyurea is used to treat its symptoms, the most major of which is generalized body pain.  Affecting one in twelve African-Americans, it is caused by the substitution of a valine for a glutamic acid in an abnormal form of hemoglobin, HbS, which causes red blood cells to clump together and obstruct circulation in the body.  For 10 points, name this disorder which takes its name from the shape of these red blood cells.
+ANSWER: sickle-cell anemia [or "disease" in place of "anemia"]
+
+2.  The mother of this famous ruler instilled in him a lasting fear of "crimes committed against God".  After the death of Cardinal Mazarin, he became his own chief minister, sending Fouquet [foo-KAY] to prison for life since Fouquet had built a home greater than his.  He epitomized the concept of the absolute monarch and ruled as such for over 50 years.  For ten points, name this famous French king whose nickname was the "Sun King".
+ANSWER:  Louis XIV
+
+3.  Some of his more recent works include the scores for Memoirs of a Geisha and Munich.  His work in films began in 1958 with Daddy-O and he has also worked on countless other films including Amistad and Seven Years in Tibet.  He was the conductor for the Boston Pops from 1980 to 1993, but most know him for doing scores for endless classics.  For ten points identify the man who composed the music for Jaws, the the Harry Potter series and the Star Wars series.
+ANSWER:  John Williams
+
+4.  Calculation:  20 seconds.  Take the number of items in a score, multiply that by half a dozen, then subtract the number of fluid ounces in a pint.
+ANSWER:  110
+
+5.  This one-act play features three characters that are placed in a Second Empire room.  One cheated on his wife, another seduced another man's wife, and the third cheated on her husband and drowned her baby.  Of course, all three of them are dead, but that doesn't stop Estelle from trying to stab Inez.  For ten points, identify the play in which Garcin concludes, "Hell is other people", the most famous work of Jean-Paul Sartre [SAR-truh].
+ANSWER:  No Exit (accept Huis Clos)
+
+6.  Arthur Clarke wrote of a bridge spanning it in his 1979 novel The Fountains of Paradise, and it is the location of Isla Perenjil, an island disputed by the two countries that this body of water separates.  Named for a Berber general, its boundaries were once known as the Pillars of Hercules.  For ten points, name this buffer between Spain and Morocco.
+ANSWER:  Strait of Gibraltar
+
+7.  The two daughters of this titular character move to undermine his power as soon as he gives them his lands.  He flees his own home during a thunderstorm and heads onto a heath, where the Earl of Gloucester sees him.  The Earl tries to help him, but when Cornwall finds out, the Earl is accused of treason and blinded.  At the end, one of his daughters kills two of them while the third is executed.  For ten points, name this Shakespearean play in which the aging King of Britain screws over his good daughter, Cordelia.
+ANSWER:  King Lear
+
+8.  Also called the Transcontinental Treaty, it was not ratified by the US until twelve years after its conception.  In the provisions, Spain retained possession not only of Texas, but also California and the vast region of New Mexico.  The United States ceded to Spain its claims to Texas west of the Sabine River and gained possession of Florida.  For ten points, name this treaty negotiated in 1819 by a future president.
+ANSWER:  Adams-Onis Treaty
+
+9.  Minimized at constant pressure and temperature, its partial derivative with respect to mass gives the chemical potential for a reaction.  Derivable from the second law of thermodynamics and the definition of entropy, for values of its change less than zero, a reaction is spontaneous.  Its change is usually calculated from the difference of the enthalpy and product of temperature and entropy, or delta H minus T times delta S.  For 10 points, name this thermodynamic quantity created by a namesake American physicist.
+ANSWER: Gibbs free energy
+
+10.  It went on to be nominated for a Grammy for Best R & B Performance-Duo or Group, but lost to Prince and the Revolution's "Kiss".  Profits made from the song were donated to charity, backing up the claim that they were doin' it to feed the needy.  Samurai Mike sets the style, Speedy Willie is as smooth as a chocolate swirl, and if a quarterback's slow, Dent's gonna bend him in, for ten points, what song performed by the 1985 Chicago Bears?
+ANSWER:  Super Bowl Shuffle
+
+11.  Meaning "put together", its four laws of organization are proximity, similarity, closure, and simplicity.    Founded by Max Wertheimer, Wolfgang Kohler, and Kurt Koffka, its proponents assert that memory structures information based on associative connections and a tendency for optimal organization.  For ten points, name this psychological theory whose key principle is that the whole is more than the sum of its parts.
+ANSWER:  Gestalt
+
+12.  Computational:  20 seconds.  Assuming 0<x<360 degrees, solve the following equation for x, giving all solutions:  2 cos(x) = sin(x) csc(x).
+ANSWER:  60, 300 (both must be given, do not prompt if only one is given)
+
+13.  The Kelvin-Planck version of this concept states that heat cannot be directly changed into work, while Maxwell's demon is a thought experiment designed to circumvent it. It was first formally posited by Clausius, whose version of this law states that, in an isolated system, the entropy does not decrease. For ten points, identify this law of thermodynamics.
+ANSWER: second law of thermodynamics
+
+14.  Computational:  20 seconds.  In slope intercept form, find the equation of the tangent line to the equation y=x3 at (2,8).
+ANSWER:  y=12x-16
+
+15.  This title character makes many wrong assumptions, the first being that Frank Churchill's charms are aimed at her.  She later thinks that her friend Harriet is in love with Frank when in fact it is her brother-in-law.  When all is said and done, Harriet marries Robert Martin, and the title character marries Mr. Knightly.  For ten points, name this Jane Austen novel.
+ANSWER:  Emma Woodhouse
+
+16.  After the August Revolution, he became Premier and forced Bao Dai to abdicate and was elected President in 1955.  His body is on display in a mausoleum a la Lenin, but he wanted to be cremated, since it was good hygienically and would save farmland.  He was President for 14 years until his death, and a city was named after him in 1976.  For ten points, name this Communist North Vietnamese leader.
+ANSWER:  Ho Chi Minh
+
+17.  The German guide to the 1937 World's fair called it "a hodgepodge of body parts that any four-year-old could have painted".  The German disdain was to be expected, as the inspiration for it was Hitler's use of the titular city in northern Spain as a testing ground for incendiary explosives.  For ten points, name this famous painting by Picasso.
+ANSWER:  Guernica
+
+18.  Calculation:  20 seconds.  Find the eccentricity of the ellipse with the equation 9x2 +3y2 - 36x - 6y + 12 = 0.
+ANSWER:  (root six over three)
+
+19.  He is symbolized by the wisdom of the serpent, and has other names, such as Shanka and Mahadev.  This god of the yogis is visible in his Panchavaktra [pan-cha-vack-truh] form with 5 heads, a combination of all his energies.  His holy mount is Nandi the bull and his attendant is Bhadra.  For ten points, name this Hindu god also known as "the destroyer".
+ANSWER:  Shiva
+
+20.  This titular location is made up of bleak walls, vacant eye-like windows, and has a fissure in its side.  Its reflection in the tarn below is seen as a "striking similitude" between the two main characters.  It is the home of a brother and sister, and at the end of the story, the sister comes back from the dead to get her revenge, since her brother buried her alive.  For ten points, name this titular home created by Edgar Allan Poe.
+ANSWER:  (The Fall of the) House of Usher
+
+

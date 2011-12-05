@@ -1,0 +1,62 @@
+2006 UIUC ABT High School Solo Round 10
+Questions by Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  The scene in this painting takes place in the Alcazar, and it shows the artist painting the painting.  The titular figures are assembled in the foreground along with Infanta Margarita and a mastiff is seen lying down in the lower right corner.  In a mirror on the back wall, one can see King Philip IV and Queen Mariana, the artist's patrons.  For ten points, name this painting by Diego Velazquez also known as "The Maids of Honor".
+ANSWER:  Las Meninas (accept The Maids of Honor on early buzz)
+
+2.  This title character christened her son Sorrow, but he dies in early infancy.  She is sent to work at a mansion by her father, a peddler, but she ends up becoming pregnant with Sorrow by the young man residing there.  She ends up marrying another man, Angel Claire, but after they split and he comes back, she stabs her lover, Alec.  For ten points, identify this title female in a novel by Thomas Hardy.
+ANSWER:  Tess Durbeyfield (accept Tess of the D'urbervilles, prompt on Tess)
+
+3.  Antibiotics like puromycin have similar 3-prime ends to this molecule, and so inhibit its activity.  The 3-prime end of every molecule of it has the sequence CCA, and its D and T-psi-C arms cause it to have a cloverleaf structure and an L-shaped tertiary structure, which is stabilized by nonstandard hydrogen bonds.  It can undergo the so-called wobble, or substitution of individual bases with no effect on the anticodon.  Ribosomes contain two binding sites for aminoacylated versions of it, both of which are used to make peptides.  For 10 points, name this RNA molecule crucial to translation.
+ANSWER: transfer RNA [prompt on "RNA"]
+
+4.  Calculation:  20 seconds.  Using implicit differentiation, find dy/dx [d y d x] of the equation x3 - xy + y2 = 4 [x cubed minus x y + y squared equals four].
+ANSWER:  (y-3x2)/(2y-x) [accept (-y+3x2)/(-2y+x) or other equivalent forms]
+
+5.  His political philosophy, known as the "Three Principles of the People", was influenced by Lincoln's Gettysburg Address.  This physician-turned-nationalist later founded the Revive China Society and was exiled for a failed attempt to overthrow the government.  After hearing of the Wuchang Uprising, he came back to China and was proclaimed President in 1911.  For ten points, name this founder of the Kuomintang and "National Father" of China.
+ANSWER:  Sun Yat-Sen
+
+6.  He is a Zulu priest in the village of Ndotsheni with a strong faith in God.  He and his wife are struggling to save money for their son's schooling, and a trek to find his son ends up strengthening his faith.  When his son Absalom is executed for murder, he is able to accept it with a sense of peace.  For ten points, identify the main character in Alan Paton's Cry the Beloved Country.
+ANSWER:  Stephen Kumalo
+
+7.  A common laboratory experiment investigating the determination of one of them involves putting ethylene glycol in t-butanol, and another of them is usually represented as a psi.  Henry's Law allows for the calculation of one of them, but the extent of the two most common varieties uses the product of a constant symbolized either k-sub-f or k-sub-b and molality.  Including osmotic pressure, vapor pressure, boiling-point elevation, and freezing-point depression, for 10 points, name these properties of solutions dependent on the concentration of solute in those solutions.
+ANSWER:	colligative properties
+
+8.  Its highest point is Mt. Kholodilnik , and it extends into Peter the Great Bay.  From 1958 to 1991, only Soviets could enter this city, and permission had to be granted from the government before doing so. This chief Russian seaport on the Pacific is, for ten points, what city which also serves as the eastern terminus on the Trans-Siberian Railway?
+ANSWER:  Vladivostok
+
+9.  The last one was celebrated on October 3, 2005 and the next will be on September 22, 2006.  The Torah refers to it as "The Day of the Blowing of the Shofar", the shofar being a ram's horn, but it is not blown if it falls on Shabbat.  It is celebrated on the first and second days day of Tishrei [tish-RAY] and is literally translated as "head of the year".  Apples dipped in honey are eaten during it to symbolize the hopes for a sweet new year.  For ten points, name this Jewish holiday.
+ANSWER:  Rosh Hashanah (accept Jewish New Year on early buzz, prompt after new]
+
+10.  Calculation:  20 seconds.  Solve the following equation for all solutions between 0 and 2¹:  sin(x) = 2 cos2(x) - 1.
+ANSWER:  ¹/6, 5¹/6, 3¹/2 (accept in any order)
+
+11.  An isochoric process is one that conserves this statistical property of matter, which is equal to the inverse of the specific volume. For an ideal gas of molar mass M, this property is equal to pM/RT ["p M by R T"]. For ten points, name the physical property usually symbolized ? ["rho"]; a measure of how concentrated mass is having dimensions of mass per unit volume.
+ANSWER: density
+
+12.  Originally signed in August 1928 by fifteen nations, it would later be ratified by over sixty countries.  Also called the Pact of Paris, it had no expiration date, no outlined plan of enforcement, and there was no method for amendment, which led some countries to delay action when faced with the aggression of Hitler.  For ten points, name this treaty that in theory was supposed to "outlaw war".
+ANSWER:  Kellogg-Briand Pact
+
+13.  This originator of the action known as stage-diving founded a band in 1967 with Tony Banks, Anthony Phillips and Mike Rutherford.  The band split after he decided to stay home for a while with his wife and first child, and he recorded his decision to leave in the song "Solsbury Hill".  After leaving to pursue a solo career, the drummer took over as the lead singer, and both the individual and his former band continued to have success.  For ten points, name the original lead singer of Genesis whose most famous album, So, included the track "Sledgehammer".
+ANSWER:  Peter Brian Gabriel
+
+14.  Calculation:  20 seconds.  Solve the following equation for x:  2/x + 1/3 = 4/x.
+ANSWER:  x=6
+
+15.  Taking its title from a woodcut by Hans Holbein, Reverend Joseph Machebeuf served as the inspiration for the title character.  Following New Mexico's annexation, the titular character goes as a missionary to convert the natives along with Father Joseph Vaillant.  After he is promoted to the titular position, Vaillant contracts a fever and dies, but not before having to answer to a papal court concerning his finances.  For ten points, name this religious novel by Willa Cather.
+ANSWER:  Death Comes for the Archbishop
+
+16.  According to one definition it is a Roman form as distinguished from the Ambrosian, Galliean, and Mozarabic varieties.  The term used for it was coined by William of Hirschau, and its forms include Ingressa, Psalmellus, Cantus, Offertory, and Transitorium.  Named for a music-loving pope, it has been shown that most were composed before the year 600.  For ten points, name the type of music synonymous with plain chant.
+ANSWER:  Gregorian chant (accept plain chant on early buzz)
+
+17.  Found while its namesake was on a ship bound for England, above it there is no balance between gravitational force and electron degeneracy pressure.  When surpassed, the star either becomes a neutron star or black hole, depending on the degree of collapse.  Winning its discoverer the 1983 Nobel Prize in Physics, for ten points, name this value named for an Indian astronomer.
+ANSWER:  Chandrasekhar limit
+
+18.  Calculation:  20 seconds.  Find 6 factorial minus 5 factorial, then multiply that times 3 factorial.
+ANSWER:  3600
+
+19.  He became king at the age of 17, but his youth was not a disadvantage when dealing with the Riskrad after signing the Accession Charter.  He saw himself as the protector of Protestantism in Germany, but saw an opponent in Ferdinand, so he allied himself with Richelieu.  He died at the Battle of Lutzen after being shot in the back by false friend Franz Albert.  For ten points, name the Swedish king known as the "Lion of the North".
+ANSWER: King Gustavus Adolphus
+
+20.  He is the son of the deceased witch Sycorax and a Patagonian deity.  His speech and behavior is sometimes coarse and brutal, as in his drunken scenes with Stefano and Trinculo and sometimes eloquent and sensitive, as in his rebukes of Prospero, whom he believes stole an island from him.  For ten points, name this servant of Prospero in The Tempest.
+ANSWER:  Caliban

@@ -1,0 +1,65 @@
+2006 UIUC ABT High School Solo Round 8
+Questions by Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  If you write his name for every answer, you will get a 1600 on the ACT.  He doesn't like Sara Lee and can complete the Gallon Challenge in 37 seconds.  It takes him 20 minutes to watch 60 Minutes and he can touch MC Hammer.  Superman  wears his pajamas, and the only reason he sleeps with the light on is because the dark is afraid of him.  For ten points, name this ultimate dispenser of pain whose superiority can be seen on Walker, Texas Ranger.
+ANSWER:  Chuck Norris
+
+2.  Its original cover was an engraving by Martin Droeshout.  It was edited by John Hemminge and Henry Condell and was dedicated to the sons of the Earl of Pembroke.  First published in 1623, its second printing included Pericles and Two Noble Kinsmen.  For ten points, identify this collection which contains many of the works of one William Shakespeare.
+ANSWER:  The First Folio
+
+3.  They included the Massachusetts Government Act, which did away with elections for councilors, and the Quebec Act, which permitted Catholicism in the Ohio country.  It garnered much support for the Crown in the French Canadian Region, but it had the opposite effect in the colonies.  Passed in 1774, it was an immediate response to events that took place on December 16, 1773.  For ten points, give the collective name for the acts passed in response to the Boston Tea Party.
+ANSWER:  Intolerable Acts (accept Coercive Acts)
+
+4.  Paul Lauterbur won a share of the 2003 Nobel in Physiology or Medicine for his work in helping to lay the groundwork for this type of scanner.  In many cases, it can show the arterial system without a contrast injection.  The radio waves used are harmless, and their collision with hydrogen nuclei in water and lipids produces electrical energy from a magnetic coil, allowing a computer to produce a map of tissue.  For 10 points, give the name for this process of using alignment of magnetic moments to produce pictures.
+ANSWER:  Magnetic Resonance Imaging
+
+5.  Calculation:  20 seconds.  Find the first derivative of x times the natural log of x.
+ANSWER:  1+ natural log of x (1 + ln x or ln x + 1)
+
+6.  This novel begins with the title character, a member of Gang 104, being threatened with three days of solitary for waking up late, but he only has to wash the HQ floor.  The prisoners are later forced to strip search in below zero weather for a search, where Buynkovsky is punished for wearing a flannel vest.  For ten points, these events open which novel by Alexander Solzhenitsyn [SOL-zhen-it-sin].
+ANSWER:  One Day in the Life of Ivan Denisovich
+
+7.  In one version of events, ten agents led by Karl Ernst were given access and the half-nude and dazed Marius van der Lubbe was a plant in order to throw off blame.  Occurring on February 27, 1933, the next day Hitler's dictatorship began with the enactment of a decree "for the Protection of the People and the State."  For ten points, what event involved the destruction of a German administrative building?
+ANSWER:  burning of the Reichstag (accept knowledgeable similar answers, prompt if only one is given)
+
+8.  An example of this style is Albert Dubois-Pillet's Under the Lamp.  It is similar to Divisionism, except that this form is more focused on the specific style of brushwork used to apply the paint.  For ten points, name this movement associated with George Seurat and seen in his painting A Sunday Afternoon on the Island of La Grande Jatte.
+ANSWER:  pointillism
+
+9.  Calculation:  20 seconds.  The area of a great circle of a sphere is 4¹.  What is the volume of the sphere?
+ANSWER:  32¹/3
+
+10.  A palladium or platinum catalyst is used in their hydrogenation and reduction, and Lindlar's catalyst produces them from their sister alkynes.  Described with E/Z nomenclature or with cis/trans, they possess one double bond.  For ten points, name these compounds also known as olefins and having general formula C-n-H-2n.
+ANSWER: alkenes
+
+11.  One of his early works, "Symphony for Organ and Orchestra" premiered in at Carnegie Hall in 1925.  He later began writing music for movies, composing the scores for Of Mice and Men and The Heiress as well as the plays Our Town and Billy the Kid.  During the 1930s, his direction was altered by populism, which helped him produce some of his more famous works, including Lincoln Portrait and Fanfare for the Common Man.  For ten points, name the composer of Appalachian Spring.
+ANSWER:  Aaron Copland
+
+12.  Calculation:  20 seconds.  Find the discriminant of the following equation:  4x?+5x-25=0.
+ANSWER:  425
+
+13.  In 1885, the British gave up control over it in exchange for control of Zanzibar.  During WWII, Germany planned to deport all Jews here but never acted on it, and the British sent troops here to keep it from being captured by the Japanese.  Gaining independence in 1960, it is well-known for its lemurs.  For ten points, name this fourth-largest island in the world whose capital is Antananarivo [an-TAh-nah-nah-REE-VO].
+ANSWER:  Madagascar
+
+14.  Its existence was suggested in 1930 by Frederick Leonard and Kenneth Edgeworth.  Objects within it are called trans-Neptunian, and its radius is about 50 AU.  First discovered in 1951 by its namesake, it was formed by Jupiter and contains objects about the size of Earth or Mars.  For ten points, name this disk-shaped region of the solar system.
+ANSWER:  Edgeworth-Kuiper Belt
+
+15.  It opens with the speaker's declaration that five years have passed since he last visited the titular location, encountered its tranquil, rustic scenery, and heard the murmuring waters of the river.  The title locale is located on the banks of the Wye, and he talks about how memories of the scenery around it provided him with "sensations sweet, / Felt in the blood, and felt along the heart."  For ten points, name this poem by Wordsworth which he wrote who a few miles from the titular location.
+ANSWER:  Lines Composed a Few Miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798
+
+16.  Upon arriving in South Africa, he was discriminated against several times as a "coolie", and this indignation let loose his tongue.  His policy of satyagraha [sah-tee-uh-grah-ha], or "pursuit of truth", has inspired leaders all over the world, and he led the 1930 "Salt March" to protest a salt tax.  He was assassinated by Nathuram Godse, and his memorial, Raj Ghat, can be found in Delhi.  For ten points, name this "Great Soul".
+ANSWER:  Mohandas or Mahatma Gandhi (prompt on Gandhi)
+
+17.  This concept relates the dispersions of two non-commuting observables. Its most familiar form arises because there are no simultaneous eigenfunctions of the position and momentum operators and, in this form, it states that the product of the standard deviations in measurements of the position and momentum of a particle is greater than or equal to ?/2 ["h-bar over two"]. For ten points, name the principle that states that certain properties of a quantum particle cannot be simultaneously measured to an arbitrary degree of precision and that is attributed to Werner Heisenberg.
+ANSWER: Heisenberg's uncertainty principle
+
+18.  Calculation:  20 seconds.  Find the interquartile range of the following set of numbers: 1, 4, 6, 9, 9, 11, 14, 15, 24, 34.
+ANSWER:  11.75 (accept 113/4 or 47/4)
+
+19.  She often wrote about the relationships within families in her short stories, such as "Death of a Traveling Salesman".  She was also a photographer, and her pictures of Mississippi of the 1930's were shown in Rennes [ren] in 2002.  Her best-known work is about Laurel Hand bickering with her father's second wife, Fay.  For ten points, identify the author of "The Optimist's Daughter" which won a Pulitzer Prize in 1973.
+ANSWER:  Eudora Welty
+
+20.  Different actions that one does during this include running seven times between two hills and drinking from the Zamam spring;  throwing 49 stones at "Satans" made of stone", and staying in tents in the desert, where you pray at the Plain of Arafat and Mound of Mercy, then sacrifice an animal.  Your journey is complete after circling the Kaaba an eighth time.  For ten points, if you do this, then you have completed what pillar of Islam that only needs to be done once?
+ANSWER:  Hajj (accept pilgrimage to Mecca, prompt on pilgrimage)
+
+
+

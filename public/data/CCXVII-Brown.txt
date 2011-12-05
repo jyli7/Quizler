@@ -1,0 +1,264 @@
+Cardinal Classic XVII: The Stanford Quizzin' Experiment
+Packet by Brown (Jerry Vinokurov, Dennis Jang, Eric Mukherjee, Andrew Hart)
+
+1. The artist Euphranor painted a depiction of one conflict of this name in the Stoa Basileus. One battle of this name saw a force under Philopoemen rout the army of Machanidas while another battle of this name saw Archidamus IV lose to Demetrius I in 294 B.C.E. Yet another battle of this name began after the capture of Epidaurus and Orchomenos, and saw a victory for Agis II over the Quadruple Alliance. The conflict which saw that battle would later also see clashes at Notium and Arginusae, but the most famous battle of this name saw the defeat of Aegisilaeus II nine years after his countryman Cleombrotus had lost at Leuktra. For ten points, identify the name shared by these battles, the most famous of which was fought in 362 B.C.E. between Sparta and Thebes, and saw the death of Epaminondas. 
+ANSWER: Mantinea 
+
+2. This poet spoke of youth as being a "golden treasure" in a "Song of Autumn and Spring," and addressed a "poor little princess with blue eyes," in his "Sonatina." Edgar Allen Poe and Comte de Lautreamont are two poets described as "exquisite flowers" in his critical work about The Rare Ones, and he wrote an elegy on the death of Rafael Nunez, with whose help he had obtained the position of consul in Buenos Aires. In another poem, he wrote of Cyrano de Bergerac in Spain, and he addressed the titular subject as an "Alexander-Nebuchadnezzar" and "one part George Washington and one part Nimrod," in his "To Roosevelt." For ten points, identify this author of Prosas profanas, who may be most famous for launching the modernismo movement with his poetry and prose collection Azul. 
+ANSWER: Ruben Dario 
+
+3. Edward Conze worked to translate works titled Perfection of Wisdom about this religion, whose belief in "skillful means" is called upaya. Among its texts are the Innumerable Meanings and Perfection of Wisdom Sutras, while a system extended from it espousing the "Doctrine of the Middle Way" was expounded by Nagarjuna. It believes that most of reality is composed of voidness called sunyata, and it is opposed to its members becoming arhats as espoused by the Theravada believers. Becoming bodhisattvas is the primary goal of the members of, FTP, which "greater vehicle" of Buddhism, discussed in the Lotus Sutra, whose branches include Pure Land? 
+ANSWER: Mahayana Buddhism 
+
+4. This politician argued that "the theory of our institutions guarantees to every citizen the full enjoyment of all the fruits of his industry and enterprise," but the Mills bill, which would have lowered tariffs, failed to pass. He accepted the findings in the Morgan Report concerning John Stevens's activities after being elected thanks, in part, due to publication of the "Mulligan Letters." The second term as president for this Bourbon Democrat saw the passage of the Wilson-Gorman Tariff, and he sent Nelson Miles in to break up the Pullman strike, while he had earlier passed the Interstate Commerce Act and the Dawes Act. FTP, name this president whose two terms came before and after that of Benjamin Harrison. 
+ANSWER: Grover Cleveland 
+
+5. These cells are the final result of the complete differentiation of normoblasts, and they have a low count in patients with Diamond-Blackfan syndrome. Spectrin and Ankyrin are important parts of their cytoskeleton, and like the collecting duct of the kidney, they express Band 3 protein. Their membranes are damaged by protein aggregates in beta-thalassemia, and the presence of glycophorin C on their membranes make them susceptible to the plasmodium parasite. Also containing the enzyme carbonic anhydrase and appearing in the hematocrit of a centrifuged sample, their count is decreased in most forms of anemia. FTP, name these biconcave, anucleated that contain hemoglobin and carry oxygen to the tissues, and are also known for giving blood their color.
+ANSWER: Erythrocytes or Red Blood Cells
+
+6. The initial description of this novel's protagonist describes how he contorts his face to reach awkwardly for his overlarge pocket watch, which has a reliable minute hand but a wonky hour hand. After one character is arrested, a closet full of fine female clothes is found marked with his last name and his unrequited love's first name. Henry Fray and Matthew Moon often swap gossip at Morton's malt-house with Joseph Poorgrass in this work, and another character is feared drowned after he is swept out to sea while bathing. The protagonist is ruined when a dog called "George's son" runs his flock over a cliff, and he ends up marrying his true love, whose husband Sergeant Troy is shot by Boldwood. For 10 points, name this novel featuring Gabriel Oak and Bathsheba Everdene, a work of Thomas Hardy that takes its name from a locale away from "ignoble strife" in Elegy Written in a Country Churchyard.
+ANSWER: Far From the Madding Crowd 
+
+7. A dynamic version of this effect occurs in the application of a strongly oscillating laser, and is named for Autler and Townes. Another version of this effect relies on bound excitons and commonly occurs within semiconductor heterostructures, and is said to be quantum-confined. The Wigner-Eckhart theorem is used to show that the first order terms in its common quadratic form vanish, and the first-order version of this effect occurs only in molecules that act like symmetric tops, which makes it useful in molecular rotational spectroscopy. Sometimes also named for Lo Surdo, FTP, name this electrical analogue of the Zeeman effect, the splitting of spectral lines by an electric field. 
+ANSWER: Stark-Lo Surdo Effect 
+ 
+8. Referring to a designer mentioned in this story, one of the characters asks, "Was he soldier, judge, engineer, chemist, and draftsman?" Another character in this work boasts at having so far fended off the new Commandant, and later laments the absence of a new felt. In the end, it is discovered that the followers of the Old Commandant were not allowed to have a name, and the Traveler tells one of those followers that he does not approve of the procedure and will testify against it. At the end of this story, the Officer sets the Harrow to read "Be just!" and submits himself to the machine, only to have it kill him and destroy itself. For ten points, identify this Franz Kafka short story about a device in the titular location which inscribes prisoners' sentences on their body. 
+ANSWER: In The Penal Colony or In der Strafkolonie 
+ 
+9. His late work consisted of a series of portraits including The Woman with a Gambling Mania and The Kleptomaniac, which he painted for a psychiatrist friend. A visit to the titular location and his fascination with Michelangelo inspired The Race of the Barberi Horses, and he showed an officer in a black cap holding a sword as his horse rears up on its hind legs in his first work. His most famous work was painted after studying several bodies in a morgue, and consists of several figures writhing on the title object as two of them wave red and white cloths. FTP, name this Romantic painter of The Charging Chasseur and a depiction of the survivors of a maritime disaster near Senegal, The Raft of the Medusa. 
+ANSWER: Theodore Gericault
+ 
+10. For a partially ordered set, it is equal to the Mobius function of the smallest and largest elements in the set. It can be expressed as an alternate sum of Betti numbers, and Descartes theorem equates it to the number of circles in the total defect. For a two-dimensional Riemannian manifold, it is equal to the integral of the curvature divided by two pi, a result known as the Gauss-Bonnet theorem. For surfaces homeomorphic to a sphere, it is equal to 2, which is used to prove one of its namesakes' formulas. FTP, name this topological invariant often symbolized chi, that for a polyhedron is given by the number of vertices minus the number of edges plus the number of faces, a certain characteristic named for a Swiss mathematician. 
+ANSWER: Euler characteristic 
+
+11. This man's mother divorced the commoner Jin Wangsun to become his father's concubine after Zang Er divined from milfoil stalks that her daughters would be highly honored. The Mogao Cave murals depict this man praying in front of two Buddha statues surrounded by six other worshipers. His father put down the Rebellion of the Seven States, and this man ordered the exploration of the Yuezhi Kingdom by Zhang Qiang. This man's appointed heir revolted after this emperor sired a son at age 62, a pregnancy that supposedly lasted 14 months. In addition to putting down Crown Prince Ju's revolt, he ordered China's first recorded census during his reign. For 10 points, name this emperor who ruled for 54 years, set up a Confucian state, and was the seventh Han ruler.
+ANSWER: Han Wudi (or Han Wu Ti, or Emperor Wu of Han, or Xioa Wu, or Liu Che, or Shizong, or Tong)
+
+12. This work opens with one woman meeting a coal miner at a Christmas dance, leading to their marriage, but she is unable to obtain her material necessities from his drunken state. While Annie and Arthur are able to carry on without her attention, that character's third oldest child, the protagonist of this work, eventually wins four prizes in local exhibits for his painting. However, his relationship with the wife of Baxter Dawes ends when he sees that character hospitalized with typhoid fever. He reconciles Clara with her husband, soon after which he gives a morphine overdose to his cancer-stricken mother Gertrude, whom he cannot bear to leave. Paul Morel leaves Miriam Leivers at the end of, FTP, which novel by D. H. Lawrence? 
+ANSWER: Sons and Lovers 
+
+13. Like Vancouver, this city's public library was designed by Moshe Safdie. This city's "The Avenues" neighborhood gets its drinking water from City Creek, which flooded in 1983 and washed out part of U.S. Highway 89. Parks in this city include the Gilgal Sculpture Garden, the Red Butte Garden, and Temple Square, and its only major professional sports team plays in EnergySolutions Arena. The valley in which this city resides is separated from the Tooele Valley by the Oquirrh Mountains, and some of its suburbs include Woods Cross City, Bountiful, and Taylorsville-Bennion City. This home of the Pacific Coast League Bees lies at the foot of the Wasatch Range, and to its west is the Bonneville Salt Flats. For 10 points, name this capital of Utah.
+ANSWER: Salt Lake City 
+
+14. It only began once a Yale professor sneaked in through one of the building's windows as no one had a key to the building itself. It grew out of discussion regarding a recently passed New York Property Rights Act. James Gordon Bennett ridiculed it in the New York Herald after its second hearing, which took place in Rochester. The only measure not to be overwhelmingly approved addressed the right to vote, though it barely passed after Frederick Douglass addressed the crowd. The organizers themselves had previously met at the World's Antislavery Convention where they had been denied seats. FTP, name this 1848 New York convention organized by Lucretia Mott and Elizabeth Cady Stanton, the first major push for women's rights.
+ANSWER: Seneca Falls Convention
+
+15. The ADMET procedure is one variation of this reaction which is used to create polymers, and one reagent used to catalyze it contains two cyclopentadiene molecules bound to a four-member ring known as Tebbe's reagent. This [2+2] addition is symmetry-forbidden according to the Woodward-Hoffman rules, but, via the Chauvin mechanism, Grubbs's ruthenium catalyst can overcome that barrier. Schrock carbenes are also used in this reaction, which has a metallocyclobutane intermediate. The four-member ring breaks in such a way that the R groups on the two reactants switch position. FTP, name this reaction that switches double bonds from one alkene to another.
+ANSWER: Olefin Metathesis
+
+16. This man fought a duel with George Finch-Hatton, in which both men aimed wide and reconciled afterwards. Earlier in his life, he had served as governor of Seringatam and Mysore, appointments made by his elder brother Richard, the then governor-general of India, and prior to that, he had served as an MP for the rotten borough of Trim in the Irish House of Commons. He married Katty Pakenham, and after his death at Walmer Castle, he would be one of the few men in his country to receive a state burial. He split witht he Tory party over a repeal of the Corn laws and retired from active politics afterwards, though he would remain Commander in Chief of the Forces until his death. Earlier in his life, this man had designed the Lines of Torres Vedras, had defeated Massena at Fuentes de O–oro and Jourdan at Vitoria. FTP, who was this British pime minister and hero of Waterloo?
+ANSWER: Arthur Wellesley (or first duke of Wellington)
+
+17. Preziosilla sings a spirited "Rataplan" at the end of Act III of this opera, which occurs after she tells soldiers of their fortunes and leads them in a tarantella. Fra Melitone is also present at the military camp near Velletri, while at another location, a grievously injured character sings "Solenne in quest' ora' " with another character, whose decision, revealed in "Urna fatale del mio destino," results in the discovery of a portrait of his sister. She is eventually killed by Carlo due to the Marchese's accidental death at the hands of Alvaro at the end of, FTP, which opera by Giuseppe Verdi? 
+ANSWER: La forza del destino 
+
+18. In Shinto myth, these objects are used by shrine-guardians known as zuijin, and in Norse myth, Egil uses one to kill some birds and save his brother Volund. In Hindu mythology, one of these called Kodanda, and another famous one was made of sugarcane and bees and used by the husband of Rati. In Chinese myth, one of these objects was used to destroy nine of the ten original suns by Shen Yi. An example in Greek Mythology was part of a test involving twelve battle axes and the removal of a group of suitors from a certain home in Ithaca. FTP, name this type of weapon used by Kama and Rama, another of which was strung by Odysseus, and whose other famous users include Cupid, William Tell, and Legolas. 
+ANSWER: Bow and Arrow (accept either) 
+
+19. The adaptive version of this technique can be implemented using either Vitter's algorithm or the FGK algorithm, and a similar goal to the one accomplished by this technique can be accomplished using the Shannon-Fano method. It is a greedy algorithm, and the k-ary version of this technique employes k symbols instead of just 0 and 1. This algorithm has its worst performance when the distribution of frequencies follows the Fibonacci sequence, and takes a performance hit when that distribution follows the Lucas numbers, but in the end always produces a prefix code. Introduced in its namesake's A Method for the Construction of Minimal Redundancy Codes, for ten points, identify this lossless compression technique that builds a tree based on the frequency of occurrence of characters in the data.
+ANSWER: Huffman coding
+
+20. He criticized the Bush Administration's handling of deficits in "Election 2004: Fiction vs. Reality", and another recent work proposes that Keynesian thinking excludes five important neutralities, leading to the titular "Missing Motivation in Macroeconomics". With Janet Yellin, he co-authored "Rational Models of Irrational Behavior" and a book-length defense of the Efficiency Wage Hypothesis entitled "Efficiency Wage Models of the Labor Market". Another of his works applied a variation of Gresham's Law to describe quality of goods in a market with asymmetric information. FTP, name this Berkeley economist, who along with Spence and Steiglitz, won the 2001 Nobel Prize for his "The Market for Lemons". 
+ANSWER: George Akerlof
+
+21. One set of his lectures were published in The Central Question of Philosophy, while his criticism of private language theory can be found in The Concept of a Person and Other Essays. His theory of sense-data perception was criticized by J.L. Austin, and was first published in Foundations of Empirical Knowledge. His most famous work contains chapters like "The Self and Common World" and "The Elimination of Metaphysics", and defines meaningful statements as either tautologies or synthetic propositions that must be empirically proven. FTP, name this logical positivist and author of The Problem of Knowledge, a British thinker whose "verification principle" was introduced in Language, Truth, and Logic. 
+ANSWER: Alfred Jules Ayer 
+
+22. A plaque at its base commemorates the dogs Bummer and Lazaurs. It was originally conceived by John R. Beckett, and its exterior is covered in a coat of quartz. Its creator's former partner Charles Luckman created the Aon building, and its top is covered by a series of aluminum panels. Its 27th floor contains a virtual observation deck, and it was designed not to interfere with the line of sight between Nob hill and the bay near it. Located at 600 Montgomery Street and currently owned by AEGON, FTP, name this William Pereira-designed building that was originally the headquarters of a life insurance company, a certain winged, pointy structure located in San Francisco. 
+ANSWER: Transamerica Pyramid 
+
+23. In this work, the radio plays the lyrics, "You go to blank blank/ And I'll go to mine/ But we'll all blank along/ To-geth-ther," which reminds the protagonist of her philosophy of life, which was to help anyone that needed it. That character is annoyed by a young boy who is taking up too much space on the sofa, since her husband Claude is waiting to have his bruised leg checked out. Also in the waiting room is a Wellesley student reading her Human Development textbook, but she continually glares at the protagonist and eventually tells her "Go back to hell where you came from, you old wart hog." which occurred shortly after Mary Grace hurled her book at the protagonist. Later, while hosing down her pigs, Mrs. Ruby Turpin sees a startling vision at the end of, FTP, which short story by Flannery O'Connor? 
+ANSWER: "Revelation" 
+
+24. One character in this film asks Sweet Clyde to solve a differential equation by using variation of parameters and expanding the Wronskian, revealing that the doom field increases exponentially. A museum technician named Lars is revealed to be the future incarnations of one of the main characters. That same character discovers that he has the secret machine code for time travel tattooed on his ass, leading to the spammer aliens forcing the title robot to steal every valuable artifact in history. Fortunately, a Hermes Conrad-controlled armada is able to save the day. FTP, name this straight-to-DVD movie which sees the return of Professor Farnsworth, Nibbler, Leela, and Phillip J. Fry, the latest offering in the Futurama franchise. 
+ANSWER: Futurama: Bender's Big Score 
+
+
+
+
+
+1. Identify some things about a philosopher and his work, FTPE.
+[10] This work, presented in a geometrical order, outlines the authors belief in the existence of a pantheistic god, and also divided knowledge into opinion, intuitive, and reason. 
+ANSWER: The Ethics 
+[10] This 17th-century rationalist philosopher and author of Tractatus Theologico-Politicus wrote Ethics. 
+ANSWER: Baruch de Spinoza 
+[10] This philosopher and writer of Way to Wisdom and The Origin and Goal of History wrote a work about Spinoza entitled Spinoza. 
+ANSWER: Karl Jaspers 
+
+2. Part of this novel consists of the notebooks of a man who claims to be James White, while the second part is told from the perspective of Rolf. FTPE, 
+[10] Identify this novel about a man who assumes a double identity. 
+ANSWER: I'm Not Stiller or just Stiller 
+[10] This author, who also wrote a novel entitled Bluebeard and a play which features a firemen's chorus, The Firebugs, wrote I'm Not Stiller. 
+ANSWER: Max Frisch 
+[10] Frisch is perhaps best known for this novel about a namesake UNESCO scientist whose title translates as "Man the maker." 
+ANSWER: Homo Faber 
+   
+3. Answer some questions about Italian unification, FTPE. 
+[10] This crafty journalist and founder of the newspaper Il Risorgimento became the chief advisor to Victor Emmanuel II in 1849, and his maneuvering brought about the unification of Italy, of which he was the first prime minister. 
+ANSWER: Camillo Benso, conte di Cavour 
+[10] Cavour allied Italy with France against the Austrians, as in this June 4 1859 battle that saw MacMahon created duke of the namesake location:
+ANSWER: battle of Magenta
+ [10] Though he was forced to cede Savoy and Nice to France, Cavour nevertheless made the most of this 1859 treaty which ended hostilities between the Franco-Piedmontese and the Austrians. 
+ANSWER: Treaty of Villafranca 
+
+4. Name these nymphs from Greek mythology that met with unusual fates, FTPE. 
+[10] After bathing in the river of the god Alpheus, she was transformed by Artemis on the island of Ortygia. She also told Demeter that Persephone looked unhappy as queen of the dead. 
+ANSWER: Arethusa
+[10] She was turned into some reeds after being pursued by Pan. He cut the reeds into the first set of panpipes. 
+ANSWER: Syrinx 
+[10] All that was left of her was her voice after Narcissus rejected her. Jerk. 
+ANSWER: Echo 
+
+5. Answer some questions about genetic linkage analysis, FTPE.
+[10] Linkage violates the law of independent assortment, one of three laws created by this monk who really loved pea plants.
+ANSWER: Gregor Mendel
+[10] The fundamental unit of map distance is named for this scientist who worked with fruit flies; his work was furthered by his student Alfred Sturtevant.
+ANSWER: Thomas Hunt Morgan (do not accept or prompt on "centimorgan")
+[10] This phenomenon occurs when a crossover in one place prevents prevents crossovers in nearby segments.  Its extent can be computed by dividing the observed number of double crossovers by the expected number of double crossovers and subtracting from one.
+ANSWER: Interference
+
+6. Its composer stated that he wanted to avoid words such as "requiem" or "memorial," and he instead preferred it called a "memory piece." FTPE, 
+[10] Winning the 2003 Pulitzer Prize for Music was which musical work for chorus, orchestra, children's choir, and tape that was commissioned in the aftermath of the September 11 attacks? 
+ANSWER: On the Transmigration of Souls 
+[10] On the Transmigration of Souls was written by this minimalist composer of such works as the fanfares Short Ride in a Fast Machine and Tromba Lontana, as well as the opera Nixon in China. 
+ANSWER: John Coolidge Adams 
+[10] Steve Reich, another minimalist composer, wrote this work of three movements for string quartet and magnetic tape. Its second part deals with several Holocaust survivors speaking about their time during WWII. 
+ANSWER: Different Trains 
+
+7. Answer the following concerning the Great Depression--in Canada, FTPE. 
+[10] Richard Bennett's attempt to bring in New Deal-like policies during the Great Depression led to the defeat of the Conservative party and introduction of this prime minister, who would lead the country through World War II as well. 
+ANSWER: William Lyon Mackenzie King 
+[10] The suffering economy took a hit when the U.S. enacted this tariff, named after representatives from Utah and Oregon, in 1930. It raised tariffs and, according to most people, worsened the Depression. 
+ANSWER: Hawley-Smoot Tariff [accept either order] 
+[10] Organized labor started reacting to the Depression as well, including the coal miner's Estevan Riot, the "Battle of Ballantyne Pier" in Vancouver, and the On-to-Ottawa Trek, which led to this Saskatchewan riot, where police fired into a crowd of around two thousand people, arresting 120 and killing 39. 
+ANSWER: Regina Riot 
+
+8. It opens with the suicide of Schwartz in Nashville, who commits suicide after warning his friend, traveling as Mr. Smith, about Cecilia Brady's father before the plane arrives in California. FTPE,
+[10] Identify this novel that, based on its author's notes, could have had Pat Brady be threatened with information about his wife's death or having the troubleshooter Robinson commit the murder of his partner. 
+ANSWER: The Love of the Last Tycoon 
+[10] The unfinished The Last Tycoon was among the works of this American novelist, author of such works as This Side of Paradise, Tender is the Night, and some book narrated by Nick Carraway. 
+ANSWER: F. Scott Fitzgerald 
+[10] This film producer in The Last Tycoon was once married to Minna Davis, but he becomes infatuated with Kathleen Moore, the former mistress of a deposed monarch. He opposes Brady, caring for his employees like Pete Zavras. 
+ANSWER: Monroe Stahr (accept either) 
+
+9. Identify the following poems by Robert Browning, FTPE. 
+[10] The title character of this poem claims "Yes, I'm the painter, since you style me so" and ends with "Don't fear me! There's the grey beginning! Zooks!" It depicts a real 15th century Florentine painter. 
+ANSWER: "Fra Lippo Lippi" 
+[10] The epigraph of this poem is from Psalm 50:21. The title character from Shakespeare's The Tempest is upon the other title character, who "dwelleth i' the cold o' the moon." 
+ANSWER: "Caliban upon Setebos" 
+[10] This poem's narrator, who is playing the title musical composition, describes Venice in the past, while the carnival is being kept near "Shylock's bridge with houses on it." 
+ANSWER: "A Toccata of Galuppi's" 
+
+10. Name these Middle Eastern cities which Charles Meigs may or may not have visited, FTPE.
+[10] Meigs often unwinds at street cafes or Al-Jaish football games in this city, home to the Umayyad Mosque.  Charles would be disappointed if you needed to know that it's the capital of Syria.
+ANSWER: Damascus
+[10] Meigs almost got up the courage to solicit a tiny prostitute in this city, on the coast north of Beirut.  Its namesake county was founded as the fourth crusader state after an 1102-9 siege, and it shares its name with a north African capital.
+ANSWER: Tripoli (Lebanon)
+[10] We don't know whether Charles actually visited this third largest Israeli city, but he should definitely have done so; the presence of the Technion makes it the high-tech centre of the country, and it is home the Bahai world centre:
+ANSWER: Haifa
+
+11. Heine defined it in terms of sequences. FTPE,
+[10] Name this property of a function, such that the neighborhood of points around f(x) maps from a neighborhood around x.
+ANSWER: Continuity
+[10] A function is called this if the absolute value of the f of x sub one minus f of x sub 2, divided by the absolute value x sub one minus x sub two is always equal to or less than some constant K.  It is a stronger form of continuity named for a German mathematician.
+ANSWER: Lipschitz continuity
+[10] Sometimes named for Cauchy and Lipschitz, this theorem states that an initial value problem y prime of t equals some function f has a unique solution if f is bounded, continuous in t, and Lipschitz contintinuous in y.
+ANSWER: Picard-Lindelof Theorem
+
+12. He became prime minister after the promulgation of the October Manifesto, and his brief tenure saw the punitive police actions known as the "Black Hundreds." FTPE,
+[10] Identify this man, who was succeeded after less than a year by Ivan Goremykin.
+ANSWER: Sergei Witte
+[10] After Nicholas II of Russia dismissed Witte and Goremykin lasted only a couple of months, this reformer was appointed PM. He initiated key agrarian and electoral reforms, and held his post until being assassinated by revolutionaries in 1911.
+ANSWER: Peter  Stolypin
+[10] Stolypin was himself a grandson of this prominent Russian politician, foreign minister form 1856 till 1882; his relationship with Bismarck was at times cordial and strained.
+ANSWER: Alexander Gorchakov.
+
+13. Identify the following works of Gian Lorenzo Bernini, FTPE. 
+[10] Lofted on scrolling bars, this sculpture is enclosed in a bronze casing, which was designed by Bernini, and surrounded by figures of angels. 
+ANSWER: Cathedra Petri or Chair of Saint Peter [accept equivalents] 
+[10] For the Santa Maria della Vittoria, Bernini designed this chapel for its namesake family. It can be found in the church's left transcept, and it was intended to be a funerary chapel. 
+ANSWER: Cornaro Chapel 
+[10] In the Cornaro Chapel, this sculpture of Bernini's can be found. It depicts its title nun pierced by an arrow by an angel. 
+ANSWER: The Ecstasy of Saint Teresa 
+
+14. In the first poem in this collection, the speaker marvels at "these very small hands" which receive "infinite gifts." FTPE,
+[10] Identify this collection of poetry that opens, "Thou hast made me endless, such is thy pleasure," and whose title translates as Song Offering. 
+ANSWER: Gitanjali 
+[10] This Bengali poet wrote Gitanjali. 
+ANSWER: Rabindranath Tagore 
+[10] In this Tagore poem, which also names a longer collection by him, a woman sails by in the titular vessel, but after he gives her his "golden paddy" there is no room for the speaker to board it. 
+ANSWER: "The Golden Boat" 
+
+15. Identify some crazy happens in a superconductor, FTPE.
+[10] Probably the best known example of perfect diamagnetism, this effect is the result of a superconductor completely expelling any external magnetic field.
+ANSWER: Meissner Effect
+[10] This phenomenological theory models superconductivity as a second-order phase transition, involving a so-called order parameter. One of its inventors was awarded the 2003 Nobel prize for it:
+ANSWER: Ginzburg-Landau theory (prompt on Landau theory, as it is a more specific case of his general theory of phase transitions) 
+[10] Yet another phenomenological model is this theory, which can explain the Meissner effect through the presence of a supercurrent. It can be derived from the Landau-Ginzburg theory and its order parameter, and predicts a screening of magnetic fields with the namesake characteristic screening length: 
+ANSWER: London theory (or equation)
+
+16. He claimed to be the descendant of Sheik Safi al-Din, and some of his tribal followers were sometimes known as Qizilbash, or "Redheads." FTPE,
+[10] Identify this man who in 1501 captured Tabriz and founded a dynasty that would last over 200 years. 
+ANSWER: Shah Ismail I 
+[10] This is the dynasty founded by Shah Ismail, which made Shi'ism the dominant religion of present-day Iran. 
+ANSWER: Safavid dynasty 
+[10] This Safavid ruler enlisted the help of Englishman Robert Sherley to reorganize his army, which he then used to defeat the Turks, evict the Portuguese, and capture Baghdad. 
+ANSWER: Shah Abbas I
+ 
+17. Answer some questions about stuff dissolved in other stuff, FTPE.
+[10] This law states that the partial vapor pressure of a solute above a solution is equal to the concentration of said solute, multiplied by this law's namesake constant for that solute.
+ANSWER: Henry's Law
+[10] In liquid-liquid extractions, this value is the ratio of the concentrations of a compound in the two immiscible phases.
+ANSWER: Partition or Distribution coefficient 
+[10] Osmotic pressure, boiling-point elevation, and freezing-point depression are collectively known as this type of property, which only depends on the number of solute particles in a solution and not their identity.
+ANSWER: Colligative properties
+
+18. Two characters in this short story pass a harpist playing "Silent, O Moyle" on their way to meeting a maid who is wearing a sailor's hat. FTPE,
+[10] Identify this short story in which Lenehan sees Corley successfully convince the maid to steal from her employer's house. 
+ANSWER: "Two Gallants" 
+[10] "Two Gallants" appears in this collection of short stories that also includes "Eveline" and "The Dead." 
+ANSWER: Dubliners 
+[10] The narrator of this story from Dubliners becomes enamored of Mangan's sister and decides to get her something at the titular bazaar, only to arrive as it closes down. 
+ANSWER: "Araby" 
+
+19. He married his sister to one of his successors, and lifted the siege of Kerak even though he was blind and could barely walk. FTPE,
+[10] Name this leprous King of Jerusalem who teamed up with Raymond of Chatillon at his greatest victory.
+ANSWER: Baldwin IV [prompt on "Baldwin the Leper" or "the Leprous"]
+[10] Baldwin's greatest triumph came against this Tikriti military leader who founded the Ayyubid dynasty and eventually took back Palestine from the Crusaders.
+ANSWER: Saladin [or Salah al-Din Yusuf ibn Ayyub]
+[10] The great battle between Saladin and Baldwin IV's Knights Templar occurred at this location.  Baldwin routed the Muslims, and Saladin only escaped because of his fast camel.
+ANSWER: Battle of Montgisard 
+
+20. Among their number are Shango, who is concerned with thunder and fire, and Babalu Aye, who deals with disease and illness. FTPE,
+[10] Name these spirits, messengers of Olodumare. 
+ANSWER: orishas 
+[10] Orishas are the patron saints of this religion, which came to Cuba in the early 19th century with the Yoruba people. 
+ANSWER: Santeria 
+[10] This trickster orisha once walked through a village wearing a hat that was red on one side and black on the other, confusing the villagers as to whether his hat was red or black until he came back to explain. 
+ANSWER: Eshu 
+
+21. Answer the following questions concerning criminology, FTPE.
+[10] This theory for explaining why criminals commit crime believes that it is societal structures which encourage them to do so.
+ANSWER: strain theory
+[10] This sociologist, the author of Social Theory and Social Structure, has developed the notion of "middle range theory," which supports finding a balance between relying on theory and relying on empirical evidence.
+ANSWER: Robert K. Merton
+[10] In response to the views of Merton, Steven Messner and Richard Rosenfeld published a book titled Crime and this idea, or the notion that people who work hard in the United States can achieve prosperity. The namesake theory suggests that this idea fosters anomie as crime is an easy way to make money fast.
+ANSWER: "American Dream" 
+
+22. Identify these things about glaciers and the crap they leave behind, FTPE. 
+[10] Since freezing water often ends up cracking rocks, this term is given to areas of exposed bedrock that has been shattered in this way. When this debris accumulates on steep slopes, it is known as a talus. 
+ANSWER: felsenmeer 
+[10] The deposition of startified drift in subglacial tunnels results in these gravel ridges, the longest of which can go on for hundreds of kilometers. 
+ANSWER: eskers 
+[10] Sometimes found interspersed with kettles and kettle lakes, these poorly sorted hills of sand and gravel form near the glacial terminus and in small areas may form terminal moraines. 
+ANSWER: kame 
+
+23. The NL pitching Triple Crown winner in 1905 and 1908, he had been traded for Amos Rusie in 1900 to the New York Giants, for whom he would play the next seventeen years. FTPE, 
+[10] Name this inaugural member of the Hall of Fame who pitched three shutouts in the 1905 World Series to defeat the Philadelphia Athletics. 
+ANSWER: Christy Mathewson 
+[10] Over the course of his career, Mathewson faced this pitcher, who defeated him as a Cubs pitcher in a pennant-deciding game in 1908. He earned his nickname from a farm machine accident in his youth. 
+ANSWER: Mordecai "Three-Finger" Brown 
+[10] This Cub from 2002-03 has led the Major Leagues in fingers since 1997, with six per hand. This current Philadelphia Phillies' reliever, as of 2007, had his best season came as a closer for the Marlins in 2000. 
+ANSWER: Antonio Alfonseca 
+
+

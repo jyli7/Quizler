@@ -1,0 +1,64 @@
+2006 UIUC ABT High School Solo Round 7
+Questions by Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  The Born interpretation of this quantity dictates that the volume integral of its square modulus over all space is one; that's because the square modulus of this quantity is equal to the probability density for the particle that it represents. For ten points, identify the function symbolized ? [psi]; the fundamental object in quantum mechanics.
+ANSWER: wave function (or state function; prompt on "?")
+
+2.  His early works, such as Satires and Songs and Sonnets, were written while he was studying law.  In his Devotions upon Emergent Occasions, which contains 23 Meditations, he wrote that "No man is an island, entire of itself".  He is most famous for his Divine Poems, which contains a poem that shares it title with a work by John Gunther.  For ten points, name this author of Death Be not Proud.
+ANSWER:  John Donne
+
+3.  Calculation:  20 seconds.  Solve the following system of equations for x and y:  2x - 9y = 32,
+4x + y = -12.
+ANSWER:  (-2,-4) (accept x=-2, y=-4)
+
+4.  Appointed "People's Priest in 1519", his argument was that if the Old or New Testament did not say something explicitly and literally, then no Christian should believe or practice it.  This led to his protest against the practice of Lent.  His belief in the literal interpretation of the Bible became the foundation for radical Protestant and Puritan societies.  For ten points, name this Swiss leader of the Reformation.
+ANSWER:  Ulrich Zwingli
+
+5.  As a member of the Virginia House of Delegates, he was chosen to speak in favor of a strong judiciary,  and he was one of the three officials sent to France in what would become the XYZ affair.  In 1799, John Adams asked him to become an associate justice, but he refused, being elected to the House later that year.  He For ten points, name the midnight appointee who served as Chief Justice for over 30 years.
+ANSWER:  John Marshall
+
+6.  Originally founded in 1885 by Henry Lee Higginson, in 1900 their performances were called "Promenade Concerts".  It underwent a revival in 1973 when David Mugar suggested that they play Tchaikovsky's 1812 overture.  During the performance, howitzer cannons were fired, and the crowd went nuts.  Ever since, they have drawn huge crowds for their July 4th concert.  For ten points, name this group which was conducted by Arthur Fiedler for 50 years and is currently led by Keith Lockhart.
+ANSWER:  Boston Pops (prompt on Boston Symphony Orchestra)
+
+7.  Calculation:  20 seconds.  Simplify the trigonometric equation (sec2x-1)/(sec2x).
+ANSWER:  sin2x
+
+8.  This enigmatic title character has the most speaking lines of any Shakespearean character ever created.  He is a bit ambiguous; waiting until he has concrete proof to act on the action that he is obsessed with, but at the same time acting rashly, such as not even looking behind a curtain to see who's listening in before stabbing Polonius to death, thinking it is his uncle.  For ten points, name this resident of Elsinore, a prince of Denmark.
+ANSWER:  Hamlet
+
+9.  His military ideas appeared in a book, The Army of the Future, where he criticized the Maginot Line.  The only French officer to force the Germans to retreat during WWII, he was appointed Minister of War.  After Petain took over and headed the Vichy government, he fled to England, fearing arrest.  He was left out of the Yalta conference, but was allowed to sign Germany's surrender.  For ten points, name the first President of France's Fifth Republic.
+ANSWER:  Charles De Gaulle
+
+10.  In this process, water enters the root and is transported up to the leaves through specialized plant cells known as xylem (pronounced zigh-lem).  Carotenoids absorb blue-green light while chlorophyll absorbs blue and red light, and the water is converted into oxygen and protons.  For ten points, give the term for the process conducted by bacteria and plants that converts water and carbon dioxide into oxygen and energy.
+ANSWER:  photosynthesis
+
+11.  After Amasis I of Egypt expelled the Hyskos, they went here, which is why the Greeks called it Hyknusa.  Its current name, however, comes from the people expelled by Ramses III around 1180 BC.  Even though the roles have reversed, Victor Emmanuel II was king of it before conquering Italy.  For ten points, name this Mediterranean island.
+ANSWER:  Sardinia
+
+12.  A few years ago, this sport experimented with a "supergoal", where a goal kicked from beyond 50 meters is worth nine points instead of the normal six.  In this game, which is played on a cricket ground, if the ball hits one of the center posts or crosses the boundary line between a center and outer post, a behind is awarded, worth one point.  For ten points, name this sport primarily played on a small continent.
+ANSWER:  Australian Rules Football (accept Aussie Rules)
+
+13.  His novel Arrow of God deals with traditional Igbo life as it clashed with colonial powers in the form of missionaries and colonial government.  In his book of essays entitled Morning Yet on Creation Day, he says that "art is, and always was, at the service of man."  Some of his less famous works include Anthills of the Savannah and No Longer at Ease.  For ten points, identify the Nigerian novelist who's most famous for the work Things Fall Apart.
+ANSWER:  Chinua Achebe [a-CHAY-bay]
+
+14.  In 1992, Newsweek claimed that it was much wider in females than in males, but it was later proven that it is larger in males.  Consisting of contralateral axon projections, it is not found in marsupials and monotremes.  The anterior part of it is called the genu, the posterior is the splenium.  For ten points, name this part of the brain that connects the right and left hemispheres.
+ANSWER:  corpus callosum
+
+15.  Calculation:  20 seconds.  David and Angela start at the same point. At time t = 0, Angela starts running 30ft/sec north, while David starts running 40ft/sec east. At what rate is the distance between them increasing when they are 100 feet apart?
+ANSWER:  50 ft per second (prompt if unites not given)
+
+16.  The name's the same.  A painting by Francesco Hayez featuring a couple performing the titular action; Constantin Brancusi's first major work which was carved out of stone; a series of works by Gustav Klimt in which only the hands and faces of the couple are visible; and a sculpture by Rodin in which two figures are locked together as one in a lover's embrace.  For ten points, give the common romantic name.
+ANSWER:  The Kiss
+
+17.  In the border country, every time thunder is heard, they say that it is his voice.  The biggest case he argued was never written down, and it was a no holds barred case in which he defended Jabez [JAY-bezz] Stone who had signed his soul over to Mephistopheles [meff-is-taw-fuh-leez] in exchange for seven years of prosperity.  For ten points, identify the title man in a short story by Stephen Vincent Benet [ben-AY].
+ANSWER:  (The Devil and) Daniel Webster
+
+18.  The reaction forming the basis of this process releases about 92 kilojoules of energy per mole, and it uses a catalyst of iron oxide and generally takes place at pressures from 30 to 60 megapascals and about 500¡C.  The most economical form of nitrogen fixation, the high-pressure methods associated with it were developed by Carl Bosch, who won a Nobel Prize in Chemistry thirteen years after its namesake did in 1918.  For 10 points, name this industrial process used to produce ammonia, named for a German chemist.
+ANSWER: Haber-Bosch process
+
+19.  Calculation:  20 seconds.  Expressing your answer as an improper fraction, what is three halves times four sevenths divided by eight fifteenths?
+ANSWER:  45/28
+
+20.  Before his death, he was known as Tenno Heika, meaning His Majesty the Son of Heaven.  His reign as the 124th emperor of his country was the longest at 63 years.  He was the father of seven kids with Princess Nagako, and his fifth is the current emperor.  Some wanted him tried as a war criminal, but General MacArthur argued that if he remained in power, then his country would be easier to rule.  For ten points, name this father of Akihito and former Japanese emperor.
+ANSWER:  Hirohito (also accept Emperor Showa, Showa Tenno)
+

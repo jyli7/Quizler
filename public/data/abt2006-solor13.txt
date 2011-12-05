@@ -1,0 +1,62 @@
+2006 UIUC ABT High School Solo Round 13
+Questions by Donald Taylor, Sudheer Potru, Mike Sorice
+
+1.  When he was sixteen, he established the revolutionary cell that would put him into power.  After graduating with a degree in law, he joined the army as an adjutant of the Signal Corps.  After overhearing his senior officers talk of a coup, he used the cells that he had established years ago to preempt them and take over himself.  Ever since, he has been linked to such terrorist activity as the 1972 Munich Olympic massacre and the bombing of Pan Am Flight 103 over Lockerbie.  For ten points, name this Libyan dictator.
+ANSWER:  Muammar Abu Minyar al-Qaddafi
+
+2.  It was originally called a holupca, which came from the brass metal shoes worn while performing it.  Performed in either 3/4 or 3/8 time, Markowsky [mark-AWV-skee] is credited with creating the first one.  From its native country it went to Russia, and from there it spread across Europe.  For ten points, name this national Polish dance which can be found in a Chopin collection.
+ANSWER:  mazurka
+
+3.  She "is the fairies' midwife; and she comes In shape no bigger than an agate stone."  She is the warrior queen of the Ulster cycle as well as the queen of Connact.  Her most famous reference, however is in Act I Scene IV of Romeo and Juliet.  For ten points, name this faerie queen who was the subject of a speech by Mercutio.
+ANSWER:  Queen Mab (accept Maeve)
+
+4. Calculation:  20 seconds.  Find the sums of the squares of the first five Fibonacci numbers.
+ANSWER:  40
+
+5.  In 1996, Michael Liu discovered a pea plant incapable of undergoing this process, as it lacked sufficient vesicle secretion for the creation of the cell plate.  Divisions in the insect embryo often occur without it, and in animals, it results from the collective action of actin microfilaments, which produce the necessary cleavage furrow by which it usually occurs.  Rarely complete at the end of telophase and literally meaning "cell movement", for 10 points, name this process defined as the splitting of one cell into two daughter cells.
+ANSWER: cytokinesis
+
+6.  This play opens on Christmas Eve in a well-furnished living room, the central location of the play.  During the play it is revealed that the main character forged her father's signature in order to go to Italy so her husband, Torvald, could recover.  Krogstad uses this to blackmail her, but the attempt ends up causing Nora to leave her husband at the end.  For ten points, name this play by Henrik Ibsen.
+ANSWER: A Doll's House
+
+7.  It arises due to a helical shape in trans-cyclooctene, and cannot exist in a tertiary amine whose three substituents are all different.  All molecules possessing it are optically active, and are not meso because they lack a plane of symmetry.  So-called "centers" of it are carbons attached to four different substituents, and the term actually comes from the Greek for "handedness".  For 10 points, name this chemical property, possessed by all molecules that are not superimposable on their mirror images.
+ANSWER:  chirality [accept chiral and various word forms]
+
+8.  In this religion, the five cardinal vices are Kam, Krodh, Lobh, Moh, and Ahankar.  The 5th largest religion in the world, in 1984 its most sacred shrine, the Golden Temple, was destroyed.  Founded by Guru Nanak, there are ten gurus as well as several Bhai, or saints.  For ten points, name this religion which is the dominant faith in the Indian state of Punjab.
+ANSWER:  Sikhism 
+
+9.  The Union forces on land were backed up by six ironclads led by Andrew Foote at this 1862 battle where the Confederates were led by Floyd, Pillow, and Buckner.  The first major victory for the Union, the unconditional surrender demanded by Grant was accepted on February 16, 1862 by General Buckner.  For ten points, name this Tennessee battle which opened up the Confederate heartland to the Union that was fought ten days after the battle at Fort Henry.
+ANSWER:  Fort Donelson (accept Fort Henry until unconditional)
+
+10.  Calculation:  20 seconds.  Find the two points of inflection for the equation y=x4-2x3 [y equals x to the fourth minus 2 x to the third].
+ANSWER:  (0,0) (1,-1)
+
+11.   Some of his early works include "Ridden Down" and "A Death for the Timber", and he did illustrations for works by Wister, Longfellow, and himself.  He then moved to 3D, sculpting such works as "The Cheyenne", and after that he never strayed from his theme of individuals struggling against overwhelming forces.  For ten points, name this 19th century Western artist most famous for the bronze "Bronco Buster".
+ANSWER:  Frederic Remington
+
+12.  First seen by Abd al-Rahman al-Sufi in 964, it is approaching us at 300 kilometers a second, and the measured distance to it was doubled in 1953 when it was discovered that there is a dimmer type of Cepheid.  In 1989, it was found that a black hole resides at the center of it and its satellite, M32.  Currently about 2.9 million light years away from us, for ten points, name this galaxy which shares its name with the wife of Perseus.
+ANSWER:  Andromeda Galaxy (accept Nebula instead of Galaxy, do not accept Constellation)
+
+13.  Calculation:  20 seconds.  Evaluate the cosine of the arcsine of -3/5.
+ANSWER:  4/5
+
+14.  After being expelled for a fistfight with a professor, he spent six years at home, writing such works as Il Penseroso and Lycidas.  Concerned with the Puritan cause, he wrote a series of pamphlets against episcopacy, on divorce, in defense of the liberty of the press, and supporting the regicides.  For ten points, name this British poet most famous works include Areopagitica and Paradise Lost.
+ANSWER:  John Milton
+
+15.  The Salic Law would have kept this ruler from assuming the throne, but Charles VI made all of the other European rulers accept the succession of power of his only child.  Charles assumed that Francis Stephen of Lorraine would truly control the empire, so he never taught his successor the true workings of government, but she nevertheless became one of the greatest Hapsburg rulers.  For ten points, name this empress who was allowed to ascend the throne through the Pragmatic Sanction.
+ANSWER:  Maria Theresa
+
+16.  Calculation:  20 seconds.  Rewrite the following equation in standard form for a parabola:  y=x? -4x+3 [y equals x squared minus 4 x plus 3].
+ANSWER:  y=(x-2)? - 1 [y equals x minus 2 quantity squared minus 1] (do not accept if the y is not included)
+
+17.  While at Louisiana State, he set the NCAA records for points per game with 44.2 and most games with 50 or more points with 28 before the three-point arc was added.  Drafted third by the Atlanta Hawks in 1970, he was traded to the New Orleans Jazz in 1974.  Known for making the basketball court his personal playground, for ten points, name the scoring machine known for his moppy hair and floppy gray socks with a deadly nickname.
+ANSWER:  "Pistol Pete" Maravich
+
+18.  Bodies exhibiting the orbital variety of this phenomenon include the Trojan asteroids and Kirkwood gaps, with respect to Jupiter, and the moon with respect to the Earth.  The electrical type occurs at a source frequency of 1/RC ["one over R C"] in an RC circuit. For ten points, name the phenomenon in physics wherein a system has a large, in-phase response to selective inputs; a phenomenon exemplified by the shattering of glass by the human voice and the destruction of the Tacoma Narrows Bridge by winds.
+ANSWER: resonance
+
+19.  It has lent its name to a crustacean that has recently been found from Alaska to Monterey Bay.  It has three northern entrances, two of which are Deception Pass and Rosario Head.  Prominent islands include Blake and Whidbey Island, and it extends south 144 miles from the Strait of Juan de Fuca. First explored by George Vancouver in 1792, for ten points, name this arm of the Pacific Ocean found in northwest Washington.
+ANSWER:  Puget Sound
+
+20.  Using the pseudonym Nancy Boyd, she published various magazine sketches, and she went on to write and star in the play The Princess Marries the Page.  She also wrote the widely-quoted poem "First Fig" and was the first woman to receive a Pulitzer for poetry for Ballad of the Harp Weaver.  For ten points, identify the early 20th century author of Renascence [Ren-AY-sens] and other Poems.
+ANSWER:  Edna St. Vincent Millay

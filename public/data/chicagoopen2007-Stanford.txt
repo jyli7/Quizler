@@ -1,0 +1,222 @@
+Chicago Open 2007
+Packet by Stanford (Kristiaan De Greve, Kevin Koai, Brian Lindquist, Arnav Moudgil)
+
+1. The speaker vows to keep her charge's crystal tears in a golden vial in his "The Nymph Complaining For the Death of Her Fawn," while another speaker declares that "all resistance against her is vain" in "The Fair Singer." This author of the prose work The Rehearsal Transposed served as tutor to Lord Fairfax at the latter's estate, which is the setting of his longest poem, "Upon Appleton House." Other notable works include verses dedicated to Clora and one that pictures "Little T.C. in a Prospect of Flowers;" as well as a series of works written in the guise of "The Mower" who speaks "against Gardens" and "to the Glowworms" in a pair of poems. But his best known work urges a woman to "sport" with the speaker before "time's winged chariot" arrives and opens with the line, "Had we but world enough and time." For ten points, identify this poet of "To His Coy Mistress."
+Answer: Andrew Marvell
+
+2. It used tin ingots as currency, as the metal is found nearby.  One of its rulers married the Ming princess Hang Li Po, and it said to be home to the largest Chinese cemetery outside China.  In the 15th century, the forces of Ayutthaya attacked it twice, but were held off by Tun Perak, the Bendahara, or Prime Minister.  The city was founded by Parameswara, a Srivijayan Prine fleeing aggression by Majapahit on Java.  The Dutch ignored it in favor of Batavia during their rule from 1641 to 1795, and its decline as a commercial entrepot began with its conquest by Alfonso de Albuquerque, who conquered it for Portugal, in 1526.  FTP, name this Malay sultanate on the west coast of what is now peninsular Malaysia. 
+Answer: Malacca
+
+3. To this programming language was added the TVar ("T var") type, making it the first to support Software Transactional Memory.  It uses the novel notion of type classes in order to formalize and control ad hoc polymorphism more than the ML family of languages.  In order to work stateful programming such as I/O into its framework, this language is also famous for providing the concept of the monad.  FTP, identify this lazy programming language that is more famously implemented by the compilers hugs and GHC, and which is named after a Penn State logician.
+ANSWER: Haskell
+
+4. Legend states that his body turned into flowers upon his death so that his disciples would not argue over whether to cremate or bury him; one group cremated half the flowers while the other group buried theirs.  He introduced the community kitchen or Langar system and composed the Mool Mantar.  Following a vision at Sultanpur he answered all questions with "There is no Hindu, there is no Muslim."  The Janamsakhis relate legends of the life of, FTP, this man who was succeeded by Angad and 8 more gurus after founding Sikhism.
+ANSWER: Guru Nanak Dev
+
+5. The narrator describes this story's protagonist as looking "like a wooden doll driven by clock-work," and the beginning of the second section describes her brief romance with a man who eventually marries a rich old woman to avoid conscription. Her only education comes from an illustrated geography book, whose pictures are explained to her by Paul, the son of her mistress Mme Aubain. The story ends with the protagonist drawing her last breath as she sees the vision of a gigantic parrot above her head. The first of its author's Three Tales, this is, for ten points, what short story about the maidservant Félicité, written by Gustave Flaubert?
+Answer: "A Simple Heart" or "Un Coeur Simple"
+
+6. Queen Victoria Eugene of Spain, wife of Alfonso XIII, was a member of this family, though she never took the family's current name.   Earl of Medina and Viscount Alderney are subsidiary titles of the highest title currently held by the family, Marquess of Milford Haven, given to the man who was First Sea Lord at the outbreak of World War I.  His son, also named Louis, was also First Sea Lord in the late 1950's, but is better known for pushing through the Dieppe Raid and overseeing the reconquest of Burma in 1945.   That son was later assassinated by the IRA in 1979 and was the last British Viceroy of India.  FTP, give the common surname of this family, adopted by Prince Philip upon his marriage to Princess Elizabeth in 1947.
+Answer: Mountbatten    
+
+7. Both the Schmidt reaction and the Stieglitz rearrangement produce them, and aromatic ones can be used to form quinolines in the Povarov reaction. They can also be used to form tetrahydropyridines when reacted with a dienc, and as cations, they can be reduced by sodium cyanoborohydride in reductive amination.  When the heteroatom is connected to aryl or alkyl groups, the compound is known as a Schiff base. They are most often synthesized by reacting a primary amine with an aldehyde or ketone under acidic conditions. FTP, give the general term for these molecules, all of which contain a carbon atom double bonded to a nitrogen atom.
+Answer: imines
+
+8. The life of Ferdinand Laysalle inspired this author's novel about Alvan and Julia, The Tragic Comedians. One of this man's poems ends, "we drop like the fruits of the tree, / Even we, / Even so;" another ends with the image of "The army of unalterable law."  In addition to "Dirge in Woods" and "Lucifer in Starlight," he wrote "By this he knew she wept with waking eyes" as the first of 50 16-line sonnets chronicling a failed relationship. One of his novels sees the title character elope with Lucy Desborough, and another sees the title character marry Laetitia Dale after losing the love of Clara Middleton.  It was his unhappy first marriage that inspired his sonnet sequence Modern Love.  FTP, name this author of The Ordeal of Richard Feverel who wrote about Sir Willoughby Patterne in The Egoist.
+ANSWER: George Meredith
+
+9. He composed a choral setting of Tagore's poem The Wandering Madman, and the tragic death of the worker Frantisek Pavlik inspired his only piano sonata, a work often known by its titles of From the Street and 1. X. 1905.  His Concertino for piano and orchestra requires only 8 instruments, whereas his Sinfonietta calls for a gigantic brass section including 12 trumpets.  His two string quartets use as subjects a story by Tolstoy and his love for a woman 38 years his junior, and are titled "The Kreutzer sonata" and "Intimate Letters."  FTP, name this composer of an opera about the 337-year-old Emilia Marty, a Czech whose other operas include From the House of the Dead, Kát'a Kabanová, and Jenufa
+Answer: Leos Janácek
+
+10. This work concludes with a discussion of a plague that befell Athens, and all of book 6 is a critique of theological explanation of natural disasters. According to St. Jerome, its author committed suicide, leaving the work to be edited by Cicero. Book 3 describes the dissolution of the soul into particles, and ends with a diatribe against the fear of death. In book 2, the author compares the motion of atoms to sheep on a hillside, and he accounts for free will by proposing the existence of a random atomic "climanen" or "swerve." Influenced by a similarly-titled book by Epicurus, this is, for 10 points, what long poem by the Roman philosopher Lucretius.
+ANSWER: De rerum natura or On the Nature of Things or On the Nature of the Universe (accept equivalents)
+
+11. His first government position was as tax collector of Khorasan.  Elected at the age of 24 to the newly-formed Majlis, as Prime Minister, many of his more radical policies - including collective farms - were a result of his alliance with the Tudeh party.   He staged a coup when he ignored the monarch's dismissal of him and appointment of General Zahedi, but Zahedi soon returned and staged a counter-coup, the last blow of his 30-year long struggle with his country's British-supported ruling dynasty.  American involvement with Zahedi's countercoup was headed by Kermit Roosevelt, Jr. and called operation Ajax.  FTP, name this man, who nationalized the overthrow of the oil industry of Iran, but was overthrown in 1953. 
+Answer:  Mohammed Mossaddeq (or Mossadegh)
+
+12. Trace theorems for gamma matrices are often useful in calculating this quantity.  It is sometimes written in terms of Mandelstam variables, and it generally scales like one over the square of the center of mass energy.  The optical theorem relates its total value to the forward scattering amplitude.  The Klein-Nishina formula gives its value for Compton scattering, while the Thomson type is proportional to the square of the classical electron radius.  Measured in barns and having units of area, FTP, what is this quantity that gives the probability of an interaction between particles? 
+Answer:  cross section  (accept differential cross section)
+
+13. A central figure in this novel dresses up at a masked ball as Lufki-Humma, an Indian princess who is an ancestor of a rival family.  The narrator, whose family has all died from yellow fever, becomes acquainted with one of the main characters through Dr. Keene.  The narrator eventually falls in love with Clotilda, whose mother became a widow after her husband was killed in a duel by Agricola. The most famous section of this novel formed the basis for the Delius opera Koanga, and tells of an enslaved African prince name Bras-Coupé.  Also featuring white and mulatto half-brothers both named Honoré, FTP, what novel narrated by Frowenfeld tells of the conflict between the De Grapions and the titular Creole family, a work by George Washington Cable?
+Answer:  The Grandissimes
+
+14. Nikolai Ge's version depicts the main figure reclining on a bed and features strong chiaroscuro. Andrea del Castagno's canvas is framed by sphinxes and features an odd perspective, while Michael Rothenstein's painting is dominated by the color blue, and has everyone dressed in contemporary clothing. In Emil Nolde's version many of the figures wear red and hold one another. Other notable takes on this event include a work by Perugino set outdoors, possibly on Gethsemane, and one including servants and utensils by Dieric Bouts. For ten points, identify this oft-depicted Biblical scene, most associated with Leonardo da Vinci: Christ's final meal?
+Answer: The Last Supper
+
+15. He fought against the Swiss at the Birse, and stayed at the castle of Genappe during his time as a refugee in Burgundy.  At the age of 27, he married his second wife, Charlotte of Savoy, when she was eight.   His eldest daughter was Anne of Beaujeu, who later served as regent for his only surviving son.    His brother Charles, Duke of Berry, was a constant thorn in his side, and he worked to curtail the powers of the nobility, going so far as to execute the Duke of Nemours.  Interested in what passed for science, he surrounded himself with astrologers and once pardoned a man who agreed to be a guinea pig for a gallstone operation.  A determined opponent of Charles the Bold and son of Charles VII, FTP, name this 15th-century king of France, known as the Universal Spider.
+Answer:  Louis XI 
+
+16. The thoroughly burned state of this man's ass led Theia to refer to him as "the great Black-bottom" in her warning to the Cercopes.  He killed Lityerses, helping to rescue the unfortunately named Pimplea, the beloved of Daphnis.  He sparked Pan's dislike for clothing with a variant of the bed-trick while atoning for the murder of Iphitus by serving the daughter of Jordanes.  Pan got revenge by claiming that this man took perverse delight in dressing as a woman while his mistress, the wife of Tmolus, wielded his club and wore his lion pelt.  FTP, name this hero who served Omphale for a while between his marriages to Megara and Deianeira.
+ANSWER: Hercules or Heracles
+
+17. David Lee Roth once said that rock critics like this musician because they look like him. His first single was "Less Than Zero" which he once famously stopped singing in the middle of an SNL performance to switch to another song. He also once made racist comments about James Brown and Ray Charles and shortly thereafter before releasing his soul influenced album Get Happy!!.  Some of his more political songs include "Shipbuilding" about the affects of the Falkland Island War on shipyards and "Oliver's Army" criticizing the British Army. FTP name this Irish musician, born Declan McManus, whose albums include My Aim is True and This Year's Model.
+Answer: Elvis Costello
+
+18. Saville discovered one of these elements in neurospora, dubbed the "Varkud satellite", and Seelig characterized one that was capable of accelerating Diels-Alder reactions. Prody found one in a plant virus that was dubbed "Hammerhead", which is capable of cleaving phosphodiester bonds and has potential as an anti-HIV agent.  Spiegelman's namesake "monster", created by using replicases, is also one, and the most well-known example is the group II introns, which form a lariat as they catalyze their own excision.  Used to support Gilbert's "RNA world" hypothesis, FTP, give the name for these RNA molecules that have catalytic activity, much like enzymes.
+ANSWER: Ribozyme
+
+19. Chapter six of this work presents an analysis of Ben Rogers from The Adventures of Tom Sawyer.  The author discusses a Mark Donskoi film in Chapter 10, The Legend of Maxim Gorky's Youth, while Mein Kampf provides the basis for a discussion of Hitler's early life.  Chapter 7 presents a series of central conflicts, such as Generativity vs. Stagnation, Industry vs. Inferiority, and Basic Trust vs. Basic Mistrust.  This work also discusses role confusion in adolescence, which leads to an identity crisis.  FTP identify this work that presents its author's eight stages of psychosocial development, written Erik Erikson.
+Answer:   Childhood and Society
+
+20. One of his stories, set in an unnamed German city where Wagner's Parsifal is being performed, involves a man who retraces the steps of his honeymoon to keep the memory of his dead wife alive, and another tells of the narrator's sporadic encounters with a woman named Nina, including his last one in the titular Crimean town. In addition to "The Return of Chorb" and "Spring in Fialta," he wrote a novel whose title comes from Shakespeare's Timon of Athens, a fact the narrator is oblivious to, since his only copy of the play is Conmal's translation of it into Zemblan. For ten points, identify this author of a novel consisting of a 999-line poem by John Shade called Pale Fire, as well as the story of a man named Humbert Humbert, Lolita.
+Answer: Vladimir Vladimirovich Nabokov
+
+
+1. It can be calculated from the Kapustinskii equation, which assumes it to be the sum of all columb interactions minus repulsion from neighbors.  FTPE:
+[10] Name this quantity, equivalent to the amount of energy needed to break apart an ionic compound into a gas.
+ANSWER: Lattice energy or Lattice enthalpy
+[10] The lattice energy is proportional to this constant, which for NaCl is equal to approximately -1.74
+ANSWER: Madelung constant
+[10] Similar to the Kapustinskii equation, this other equation can be used to find the lattice energy of a crystal.  It sets it equal to some constants divided by ionic radius multiplied by one minus the reciprocal of the principal quantum number of the atoms.
+ANSWER: Born-Mayer equation
+
+2. Identify these 20th-century governors of California, FTPE.
+[10] Attorney general in 1942, his strong support for Japanese internment propelled him to Sacramento over incumbent Cuthbert Olson.  He left the governorship in 1953 after a deal where he gave Eisenhower his convention delegates in exchange for the first open seat on the Supreme Court.
+Answer:  Earl Warren
+[10] While the tenure of this Democrat saw the passage of the California Master Plan for Education and a massive expansion of California's water infrastructure, he is probably best known for being defeated by Ronald Reagan, and being the father of Reagan's successor as governor and a Democratic candidate for president in 1992.
+Answer:  Edmund Brown Sr. or Pat Brown
+[10] This Progressive Republican, elected in 1910, was Theodore Roosevelt's running mate in 1912.  Later elected Senator, he supported Franklin Roosevelt's New Deal, but was a die-hard isolationist in foreign policy.
+Answer:  Hiram Johnson
+
+3. It is the most prestigious award in the NBA. FTPE name these J. Walter Kennedy Citizenship Award winners.
+[10] This Bullets center was the first to win the award, doing so in 1975 adding to his MVP and Rookie of the Year awards from 1969.
+Answer: Wes Unseld
+[10] Now the coach of the Celtics, this man won the award as a Hawk in 1990.
+Answer: Glenn "Doc" Rivers
+[10] This point guard won the award in 2007, making up for not winning the MVP award for a third straight season.
+Answer: Steve Nash
+   
+4. This work's two sections, Die Erwartung, and Die Erfüllung, translate as The Expectation and The Fulfillment.  FTPE:
+[10] Identify this unfinished novel, which tells of the maturation of a medieval poet.  It features a fairy tale told by Klingsohr, and an important symbol in the work is the Blue Flower that the title character dreams about.
+Answer:  Heinrich von Ofterdingen  (or Henry von Ofterdingen or Henry of Ofterdingen)
+[10] This German Romantic died without finishing the novels Heinrich von Ofterdingen and The Novices of Sais, but did complete Hymns to the Night, a collection of poems prompted by the death of his fiancée, Sophie von Kühn.
+Answer:  Novalis   (or Georg Philipp Friedrich Freiherr von Hardenberg)
+[10] This author's admiration of Novalis led him to publish Demian under the pseudonym Emil Sinclair, because Emil Sinclair was a friend of Novalis'.
+Answer:  Hermann Hesse
+
+5. Its first volume, "The Four Historical Conceptions of Being," includes a supplementary essay about F.H. Bradley, and its second volume is entitled "Nature, Man, and the Moral Order."  FTPE:
+[10] This work of philosophy is based on the Gifford Lecture Series that the author delivered at the University of Aberdeen in 1899 and 1900.  In it, the author describes an idealist metaphysics based on the concept of Absolute Being.
+Answer:  The World and the Individual
+[10] Name the American philosopher who wrote The World and the Individual, as well as The Problem of Christianity and The Religious Aspect of Philosophy. 
+Answer:  Josiah Royce
+[10] Josiah Royce was influenced by the semiotics developed by this American. His notable essays include "The Fixation of Belief" and "How to Make Our Ideas Clear."
+Answer:  Charles Sanders Peirce
+
+6. Identify the following from analytic number theory, for ten points each.
+[10] This function's value at s is defined as the sum as n goes from one to infinity of "one over n to the s."  Its namesake hypothesized that all of its non-trivial zeros have a real part of one-half.
+Answer: Riemann zeta function
+[10] The value of zeta of four is the fourth power of this quantity divided by 90, and the value of zeta of two is this quantity squared over 6.
+ANSWER: pi
+[10] This man used his namesake L-series to prove his eponymous prime number theorem stating that there are an infinite number of primes in any arithmetic sequence in which the first term and the summand are relatively prime.
+Answer: Johann Peter Gustav Lejeune Dirichlet
+
+7. Anubis's jobs include guiding souls to this place.  FTPE:
+[10] Name the Egyptian underworld where Apep attacks Ra each night and Osiris presides over the weighing of dead hearts, or the structure where the weighing takes place in the presence of 45 judges.
+ANSWER: Duat or The Hall of the Two Truths
+[10] During the weighing, the hearts of the recently deceased are balanced against a plume representing this goddess of truth, order and justice.
+ANSWER: Ma'at
+[10] The plume of Ma'at is sometimes identified with the ostrich plume of this god of air, the grandfather of Osiris.
+ANSWER: Shu
+
+8. Answer the following about military leaders who led their countries during part of WWII, FTPE:
+[10] This French WWI veteran led the Vichy regime during most of WWII; after the war, he was sentenced to death, but the sentence was mutated into life imprisonment instead.
+Answer:  Marshal Philippe Petain
+[10] This man, who had led the Italians to victory over the Ethiopians, succeeded Mussolini as head of the Italian government in 1943, in the midst of the allied invasion in Sicily and southern Italy; he quickly switched allegiance, and declared war on Germany in the autumn of 1943.
+Answer:  Marshal Pietro Badoglio
+[10] This man commanded Finnish forces during World War II and successfully negotiated his way between the Soviet Union and Nazi Germany.
+Answer: Marshal Carl Gustaf Emil Mannerheim
+
+9. Answer the following about a playwright, for ten points each:
+[10] Many of the plays that survive in the modern Noh repertoire, including The Robe of Feathers and Birds of Sorrow, have been attributed to this author and performer.
+Answer: Zeami Motokiyo
+[10] Zeami's numerous plays were greatly influenced by this woman's The Tale of Genji.
+Answer: Murasaki Shikibu
+[10] The best known English translations of Zeami's Noh dramas are by this Australian. He is a descendant of, and shares his name with, the 18th Century American writer of The Algerine Captive and The Contrast.
+Answer: Royall Tyler
+
+10. His Lamento della Ninfa from the collection Madrigals of War and Love is an early example of a ground-bass lament. For ten points each,
+[10] Name this composer whose other works include the operas L'Orfeo and L'incoronazione di Poppea.
+Answer: Claudio Monteverdi
+[10] This piece, Monteverdi's greatest sacred work, contains the tenor solo "Nigra sum" and uses an echo effect in the motet "Audi coelum." It ends with a setting of the Magnificat.
+Answer: Vespro della Beata Vergine or Vespers of the Blessed Virgin or Vespers of 1610
+[10] A student of Monteverdi, this German composer and organist is regarded as one of the most important German composers before Bach.  His works include the Psalms of David, Symphoniae Sacrae, the German Requiem, and The Seven Words of Jesus Christ on the Cross.
+Answer: Heinrich Schütz 
+
+11. Hemoglobin is a really important molecule.  Answer the following questions about it, FTPE:
+[10] The heme prosthetic group is a member of this class of molecules, which consist of four pyrrole subunits.
+ANSWER: Porphyrin
+[10] Porphyrin rings are synthesized by assembling eight of these subunits together.  In animals, they are created by by their namesake synthase from succinyl-CoA and glycine.
+ANSWER: alpha-aminolevulinate or alpha-aminolevulinic acid
+[10] One variant of hemoglobin, HbG, is linked to some forms of thalassemia.  HbG is named for this city, also the namesake of a chromosome 9 to 22 translocation.
+ANSWER: Philadelphia
+
+12. Answer the following on cunning linguists and master debaters, FTSNOP.
+[5/15] 5 for one, 15 for both: these two students of Franz Boas debated the nature of the superorganic.  One of them developed a principle of linguistic relativity with his student Whorf; the other wrote the Handbook of the Indians of California and worked with Ishi, the last of the Yahi.
+ANSWER: Edward Sapir and Alfred Louis Kroeber
+[5/15] 5 for one, 15 for both: one of these guys wrote Whose Freedom?  The other one wrote a nasty review, leading to an extended debate.  The former also wrote Women Fire, and Dangerous Things and developed the concept of the embodied mind; the latter wrote The Language Instinct.
+ANSWER: George Lakoff and Steven Pinker
+
+13. Identify the following people related to the Tang Dynasty.
+[10] This military leader of Sogdian origin led a rebellion for 744 to 755 that greatly destabilized the dynasty.
+Answer:  An Lushan (accept An Rokhan)
+[10] Considered the greatest Tang emperor, this second emperor of the dynasty encouraged his father to overthrow the Sui (pron. approx.: Sway) and ruled from 626 to 649, a reign considered exemplary by later writers.
+Answer:  Tang Taizong or Li Shimin (pron. approx.:  Lee Shuh-meen)
+[10] Though his reign saw the pinnacle of Tang power, this emperor's involvement with Yang Guifei led to the disastrous rebellion of An Lushan.
+Answer:  Tang Xuanzong (pron. approx.: Syooen-tzong) or Li Longji
+
+14. Answer the following about an author and his work, for ten points each:
+[10] He wrote volumes of stories like A Hundred Camels in the Courtyard and his novels' protagonists include Nelson Dyar and Dr. Slade who appear in the works Let It Come Down and Up Above the World, respectively.
+Answer: Paul Frederic Bowles
+[10] Paul Bowles' best known work is this 1949 novel about Port and Kit Moresby's travels in Northern Africa.
+Answer: The Sheltering Sky
+[10] This contemporary author's travel book The Pillars of Hercules recounts a meeting with the elder Bowles in his Tangier home. He has also written fiction such as My Other Life and The Mosquito Coast.
+Answer: Paul Edward Theroux
+
+15. Before he died, this man's semen impregnated Mother Earth with a rhubarb plant that later sprouted his children.  FTPE:
+[10] Name this primordial man in Zoroastrian belief.
+ANSWER: Gayomart
+[10] This evil twin brother of Ahura Mazda, or one of his Daevas, killed Gayomart and the Primal Bull.
+ANSWER: Ahriman or Angra Mainyu
+[10] Name the Primal Whore who urged Ahriman to destroy Gayomart, or either of Gayomart's children born from the rhubarb plant.
+ANSWER: Jeh or Mashye or Mashyane
+
+16. Answer some things about the statistical mechanics of quantum systems, FTPE.
+[10] Systems of non-interacting quantum particles are often modeled with this type of statistical ensemble in which the systems can exchange energy and particles with reservoirs, so total energy and particle number are not fixed.  Its namesake partition function is sometimes called the Gibbs sum.
+Answer:  grand canonical ensemble  (do not accept or prompt on "canonical," "microcanonical," "macrocanonical," or any other kind of ensemble)
+[10] This is the type of statistics used to describe particles with half-integer spin.  Its Italian namesake developed the first self-sustained controlled nuclear reaction, and its British namesake predicted the existence of the positron.
+Answer:  Fermi-Dirac statistics
+[10] In a Fermi-Dirac system at a near-zero temperature this expansion can be used to calculate the chemical potential in terms of a power series in temperature.  Its German namesake extended Bohr's atomic model to elliptical electron orbits, developing an action quantization condition with Wilson.
+Answer:  Sommerfeld expansion or approximation
+
+17. His servants include his serpent familiar Nagini and the Death Eaters.  FTPE:
+[10] Name this alter-ego of Tom Marvolo Riddle.
+ANSWER: Lord Voldemort (prompt on He-Who-Must-Not-Be-Named or You-Know-Who or The Dark Lord)
+[10] Tom Riddle's diary, the serpent Nagini and Rowena Ravenclaw's diadem are all examples of these Dark items used by Voldemort to contain pieces of his soul.
+ANSWER: Horcruxes
+[10] Harry learns about Rowena Ravenclaw's diadem from this ghost, the daughter of Rowena, who was killed by the Bloody Baron.
+ANSWER: The Gray Lady or Helena Ravenclaw
+
+18. Identify the following naval battles of the French Revolutionary and Napoleonic Wars.
+[10] In 1798, Nelson's forces trapped the French fleet supporting Napoleon's invasion of Egypt and destroyed it.
+Answer:  Battle of the Nile or Battle of Aboukir Bay
+[10] In this 1797 battle, the British routed the forces of the Batavian Republic, forcing the French to postpone an expedition to Ireland.
+Answer:  Battle of Camperdown
+[10] This 1811 defeat of French forces by the British in Adriatic may have in part persuaded Napoleon to go after Russia and not the Ottoman Empire.  It shares its name with an 1866 naval battle between the Italians and the Austrians.
+Answer:  Battle of Lissa
+
+19. His style emulated the reclining Chac Mool statues created by the Mayan empire. FTPE:
+[10] Identify this British artist, famous for his abstract bronze and marble sculptures, such as Recumbent Figure and Vertebrae.
+Answer: Henry Moore
+[10] This was Moore's first commission; it depicts one of the wind gods from Greek myth as a relief on the headquarters of the London Underground.
+Answer: West Wind (prompt on Zephyrus)
+[10] Moore was a friend and mentor to this artist, also famous for abstract, curvaceous forms. Her works include Wave, Pelagos, and Single Form (Dag Hammarskjöld Memorial).
+Answer: Barbara Hepworth
+
+20. Answer the following about an American poet and his works, for ten points each.
+[10] His collection Divine Comedies, which won the Pulitzer Prize in 1977, contains the long poem The Book of Ephraim, which he composed with the help of a Ouija board and which would later form the first part of his epic The Changing Light at Sandover.
+Answer: James Ingram Merrill
+[10] This autobiographical poem, also found in Divine Comedies, tells of a child putting together a puzzle with a governess who speaks both French and German.
+Answer: "Lost in Translation"
+[10] Merrill's poem "The Victor Dog," which imagines the thoughts of the dog on the label of RCA Victor records, is dedicated to this female poet, whose own works include "In the Waiting Room," "The Moose," and "One Art."
+Answer: Elizabeth Bishop
+

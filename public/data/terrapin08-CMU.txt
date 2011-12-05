@@ -1,0 +1,232 @@
+Terrapin Invitational Tournament XXII
+Packet by CMU
+Questions by Trevor Davis
+ 
+1. In one of this ruler's most important victories, his calvary were able to stop an army before they reached Tiberias and then proceeded to rout them.  He also found success at the Battle of Jacob's Ford where he overran a garrison, and later he laid siege to Kerak while Humphrey IV of Toron was getting married.  Although he was able to capture sites like Sidon and Nabulus with relative ease, he failed to successfully capture the garrison at Tyre.  After a campaign that saw his defeat at battles like Arsuf, this ruler signed the 1192 Treaty of Ramla with perhaps his most famous rival, a treaty which kept his control over Jerusalem but also allowed safe passage for Christian Pilgrims.  Founder of the Ayyubid Dynasty and fond of giving enemy leaders ice water, FTP, identify this chivalrous twelfth century sultan of Egypt and Syria who fought against Richard I and the 3rd Crusade.
+ANSWER: Saladin (also accept Salah al-Din Yusuf ibn Ayyub and al-Malik al-Nasir Salah al-Din Yusuf I) 
+ 
+2. Joseph Cradock wrote an unused epilogue for this play meant to be spoken by one of the principal characters about his future with Bet Bouncer. That character's inability to read cramped handwriting and his cousin's failure to improvise a story about horse-racing odds leads to his mother discovering Hastings's plan to elope with Constance Neville. In furtherance of that plan, Tony Lumpkin steals his mother's jewels, but the protagonist ends up giving them back to her for safekeeping, thinking she is the wife of an innkeeper. Its title, an allusion to falconry, refers to Kate Hardcastle, who pretends to be a barmaid in order to get Charlie Marlow to admit his feelings for her. FTP, identify this comedy by Oliver Goldsmith. 
+ANSWER: She Stoops to Conquer
+ 
+3. An artifact found at …land, Sweden was used to invoke this figure for protection and is known as the Kvinneby amulet. In one story, he breaks a pillar by throwing a goblet and disguises himself as a youth to get on a rowboat to catch some bait, but Hymir cuts his fishing line before he is able to unleash Sky-Bellower on his target.  In another, Utgarda-Loki tricks him into wrestling with Elli, the personification of old age, before turning a certain monster into a cat and convincing this character to try to lift him.  Tanngrisnir and Tanngnjostr are a pair of goats who draw this god's chariot, and he lives in the palace Bilskirnir. He is fated to take nine steps before dying from his adversary's poison after killing Jormungandr, the Midgard Serpent, at Ragnarok. FTP, name this Norse god, the owner of Megingjord, a belt which grants him strength, and Mjolnir, a war-hammer that causes lightning. 
+ANSWER: Thor (or Thunaer, Donar) 
+ 
+4. Alfred Phillips Jr. of Cornell University disagreed with the conclusions drawn from this experiment, instead arguing its results can be explained by Atonic Mechanics, a theory based on crystal lattices. A second experiment performed by its namesakes showed that reflection off of two plates of crystalline material causes no change in polarization of electrons. The original experiment used a heated filament, parallel plate voltage accelerators, and a Faraday box, all set up in a vacuum, to show that slow-moving electrons satisfy Bragg's Law when reflected off of crystallized nickel. FTP, name this experiment whose results can be explained by constructive interference, thus confirming DeBroglie's hypothesis and demonstrating the wave nature of electrons, named for two Bell Labs scientists. 
+ANSWER: Davisson-Germer experiment (accept Germer-Davisson) 
+ 
+5. The lower right of this painting contains a pair of discarded masks and the lower left shows a dove beneath one of the title figure's feet. The left side shows a woman thought to represent syphilis or jealousy, holding her head in agony. A girl's face extends from behind another of the title figures, and she holds a honeycomb in what appears to be her left hand attached to her right arm.  In the background, an indistinct figure attempts to spread a dark blue sheet over the central figures, but another of the title characters, an old, bearded man, prevents it. One of the central figures holds an arrow in one hand and a golden apple in another and is completely nude as she kisses her similarly nude son. FTP, name this most famous work of Agnolo Bronzino. 
+ANSWER: Venus, Cupid, Folly, and Time [accept Allegory of Love]
+ 
+6. This work discusses the tangible, external values of a life of faith in the section "Devout Observances." It also addresses the impact of man's predatory nature on the development of modern sport and later on gambling proclivity in the sections "Modern Survivals of Prowess" and "The Belief in Luck," respectively. It argues that the title concept arose out of conquering peoples who delegated menial jobs to the conquered, instead keeping more prestigious, but less essential, tasks for themselves. This work is most famous for introducing the concept of the "pecuniary struggle," or the pursuit of wealth in order to match the accomplishments of others, as well as a concept that involves the acquisition of wealth for the express purpose of displaying that wealth, "conspicuous consumption." FTP, name this work of Thorstein Veblen. 
+ANSWER: The Theory of the Leisure Class 
+ 
+7. In Burgett v. Texas, the Supreme Court ruled that convictions that violated this case cannot be used for subsequent decisions. The court extended this decision to misdemeanors that carry possible jail sentences in a case involving a conviction for carrying a concealed weapon, Argersinger v. Hamlin.  The decision, written by Hugo Black, rejected the precedent of Betts v. Brady, instead citing Powell v. Alabama and the Scottsboro Boys case.  The lower court's overruled decision in this case contended that only defendants at risk of facing the death penalty applied for the Constitutional protection sought, and the adversarial nature of the legal system was important in the court's ruling.  Centering on a plaintiff who had been convicted of the burglary of a pool hall in Florida, but who argued that his Sixth Amendment rights had been violated, FTP, name this 1963 Supreme Court case that ruled that states are required to provide counsel, even if the defendant cannot afford it. 
+ANSWER: Gideon v. Wainwright (accept either underlined answer)
+ 
+8. At the beginning of this novel, the narrator recalls his career translating books about animals after climbing down into a septic-tank pit. Later, he climbs down into a similar cellar where his great-grandfather's younger brother had hid after the peasant revolt of 1860. That cellar had been hidden beneath a storehouse that the narrator's brother sold to a former Korean laborer known as the Emperor. The narrator's brother commits suicide after revealing that he slept with his mildly retarded sister and caused her own suicide. The return to Okubo by Takashi and Mitsu Nedokoro forms the central plot of this novel, whose title refers to Mitsu's recollection of a friend who painted his face red, shoved a cucumber up his anus, and hung himself. FTP, name this novel by Kenzoburo Oe.
+ANSWER: The Silent Cry [or Man'en Gannen no Futtoboru; accept Football in the First Year of Man'en or equivalents]
+ 
+9. On Riemannian manifolds, this operator gives a field equivalent to the musical isomorphism sharp of the function's differential. Fourier's Law gives the rate of heat transfer through a material as proportional to the negative result of this operator applied to a temperature field. The Jacobian of this operator is the Hessian, and the Jacobian is itself formed of transposes of this operator. The curl of the result of this operator is always zero, and it's divergence is equal to zero for harmonic functions and known as the Laplacian, which is sometimes symbolized by this operator squared. FTP, name this operator which points in the direction of steepest ascent for a scalar field and returns a vector consisting of a function's partial derivatives, generally symbolized with a nabla, a down-pointing triangle. 
+ANSWER: Gradient (prompt on "del" or "nabla") 
+ 
+10. A viral marketing website set up for this game tells of the first two tiers of Cave Johnson's R&D plan, namely the "Heimlich Counter-Maneuver" and the "Take-A-Wish Foundation," and also offers a job application that asks questions such as "What is your favorite color?" and "Which pre-Christian mathematician is not correctly matched to his home city?"  Based partially on Narbacular Drop, quotes such as "Android Hell is a real place where you will be sent at the first sign of defiance," "You, (subject name here), must be the pride of (subject hometown here)," and "I'm going to kill you, and all the cake is gone" are offered by GLaDOS, the game's malevolent A.I. Probably best known for its ending song, "Still Alive," and for the cryptic clue "the cake is a lie," this computer game was released as part of the Orange Box. FTP, name this Valve game that involves solving puzzles by using the namesake transportation device. 
+ANSWER: Portal 
+ 
+11. During this modern-day country's colonial rule, a tax was established on huts and guns due to an agreement between the native kabakas and commissioner Harry Johnston.   Carl Peters signed an agreement with Mwanga, a king of a tribe in this country, although it was invalidated when Mwanga signed a different agreement with F. D. Lugard.  Democratization began in the early twentieth century under Daudi Chwa, and his son, Mutesa II, known in the foreign press as "King Freddy," later became the first president. A boycott of the first elections by the so-called "King's Friends" led to an unnaturally high turnout of the Roman Catholic supporters of the Democratic Party, or DP, and the election of Benedikto Kiwanuka as Chief Minister. However, a coalition between the Kabaka Yekka and the UPC resulted in Milton Obote being named Prime Minister. FTP, name this country which Obote ruled until a 1971 coupe led by a former member of the King's African Rifles, Idi Amin. 
+ANSWER: Uganda 
+ 
+12. One chapter of this work notes that "He who attains his ideal, precisely thereby surpasses it" and "The great epochs of our life are at the points when we gain courage to rebaptize our badness as the best in us", while another analyzes the changing perception in the rank of philosophy and science. In addition to "Apophthegms and Interludes" and "We Scholars," other sections in this work include "The Free Spirit," "What is Noble?" and "Prejudices of Philosophy." This work ends with a song written by the author entitled "From the Heights" and begins with the famous quote "Supposing that Truth is a woman--what then?" Introducing the idea of master and slave-morality, which were further explored in its follow-up work On the Genealogy of Morals, this is, FTP, what work of Friedrich Nietzsche about transcending old ethical standards? 
+ANSWER: Beyond Good and Evil
+ 
+13. It has been observed that the toxin coronatine when secreted from certain species of bacteria impairs the operation of these structures, preventing their response to further pathogens. These structures activate by using a proton pump to expel hydrogen ions, creating an electrical potential which causes the uptake of potassium ions. This in turn results in the uptake of water into these cells, increasing their turgor pressure and causing them to separate from their neighbor. In CAM plants, these cells only activate at night to reduce water loss through transpiration. FTP, name these sclerenchyma cells present on plant leaves that also regulate carbon dioxide uptake by opening and closing the stomata that they flank. 
+ANSWER: Guard cells (accept stomata before "cell" is read) 
+ 
+14. Charles Louis got his land restored by it, and one nation was given three votes at the Council of Princes as a consequence of it.  It took into account the lack of legitimate children of John William, Duke of Juelich-Cleves-Berg by splitting his lands between Brandenburg and Neuburg.  The Spanish delegation led by Gaspar de Bracamonte recognized the sovereignty of the contingent led by Johann Rudolf Wettstein.  Fabio Chigi, a future pope, served as a mediator, while other delegates included Count Maximilian von Trautmansdorff, Henri II d'Orleans and Johan Oxenstierna.  Under its terms, France gained Alsace and parts of Strasbourg and Sweden gained Western Pomerania.  It provided for the end to the Edict of Restitution and a return to the terms of the Peace of Augsburg and the principle of "cuius regio, eius religio."  FTP, name this agreement that curtailed the power of Ferdinand III by giving equal rights in 1648 to Protestants and Catholics in the Holy Roman Empire, thus ending the Thirty Years' War. 
+ANSWER: Peace of Westphalia 
+ 
+15. Kenneth Lincoln posited a connection to the trinity in this poem's image of three missing glass knobs. Helen Vendler created an explanatory prose narrative version arguing that the speaker feels disgust for the title figure's presence at a female neighbor's wake. That neighbor "embroidered fantails once" on a sheet that the speaker "spread as to cover her face." However, that woman's "horny feet protrude," revealing "how cold she is, and dumb." The first stanza commands "let the boys / Bring flowers in last month's newspapers" and "let be be finale of seem." Beginning "Call the roller of big cigars,/ The muscular one, and bid him whip / in kitchen cups concupiscent curds," FTP, name this Wallace Stevens poem whose title refers to a ruler of a certain dessert.
+ANSWER: "The Emperor of Ice-Cream"
+ 
+16. In a painting about this group, a man in a golden helmet with exposed testicles and a man on a goofy-looking horse trample a red-clothed man while clashing swords, and one of the title figures is prostrate at the lower right. Another depiction of this group of people was not designed with a story, but a scenario for it was ordered by Francesco de Medici in order to display a statue in the Loggia dei Lanza. Thus, this group is now considered the subject of a statue where a male cowers between the legs of a second male, who is raising a protesting female. In addition to that Picasso painting and Giambologna sculpture, another painting of this group shows a yellow-clad woman holding up a baby while one of these people, dressed in white, separates two armies. FTP, name this mythological group whose "intervention" was shown by Jacques-Louis David in a painting taking place after their "rape."
+ANSWER: the Sabine Women [accept Rape/Abduction or Intervention of the Sabine Women at any point]
+ 
+17. When combined with chromic acid, this compound forms a substance that oxidizes secondary alcohols to ketones and primary alcohols to carboxylic acids, known as a Jones reagent. This compound is a catalyst for the nitration of benzene and is reacted with raw phosphate materials in the "wet method" of forming phosphoric acid.  Capable of dehydrating sucrose, it needs to be constantly stirred during dilution due to its very exothermic reactivity with water.  The most common way of producing it has oleum as an intermediary and uses a vanadium oxide catalyst in a process patented by Peregrine Phillips, the contact process. FTP, name this substance also known as oil of vitriol, a diprotic strong acid found in car batteries and acid rain that has molecular formula "H-2 S-O-4." 
+ANSWER: Sulfuric acid (accept H2SO4 or oil of vitriol before they are read) 
+ 
+18. This composer utilized the whip in several of his pieces, including a symphony that contains three movements taking their names from the Roman Catholic Mass for the Dead, his Sinfonia da Requiem, as well as a work that shares its name with a Schumann work, his Spring Symphony. On this Island, Ballad of Heroes, and Our Hunting Fathers are among this man's works that feature words by W. H. Auden. "Four Sea Interludes" are found in an opera inspired by "The Borough" by George Crabbe, this man's tale of the title fisherman, Peter Grimes. Better known is a piece set on a theme of Henry Purcell and a composition that juxtaposes traditional Latin texts with the poetry of Wilfred Owen. FTP, name this British composer of The Young Person's Guide to the Orchestra and War Requiem. 
+ANSWER: Benjamin Britten
+ 
+19. This man's father died at the Battle of Coronea after distinguishing himself in the Battle of Artemisium.  When he was wounded at Potidaea, his chum Socrates came to his aid.  Later, while this man was assisting Thrasybulus at Phocaea, Antiochus disobeyed his command to not attack, leading to the destruction of his fleet at Notium by Lysander and this man's subsequent self-imposed exile to Thrace.  He advocated prolonging the Peloponnesian War to Tissaphernes, a Persian satrap, and he argued against Nicias in favor of a war against Selinus in support of the Segestans.  However, he was recalled from the Sicilian Expedition to stand trial, but he escaped with his crew during the return voyage to Athens and instead joined the Spartan cause. FTP, name this Athenian general who switched allegiances a lot. 
+ANSWER: Alcibiades 
+ 
+20. This author termed Kafka, Broch, Musil, and Gombrowicz the "pleiad" of Central Europe's great novelists in an interview about his book The Art of the Novel. He wrote about five days in the life of the jazz trumpeter Klima in The Farewell Waltz and satirized romanticism in a novel about the poet Jaromil, Life is Elsewhere. Better known are a novel in which a postcard containing the phrase "Long Live Trotsky!" gets Ludvik Jahn in trouble with the Communist Party and a novel about the lives of Franz, Sabina, Tereza, and the surgeon Tomas in the wake of the Prague Spring. FTP, name this Czech author of The Joke, The Book of Laughter and Forgetting, and The Unbearable Lightness of Being.
+ANSWER: Milan Kundera
+ 
+21. A famous speech from this movie, delivered by the antagonist and written by actor who played him, offers $20,000 free of income tax to the protagonist for every "dot" he allows to stop, where the "dots" are humans seen from the top of a Ferris wheel. Beginning with the line "I never knew the old Vienna," the protagonist meets with Baron Kurtz and Dr. Winkel, but they turn out to be members of the antagonist's racket, involving the dilution of penicillin. The movie ends with Anna Schmidt and Holly Martins leaving the second funeral of Harry Lime, though this time he isn't faking his own death. Featuring a screenplay by Graham Greene and starring Joseph Cotton and Orson Welles, this is, FTP, what Carol Reed-directed film noir that takes its title from a person who may or may not have been present at Lime's first death? 
+ANSWER: The Third Man 
+ 
+22. A story about a rector who confuses the words husband and wife while performing a wedding is told to the patrons of the Rainbow by Mr. Macey in this novel. The protagonist's penknife is used to frame him for theft and force him to leave Lantern Yard, and later a vial containing black opium proves just as fateful, causing Molly Farren to collapse in the snow on her way to the Red Room. She had planned to interrupt the courtship of Nancy Lammeter by Godfrey Cass by shaming him with the daughter she bore to him. Instead, that child wanders into a nearby hut and is adopted by the title character under the name Eppie. FTP, name this novel about the village of Raveloe and its weaver, written by George Eliot.
+ANSWER: Silas Marner
+ 
+1. It shows several couples walking down a path to a ship surrounded by cherubs. FTPE: 
+[10] Name this 1717 Rococo painting depicting several people standing on a Greek island of love. 
+ANSWER: The Embarkation for Cythera (accept Pilgrimage to Cythera or other answers involving going to or from Cythera) 
+[10] The Embarkation for Cythera is the most famous work of this French artist of the late baroque period. Among his other works are The Italian Comedy and The French Comedy. 
+ANSWER: Jean-Antoine Watteau 
+[10] This Watteau work, also painted in 1717, shows several couples lounging on the grass near a line of trees during the title event.  Its right is dominated by a statue of a mother and child extremely similar to one appearing in a version of Pilgrimage to Cythera. 
+ANSWER: The Festival of Love 
+ 
+2. It involves placing the polarized target substance into wells in a matrix. A electromotive force is then applied to cause the molecules to move toward the electrode with opposite charge. FTPE: 
+[10] Name this technique generally used to separate DNA or RNA. 
+ANSWER: Gel electrophoresis 
+[10] This process that is used to check for a specific sequence in a DNA sample uses gel electrophoresis as the first step before transferring the separated strands to a filter membrane. Although it takes its name from the British scientist who discovered it, it inspired several similarly named processes. 
+ANSWER: Southern blotting 
+[10] Gel electrophoresis can also be used to separate proteins, but they must generally first be denatured with a detergent that gives them a uniform charge. This is the most commonly used solution for the purpose, abbreviated SDS. 
+ANSWER: Sodium dodecyl sulfate 
+ 
+3. Answer some questions about an important figure in Irish mythology, FTPE: 
+[10] Generally regarded as the chief god of the Irish pantheon, this father deity possessed a bottomless cauldron capable of feeding an army. 
+ANSWER: The Dagda (accept Eochaid Ollathair) 
+[10] Although Brigid, the daughter of Dagda, is associated with wisdom (along with warfare), this fish from Irish mythology is perhaps more widely known for being wise.  It ate nine hazel nuts from the Well of Wisdom before Finn McCool in turn ate some of its fat.
+ANSWER: Salmon of Knowledge (also accept Salmon of Wisdom)
+[10] While the Dagda and Brigid were both members of the Tuatha DŽ Danann, this husband of Brigid was half Fomorian. After becoming a king of the Tuatha De Danann, he forced them into slavery to his Fomorian kin. 
+ANSWER: Eochaid Bres 
+ 
+4. Answer some questions about a fundamental concept of economics, FTPE: 
+[10] These are effects of economic transactions on non-involved parties. Public goods are positive examples while pollution is a negative one. 
+ANSWER: Externalities 
+[10] This theorem argues that government intervention in unnecessary to remove externalities, as bargaining will always result in the most efficient outcome. 
+ANSWER: Coase Theorem 
+[10] Coase's theories were first stated as a theorem by this Nobel-winning author of The Intellectual and the Marketplace, in which he stated his namesake Law of Demand and Supply Elasticities. He also developed the economic theory of capture. 
+ANSWER: George Stigler 
+ 
+5. Identify these poems by Alfred, Lord Tennyson, FTPE:
+[10] The speaker hopes to be able to "see [his] Pilot face to face" after performing the title action, which is understood to be a metaphor for dying.
+ANSWER: "Crossing the Bar"
+[10] This poem asks "But who hath seen" the title figure "wave her hand? / Or at the casement seen her stand?", and inspired multiple works by the Pre-Raphaelite painter John William Waterhouse.
+ANSWER: "The Lady of Shalott"
+[10] In this poem, a soldier returns to the title location, and becomes angry at his unrequited love for his cousin Amy. It contains the line "In the Spring a young man's fancy lightly turns to thoughts of love." 
+ANSWER: "Locksley Hall"
+ 
+6. He is commonly considered the instigator of the period of Mexico's history known as La Reforma. FTPE: 
+[10] Name this man who served for two months as the third interim president of Mexico after the deposition of Santa Anna in 1855, though he might be better remembered for proclaiming the Plan de Ayutla. 
+ANSWER: Juan Alvarez Hurtado 
+[10] Alvarez passed the reform bill of Benito Juarez's, a man who would later become President of Mexico after this emperor backed by Napoleon III was deposed and killed.
+ANSWER: Emperor Maximilian I (also accept Ferdinand Maximilian Joseph) 
+[10] Alvarez's successor was this man, who was able to get support from the conservatives by proclaiming the Plan de Tacubbaya which pretty much nullified the Constitution in exchange for bringing adherents of the Ayulta Plan back into the church.
+ANSWER: Jose Ignacio Gregorio Comanfort de los Rios
+ 
+7. How can you go wrong with a song that starts "Women think I'm tasty"? FTPE: 
+[10] Name this song, whose chorus exhorts "Baby, I can't stay, you got to roll me / And call me the" title objects. 
+ANSWER: "Tumbling Dice" 
+[10] Tumbling Dice appears on the album Exile on Main Street, perhaps the best one recorded by this band.  They also put songs like "Sweet Virginia," "Loving Cup," and "Shine a Light" on the album.
+ANSWER: The Rolling Stones
+[10] Exile on Main Street also features this single, almost certainly Keith Richards's best vocal performance. He sings, "I need a love to keep me" in the title emotional state. 
+ANSWER: "Happy" 
+ 
+8. Identify some eponymous things related to black holes, FTPE: 
+[10] This hypothetical process is a way of extracting energy from the angular momentum of a rotating black hole by sending particles into the black hole's ergosphere in such a way to cause particles with greater mass-energy to escape. 
+ANSWER: Penrose process 
+[10] In theory, black holes should "give off" this kind of energy by absorbing only half of a spontaneously created particle-antiparticle pair, resulting in particles being emitted from the black hole from the perspective of an observer. 
+ANSWER: Bekenstein-Hawking radiation 
+[10] Penrose and Hawking collaborated on a set of theorems that predicted the existence of singularities by using this equation that explains the interaction of very nearby pieces of matter under general relativity to show that geodesics must converge into a caustic, forming a singularity. 
+ANSWER: Raychaudhuri equation 
+ 
+9. It centers around the title character's desire to die at the title location despite the machinations of Creon. FTPE:
+[10] Name this Sophocles play, chronologically the second of his three Theban plays.
+ANSWER: Oedipus at Colonus [or Oedipus Coloneus]
+[10] This daughter of Oedipus is abducted by Creon along with her sister Antigone in order to try to force Oedipus to return to Thebes. In the play Antigone, she's too much of a sissy to help her sister bury Polynices.
+ANSWER: Ismene
+[10] After Oedipus prophesizes that if he is buried in Attica it will bring good fortune to the land, this king of Athens grants him protection. He later confronts Creon and forces the return of Oedipus's daughters.
+ANSWER: Theseus
+ 
+10. Identify the following about a certain Native American tribe, FTPE. 
+[10] Taking over territory once held by the Apalachee and the Timucua, these offshoots of the Creek Indians fought three namesake wars against the United States, including one that attempted to prevent their relocation from a settlement near Lake Okeechobee.
+ANSWER: Seminoles
+[10] This leader of the Seminoles ambushed and killed Georgia representative Willy Thompson after he was released from custody at Fort King, and would later die in captivity after being taken prisoner at supposed peace talks.
+ANSWER: Osceola 
+[10] Captured at the same time as Osceola was this chieftain of the Alachua Seminoles, the leader of the tribe during the war. Although he was originally one of the war's instigators, he grew to believe it was futile and negotiated with the government. 
+ANSWER: Micanopy (also accept Sint-chakkee, Hulbutta Hajo) 
+ 
+11. Identify the following about the geography of Oceania, FTPE.
+[10] The capital of this island, home to a large Chamorro population, used to be known as Agana, but this US territory and largest of the Mariana Islands now has its seat at Hagatna.  
+ANSWER: Territory of Guam (also accept Guahan)
+[10] The Gilbert Islands comprise much of the territory of this republic, which has had control over 33 coral atolls ever since the Untied States ceded its claims to the island groups of Phoenix and Line.
+ANSWER: Republic of Kiribati
+[10] This island, part of Kiribati, gives its name to a fierce early US offensive battle in the Pacific Theater of World War II.  A particularly bloody engagement was fought at Betio southwest of the island in late November, 1943.
+ANSWER: Tarawa
+ 
+12. Published in five volumes from 1905 to 1906, it explores the title concept's place in common sense, society, religion, art, and science. FTPE: 
+[10] Name this philosophical work, probably best remembered for the aphorism "Those who cannot remember the past are doomed to repeat it." 
+ANSWER: The Life of Reason 
+[10] This Spanish-born American philosopher wrote The Life of Reason as well as The Realms of Being. 
+ANSWER: George Santayana (accept Jorge de Santayana) 
+[10] One of the title concepts in this 1923 Santayana work deals with beliefs that are "radically incapable of proof".  These beliefs are posited to be connected to the animal world, and include things like the belief "that things sought can be found, and things seen can be eaten".
+ANSWER: Skepticism and Animal Faith
+ 
+13. It describes the conflict between the title character and her self-centered stepmother Fay, whom she blames for the death of her father. FTPE:
+[10] Name this novel about Laurel's return to Mount Salus, Mississippi to bury Judge McKelva.
+ANSWER: The Optimist's Daughter
+[10] The Optimist's Daughter was written by this author, whose other works include Delta Wedding and "Why I Live at the P.O."
+ANSWER: Eudora Welty
+[10] This Welty short story concerns R. J. Bowman, who learns about the "fruitful marriage" of a country couple before the title event.
+ANSWER: "Death of a Traveling Salesman"
+ 
+14. It marked the end of the Plantagenet dynasty, as Richard III was killed during the fighting. FTPE: 
+[10] Name this battle that effectively ended the Wars of the Roses. 
+ANSWER Battle of Bosworth Field 
+[10] Richard's early success at Bosworth Field was undone when the forces of this previously loyal family entered the battle on Henry's side. 
+ANSWER: Stanley 
+[10] Following the Battle of Bosworth Field, Henry VII also had to deal with an invasion by forces loyal to Lambert Simnel, who was pretending to be "Edward VI".  Simnel's forces of German mercenaries and "half-naked Irish kerns" were put down at this June 16, 1487 battle near Newark.
+ANSWER: Battle of Stoke Field
+ 
+15. Identify some commonly used computer science algorithms, FTPE: 
+[10] Very useful for sorting information by relatively small integer values, this algorithm performs a bucket sort on each digit from most to least or least to most significant, depending on the particular version. 
+ANSWER: Radix sort 
+[10] The classic example of a greedy algorithm, this algorithm named for a Dutch scientist finds the shortest path for a graph by following the lowest cost path to an unvisited node from the current node. 
+ANSWER: Dijkstra's algorithm 
+[10] Named for the MIT Ph.D. student who developed it, this lossless compression scheme based on the principle of entropy encoding stores each symbol and its frequency of appearance in a binary tree. 
+ANSWER: Huffman coding 
+ 
+16. Answer some questions about Zoroastrianism, FTPE: 
+[10] Zoroaster referred to this central deity of his religion as the only uncreated creator. He is identified with asha, the true law of the universe. 
+ANSWER: Ahura Mazda (accept Ohrmazd; prompt on partial answer) 
+[10] This chief opponent of Ahura Mazda was responsible for creating everything evil in the world. He is the leader of the daevas. 
+ANSWER: Angra Mainyu (or Ahriman) 
+[10] In this extinct branch of Zoroastrianism, Ahura Mazda and Angra Mainyu were twin brothers who took their roles as pure good and pure evil by choice.  It is named after the Avestan word for time, which its practitioners viewed as the foundation of being. 
+ANSWER: Zurvanism 
+ 
+17. Construction began in 1882, but is not scheduled to finish until 2026, one hundred years after its architect's death. FTPE: 
+ [10] Name this Roman Catholic basilica in Barcelona, most notable for the eighteen spindly towers that will surmount it when it is finished. 
+ANSWER: Temple Expiatori de la Sagrada Familia (accept The Holy Family or The Sacred Family) 
+[10] La Sagrada Familia was designed by this Catalan architect who spent over forty years of his life on it. 
+ANSWER: Antoni Gaud’ 
+[10] Gaudi also designed this Barcelona residence sometimes known as La Pedrera, or "The Quarry." It is known for its flowing curves and its white limestone exterior. 
+ANSWER: Casa Milˆ (accept Milˆ House)
+ 
+18. He starts to lose it when he begins to vilify Argentinians and kill off his central characters in increasingly cataclysmic events. FTPE:
+[10] Name this fictional Bolivian writer whose screenplays form the even chapters of a namesake novel, which ends with him being committed to an insane asylum.
+ANSWER: Pedro Comacho [accept either; prompt on "the scriptwriter"]
+[10] Pedro Comacho appears in this Peruvian author's Aunt Julia and the Scriptwriter. His other works include Who Killed Palomino Molero? and The Time of the Hero.
+ANSWER: Jorge Mario Pedro Vargas Llosa
+[10] In this novel by Vargas Llosa, Antonio Conselheiro, a millennial mystic known as the Counselor, leads a rebellion in Bahia in 1897.
+ANSWER: The War of the End of the World
+ 
+19. It is potentially the world's first historical document, named for a pharaoh who takes his name from the glyphs of chisel and foot. FTPE.
+[10] Name this palette, discovered at Nekhen, which shows a pharaoh wearing both the Red and White crowns, symbolizing the unification of both Upper and Lower Egypt.
+ANSWER: Narmer Palette (do not accept any other answers)
+[10] Narmer, Aha and Scorpion are potentially other names for this semi-mythical pharaoh, the traditional uniter of Upper and Lower Egypt and founder of the city of Memphis.
+ANSWER: Menes (also accept Mena or Meni or Min)
+[10] Nekhen, where the Narmer Palette was discovered, was located south of this other, much later capital of Upper Egypt which famously contains the temple complex of Karnak and shares its name with a Greek city known for its Sacred Band.
+ANSWER: Thebes (also accept Waset)
+ 
+20. This organ is located in the neck and an iodine deficiency notably leads to a swelling in it, causing goiter. FTPE: 
+[10] Name this endocrine gland, the largest such gland in the body. 
+ANSWER: Thyroid 
+[10] The thyroid is responsible for producing this hormone that opposes the actions of parathyroid hormone. 
+ANSWER: Calcitonin 
+[10] In addition to calcitonin, the thyroid produces thyroxine and this hormone, which most thyroxin is converted into by peripheral organs due to its greater activity. 
+ANSWER: Triiodothyronine or T4
+ 
+ 
+
